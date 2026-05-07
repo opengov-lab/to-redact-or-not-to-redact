@@ -1,0 +1,729 @@
+row,sentence,y_true,agent1_pred,agent1_step1,agent1_step2,agent2_assessment,agent2_issues,agent2_suggestion,agent3_pred,agent3_rationale,y_pred
+0,"Issue Given opposition to the provision in the President's budget to intercept gambling winnings from parents who owe child support, should we: (1) Officially amend the proposal to make it a small scale demonstration, with voluntary participation on the part of gambling establishments, submitting a budget amendment with substitute pay-fors; or (2) Agree to not push the proposal.",0,1.0,,,,,,,,1.0
+1,Background on the Proposal The responsible fatherhood initiative in the President's budget includes new measures to:     1) collect child support from parents who can afford to pay;,0,0.0,,,,,,,,0.0
+2,2) ensure that more child support goes directly to families; and,0,0.0,,,,,,,,0.0
+3,"3) provide funds to help more ""deadbroke"" fathers who owe child support go to work.",0,0.0,,,,,,,,0.0
+4,"The package of child support collection initiatives includes intercepting gambling winnings from parents who owe support, which will collect about $350 million for families and raise nearly $190 million in federal revenues over five years.",0,0.0,,,,,,,,0.0
+5,Gaming establishments currently must report to the IRS certain gambling winnings,0,0.0,,,,,,,,0.0
+6,"under this proposal, they would also check to see if these individuals owe child support, and if so, retain winnings for the gamblers' children",0,0.0,,,,,,,,0.0
+7,"1 Under current law, tribal and nontribal gambling establishments must complete and send to the IRS form W2G, reporting the name, social security number and amount of winnings for patrons with keno winnings above $1,500, bingo and slot machine winnings above $1,200, and winnings above $600 when the winnings are at least 300 times the amount of the wager.",0,0.0,,,,,,,,0.0
+8,"2 For all gambling winners exceeding the thresholds listed above, the gambling establishment would transmit the individual's name, social security number and amount of winnings via computer to a secure internet site where it would be matched against information on parents who owe at least $500 in child support.",0,0.0,,,,,,,,0.0
+9,The match inquiry would report back: 1) there is no match and the individual does not owe past due child support;,0,0.0,,,,,,,,0.0
+10,"2) the individual owes past due child support which exceeds the amount of the individual's winnings, therefore, the entire amount of winnings should be retained;",0,0.0,,,,,,,,0.0
+11,"or 3) the individual owes child support but the amount does not exceed the amount of winnings; therefore, only the amount of child support owed should be retained.",0,0.0,,,,,,,,0.0
+12,Reaction to the Proposal Opposition to.,0,0.0,,,,,,,,0.0
+13,the child support gambling proposal has come from several sources.,0,0.0,,,,,,,,0.0
+14,"Trtbal organizations have numerous concerns, including  that the proposal  was  made without consultation, violates their sovereignty by requiring them to enforce federal and state laws, and requires their gambling establishments to dedicate  staff time  and  other resources  to  collecting child support.",0,0.0,,,,,,,,0.0
+15,"The National Indian Gaming Commission, the federal agency  with  oversight  of tribal gaming, opposes the proposal.",0,0.0,,,,,,,,0.0
+16,"Democratic members of Congress, in particular Rep. Shelley Berkley (D-NV), have also called for us to abandon the proposal because of the burden it would  impose on the industry.",0,0.0,,,,,,,,0.0
+17,Child support legislation is likely to move through the Ways and Means Committee this Spring.,0,0.0,,,,,,,,0.0
+18,Human Resources Subcommittee  staff are planning  a hearing in late March  and  a markÂ­ up in April.,0,1.0,,,,,,,,1.0
+19,"There is bipartisan consensus on the need to simplify the current child support  distribution rules, to ensure more child support goes directly to families, and the committee will need child support collection proposals to help offset the costs.",0,0.0,,,,,,,,0.0
+20,"Currently, the committee staff have the gambling proposal, as well our other child support budget proposals, on their proposed list, which is not yet public.",0,1.0,,,,,,,,1.0
+21,"However, Democratic staff think that because CBO has scored the gambling provision as raising only $36 miilion (compared to our nearly $190 millionscore), that  they will drop the gambling proposal if they receive protests.",0,1.0,,,,,,,,1.0
+22,"Pay-for Options Â· If we submit a budget amendment officially changing our proposal in a way that lowers the savings, OMB believes we should propose substitute pay-fors.",1,1.0,,,,,,,,1.0
+23,Several child support options are currently being examined;,1,1.0,,,,,,,,1.0
+24,early estimates show they likely will raise only about $50 million of the cost.,1,0.0,,,,,,,,0.0
+25,"The remaining costs could be made up by proposing a pay-for that HHS vigorously protested during the development of the budget, which would moderately reduce the amount of performance-based child support funds made available to states at the same time we make other changes that are advantageous to states.",1,1.0,,,,,,,,1.0
+26,"If they really want to go ahead with this meeting, I would think we should talk about the tribal and nontribal parts of this proposal at the same time, which would lead me to think Leg Affairs should be invited.",1,1.0,,,,,,,,1.0
+27,Should we suggest?,1,1.0,,,,,,,,1.0
+28,"John will have a deadbeat dads/indian gaming meeting on Thursday, March 9th at 11:00am.",0,0.0,,,,,,,,0.0
+29,The meeting will be in John's office.,0,0.0,,,,,,,,0.0
+30,Please call me with any questions/problems.,0,0.0,,,,,,,,0.0
+31,Manifest is:,0,0.0,,,,,,,,0.0
+32,"John will have a deadbeat dads/indian gaming meeting on Thursday, March 9th at 11:00am.",0,0.0,,,,,,,,0.0
+33,The meeting will be in John's office.,0,0.0,,,,,,,,0.0
+34,Please call me with any questions/problems.,0,0.0,,,,,,,,0.0
+35,Manifest is:,0,0.0,,,,,,,,0.0
+36,Maria -- you asked where we were in setting up an internal meeting to discuss next steps on child support and gaming.,0,1.0,,,,,,,,1.0
+37,"As I have discussed with Lynn, Broderick, and Barbara, we are prepared to scale this proposal back to a demonstration, with voluntary participation on the part of a select number of gaming establishments.",1,1.0,,,,,,,,1.0
+38,"Thus, our legislative proposal would be to test this  idea, and we would seek gaming  establishments willing to participate voluntarily.",1,1.0,,,,,,,,1.0
+39,This should satisfy all concerns. .,1,0.0,,,,,,,,0.0
+40,"Since changing our proposal will result in losing budget revenue, we need substitute pay-fors.",1,1.0,,,,,,,,1.0
+41,OMB folks have been working diligently on this effort (we've been helping where we can).,1,1.0,,,,,,,,1.0
+42,"As you know, uncontroversial pay-fors are h_ard to find, but we have several good things inÂ·development.",1,1.0,,,,,,,,1.0
+43,"Once we've crossed this hurdle, we should be ready to go.",1,1.0,,,,,,,,1.0
+44,"I think we all agree that we all have an interest in making sure this doesn't get out prematurely, because we a) don't want to get hopes up too early given the complications of the budget pay-for issues and",1,1.0,,,,,,,,1.0
+45,b) we want to have a coordinated roll-out to make sure all our friends get alerted properly and can take proper credit.,1,1.0,,,,,,,,1.0
+46,"Thus, we tried to the extent possible to make our meeting today with the National Indian Gaming Association into a listening session.",1,1.0,,,,,,,,1.0
+47,They raised many good points.,1,0.0,,,,,,,,0.0
+48,"I was planning that we could all meet again once we had vetted budget pay-fors, but I am happy to meet earlier  if others so desire.",0,1.0,,,,,,,,1.0
+49,"I believe we should stick to the same plan we worked out before -- we start off by saying we understand there are problems with our original proposal, and we'd like to hear from them about their concerns, and proceed to have mainly a listening session.",0,1.0,,,,,,,,1.0
+50,Lynn has forwarded to us a copy of NIGA's recent resolution on the subject.,0,0.0,,,,,,,,0.0
+51,Barbara I'll fax you a copy.,0,0.0,,,,,,,,0.0
+52,Eric -- some additional information from IRS's gambling industry experts.,0,1.0,,,,,,,,1.0
+53,Hope this is helpful.,0,0.0,,,,,,,,0.0
+54,Please confirm receipt.,0,0.0,,,,,,,,0.0
+55,Thanks.,0,0.0,,,,,,,,0.0
+56,-- Liz ',0,0.0,,,,,,,,0.0
+57,"Good moring sorry I missed you  last week as I was on the road, and came home to quite a mess.",0,0.0,,,,,,,,0.0
+58,In certain circumstances District Directors have authorized the internal control environment.,0,0.0,,,,,,,,0.0
+59,"This has been approved because slot machines in denominations of $25 dollars and above ""lock-up"" at every win under the $1200 rule:",0,0.0,,,,,,,,0.0
+60,"Under the aggregation permission, the IRS gets one report which reflects the total of all reportable transactions  audit  trails are  in place to ensure compliance.",0,0.0,,,,,,,,0.0
+61,"This eases taxpayer burden, I would be happy to brief your office as to the details.",0,0.0,,,,,,,,0.0
+62,"2:    W-2G's as they apply to Keno, Bingo and slots have been required since the mid?",0,0.0,,,,,,,,0.0
+63,The dollar thresholds as they apply to these games  were written  at  a time when a $1200 dollar  jackpot was relatively  uncommon,0,0.0,,,,,,,,0.0
+64,Things have changed.,0,0.0,,,,,,,,0.0
+65,As you may recall laat year we began a study on raising the threshold to $500.0 and eliminate 85% of W-2G filings: Taxpayers argued that winners just itemized the losses against the wins and the Treasury was not really getting any revenue.,0,0.0,,,,,,,,0.0
+66,Early results indicated that this would be to costly.,0,0.0,,,,,,,,0.0
+67,We are currently working to find a revenue  neutral number.,0,1.0,,,,,,,,1.0
+68,"Indian gaming offers some.unique challenges due to the sovereignty issue: that being said, Indian casinos have the same requirements as commercial casinos.",0,0.0,,,,,,,,0.0
+69,For the most part the Indian casinos are in compliance.,0,0.0,,,,,,,,0.0
+70,"In rare circumstances where they refuse to permit an audit, we cannot attest to any compliance in any area.",0,0.0,,,,,,,,0.0
+71,"""E/GE will soon be responsible for this issue.",0,0.0,,,,,,,,0.0
+72,To assist them we have develpped an Indian Gaming text and outreach publication.,0,0.0,,,,,,,,0.0
+73,"Backup withholding from reportable gaming transactions is, a difficult number as all backup witholding is lumped together.",0,0.0,,,,,,,,0.0
+74,We could attempt to study this issue shhuld you require a better number.,0,1.0,,,,,,,,1.0
+75,"That being said, if people stood to lose all their winnings, to child support or just 31% if they refused identification;",0,0.0,,,,,,,,0.0
+76,I think it would be fair to say backup withholding would increase.,0,0.0,,,,,,,,0.0
+77,"The children however, would not get the  money the treasury would.",0,0.0,,,,,,,,0.0
+78,I have some questions that I'm sure you can answer.,0,0.0,,,,,,,,0.0
+79,Please give  me a call 202-622-5563,0,0.0,,,,,,,,0.0
+80,Are there any situations where a casino does not stop operations to secure a W-2G?,0,0.0,,,,,,,,0.0
+81,"I.e., do they continue operations if a card holder  exceeds the $1200.00 dollar limit because they have the individuals TIN?",0,0.0,,,,,,,,0.0
+82,How long has the W-2G filing requirement been in place?,0,0.0,,,,,,,,0.0
+83,Do we have any idea how often a casino has to backup withhold because the winner fails to provide a TIN #?,0,0.0,,,,,,,,0.0
+84,The student loan offset was enacted in the 2000 appropriations a t.,0,0.0,,,,,,,,0.0
+85,"We have another idea about using NDNH for other kinds of Federal debt collection, implemented through Treasury/FMS.",1,1.0,,,,,,,,1.0
+86,"It came up late in the budget process, so we didn't have time to develop it for the 01 budget, ie we don't have a savings estimate.",1,0.0,,,,,,,,0.0
+87,"We're getting that process going again with our Treasury branch colleagues now, too.",1,1.0,,,,,,,,1.0
+88,Did we use all of the student loan offset to pay for SDUs last year?,0,0.0,,,,,,,,0.0
+89,"If not, that may be a possibility",0,1.0,,,,,,,,1.0
+90,Barbara  Chow spoke  to Jack  about child support and  gambling.,1,0.0,,,,,,,,0.0
+91,His first reaction  was  'do we really need to drop this?',1,1.0,,,,,,,,1.0
+92,but once he got beyond  that his only  issue is that he insists  we need to have another  pay-for to make up the savings.,1,1.0,,,,,,,,1.0
+93,OMB  will work on this with our help.,1,1.0,,,,,,,,1.0
+94,"I impressed  upon Barbara  the need to move quickly, to give it less time to leak out and 'to allow us to put it out sufficiently in advance of the President's trip.",1,1.0,,,,,,,,1.0
+95,"Barbara thought one way we could pitch the voluntary option.is to talk about it as a pilot, saying we've realized there are some implementation questions and we want to test how it would work before we go national.",1,1.0,,,,,,,,1.0
+96,"Participation in the pilot would of course be voluntary, and we might throw in some financial incentives to cover paperwork and computer costs for those who participate.",1,1.0,,,,,,,,1.0
+97,I think this makes some sense.,1,1.0,,,,,,,,1.0
+98,There's a commission relating to child support medical support issues (e.g. doing more to ensure the father's health plan covers the child as part of the child support order) that has just reported to HHS.,1,0.0,,,,,,,,0.0
+99,HHS is apparently reviewing the recommendations,1,0.0,,,,,,,,0.0
+100,"I don't really know what's in them, but there may be some savings associated with some of them (perhaps reduced Medicaid costs by ensuring kids get on their father's private insurance) that we could use to replace the gambling savings.",1,1.0,,,,,,,,1.0
+101,"In general I think these recommendations could have potential, and I told Olivia several weeks ago I'd like  them to move quickly in their review and to come over and give us  a briefing.",1,1.0,,,,,,,,1.0
+102,Barbara Pryor says Sen. Rockefeller would like to introduce a bill shortly (I think he and Sen Snowe were responsible for the legislation creating the commission).,0,0.0,,,,,,,,0.0
+103,"We need to accelerate work on the independent contractor option, which Barbara thinks would pick up about half the savings needed.",1,1.0,,,,,,,,1.0
+104,"She will get Smalligan and Ahern working on this, but you guys should work closely with them.",1,1.0,,,,,,,,1.0
+105,"As I recall, we've asked Treasury for some information, but have not yet reached out to DOL and SBA?",1,1.0,,,,,,,,1.0
+106,"And, though it is more OMB's responsibility than ours, we should try to think of any other possible pay-fors in our area (defined broadly).",1,1.0,,,,,,,,1.0
+107,One possibly promising area are the recommendations on child support medical support made by the commission to HHS,1,0.0,,,,,,,,0.0
+108,perhaps one of those have some savings (perhaps reduced Medicaid costs by ensuring kids get on their father's private insurance) that we could use to replace the gambling savings.,1,1.0,,,,,,,,1.0
+109,Eric -- I know you got an (unofficial?) update from Legler on this can you fill the rest of us in?,1,1.0,,,,,,,,1.0
+110,And we should also think more broadly than child support.,1,1.0,,,,,,,,1.0
+111,Genie -- can you check to see if any of the bills introduced so far in Congress that have been referred to Ways and Means or Finance had any little pay-fors that weren't horrendous?,1,1.0,,,,,,,,1.0
+112,Can anyone think of anything else?,1,1.0,,,,,,,,1.0
+113,We're hoping to be able to seriously restructure our proposal to satisfy both tribal and non-tribal concerns.,1,1.0,,,,,,,,1.0
+114,Barbara Chow is talking to Jack and Sylvia about how to handle the budget implications.,1,1.0,,,,,,,,1.0
+115,"If we revise our plan, we want to make sure our friends get credit, so we need to keep this under wraps until we're ready to roll it out.",1,1.0,,,,,,,,1.0
+116,We're going to go ahead and have the already-scheduled meeting With tribal gaming folks on Tuesday and tell them we recognize our current proposal won't work and seek their advice.,1,1.0,,,,,,,,1.0
+117,Cynthia--I know you've had a couple of meetings on this issue including one recently with doj,1,0.0,,,,,,,,0.0
+118,"Can you send me an email detailing the, issues as you see them and your plans for how  we're  going to resolve some of the outstanding issues, not limited to the Indian sovereignty but also how we're going to get the industry to cooperate?",1,1.0,,,,,,,,1.0
+119,"â€¢ I've looked into the option of having gaming establishments collect and report to the federal child support database tie gambling winner's name, social security number, home address and possibly his employer's name and address.",1,0.0,,,,,,,,0.0
+120,"In my view, the option would do little.to collect child support and we would still need to exempt tribes (lest we renege on our long standing support for tribal sovereignity).",1,1.0,,,,,,,,1.0
+121,"The only advantage would be that it gives us a quasi-face-saving way to minimize opposition without abandoning our proposal altogether, which may be the best we can hope for at this point.",1,1.0,,,,,,,,1.0
+122,Please advise on how I should proceed.,1,1.0,,,,,,,,1.0
+123,We need to resolve this by Monday (before a scheduled meeting with tribes on Tuesday) and OMB may need to come up with another pay-for.,1,1.0,,,,,,,,1.0
+124,"Should I begin selling .this reporting only option, with a tribal exemption, to 0MB,HHS, Leg Affairs, etc.?",1,1.0,,,,,,,,1.0
+125,Keep in mind Lynn Cutler specifically requested a meeting where she and others would be at the table to weigh in (but she should like this option).,1,1.0,,,,,,,,1.0
+126,"See below for more on the pros and cons of this option, and see the attached document for the wide range of unsavory options available to us..",1,1.0,,,,,,,,1.0
+127,Require only reporting from tribes and nontribal gaming establishments,0,0.0,,,,,,,,0.0
+128,"Pros: Likely to generate less opposition from gambling establishments, because it would require them only to report winnings, not collect child support.",1,1.0,,,,,,,,1.0
+129,Allows us to minimize opposition without abandoning the proposal altogether .,1,1.0,,,,,,,,1.0
+130,"Cons: Unlikely to generate information the child support.office doesn't already have, and thus is unlikely to result in more child support collections or federal revenues.",1,0.0,,,,,,,,0.0
+131,"For examnple, the child support office will already have access to the home address on the individual's drivers license, and in this process will only get a more up-to-date address if the individual volunteers it to the gambling establishment",1,0.0,,,,,,,,0.0
+132,"lf employer's name and address are also collected, this will require gambling establishments to collect more information than they generally do for the W2G and will increase opposition tb the proposal.",1,0.0,,,,,,,,0.0
+133,"ln addition, this impinges on tribal sovereignty by having the federal government impose a requirement on tribes",1,0.0,,,,,,,,0.0
+134,"(the proposal builds on current law, requiring tribes to report and in some cases withhold funds for federal income taxes, which also impinges on tribal sovereignty.)",1,0.0,,,,,,,,0.0
+135,"We could therefore exempt tribes from this reporting requirement, generating more concerns from nontribal establishments.",1,1.0,,,,,,,,1.0
+136,"Following up from our meeting on Child Support last Tuesday; we plan to meet with NIGA (the nongovernmental group)  on Tues, 2/15 at 2 pm in 472  in OEOB.",0,1.0,,,,,,,,1.0
+137,Attendees from HHS and Treasury should send me your DOB and SSN..,0,0.0,,,,,,,,0.0
+138,I am really sorry I missed the meeting this afternoon.,0,0.0,,,,,,,,0.0
+139,I got completely  swamped  with some other  work.,0,0.0,,,,,,,,0.0
+140,will try to catch up with one of you tomorrow afternoon to hear how things went.,0,1.0,,,,,,,,1.0
+141,"Here are the numbers you asked for: Although, please let me know before you intend to use these in any public documents.",1,0.0,,,,,,,,0.0
+142,"We try not to lay out all of the underlying assumptions in our estimates since, needless to say, developing these estimates is not an exact science.",1,1.0,,,,,,,,1.0
+143,"I would want to be careful about how they are used, particularly in light of some of the new information we got from Treasury.",1,1.0,,,,,,,,1.0
+144,"The first year is an anomaly, since we assume an implementation lag.",0,0.0,,,,,,,,0.0
+145,"In the second through fifth years, we assume 54,000, 52,000, 49,000, and 46,000 intercepts.",0,0.0,,,,,,,,0.0
+146,â€¢ Michelle - how many people did HHS estimate they would capture a year (over five years) who would actually have their gambling winnings interepted because they owed child support? ',0,0.0,,,,,,,,0.0
+147,"I previously provided some or all of this information orally {by voicemail), but I neglected to  forward this email.",0,0.0,,,,,,,,0.0
+148,"If  Cynthia needs more information, just let me know.",0,0.0,,,,,,,,0.0
+149,"Otherwise, I think I've closed the DoC loop.",0,1.0,,,,,,,,1.0
+150,I spoke with Monica.,0,0.0,,,,,,,,0.0
+151,"This statute, and another relating to deep sea  mining which was not covered in the  White House memo, are ahead of  their  time as the benefits of working in and around the deep sea vents are not  yet  known  and the  costs are substantial.",0,0.0,,,,,,,,0.0
+152,Monica tells me t_hat  these licenses can theoretic ally be given to individuals but the investment to carry out the work is so great that licenses will almost always be sought by companies and institutions.,0,0.0,,,,,,,,0.0
+153,Kit and Jim - I am re-sending the message that Craig sent out last week.,0,0.0,,,,,,,,0.0
+154,Apparently you  did not  receive it.,0,0.0,,,,,,,,0.0
+155,I hope this answers the mail.,0,0.0,,,,,,,,0.0
+156,Sorry for  the confusion.,0,0.0,,,,,,,,0.0
+157,Monica,0,0.0,,,,,,,,0.0
+158,Kit - to close the loop re child support matter.,0,0.0,,,,,,,,0.0
+159,"Of the licenses noted, NoAA only issues those re Ocean Thermal Energy Conversion (42 USC 9111).",0,0.0,,,,,,,,0.0
+160,"We have never issued such a license, however.",0,0.0,,,,,,,,0.0
+161,"With regard to the other statutes: 43 (actually46) use 7101, 46 use 7103, 46 use 7104, 46 use 7112, 46 USC 7316, 46 USC 7317 and 46 USC ap1718, all of these statutes are administered by the US Coast Guard (actually, the Secretary of the department with the Coast Guard in it,  i.e. the DApartment  of Transportation).",0,0.0,,,,,,,,0.0
+162,This should finalize NOAA's input into this project.,0,0.0,,,,,,,,0.0
+163,"On another note, could you please have some advise us on what criterion your office uses for promotion of attorney from GS 14 to 15.",0,0.0,,,,,,,,0.0
+164,thanks.,0,0.0,,,,,,,,0.0
+165,Craig,0,0.0,,,,,,,,0.0
+166,Federal Agency Welfare Hiring Update,0,0.0,,,,,,,,0.0
+167,"Attached are not-yet-released numbers from OPM showing that federal agencies have hired 2,834 welfare recipients since the President's March 8th, 1997 executive order and the April 10th Cabinet meeting  where agencies  made hiring commitments.",0,0.0,,,,,,,,0.0
+168,"We are planning to have an event in March or April to commemorate the one year anniversary of this initiative and to publicly share our progress toward the goal of hiring 10,000 welfare recipients by the year 2000.",0,0.0,,,,,,,,0.0
+169,The event may focus on federal agencies' efforts to encourage contrators to hire from the welfare rolls.,0,0.0,,,,,,,,0.0
+170,"Key contacts: myself or Susan Valaskovic, National Performance Review, 632-0354.",0,0.0,,,,,,,,0.0
+171,Child Support Enforcement Request,0,0.0,,,,,,,,0.0
+172,"Currently, we require states to deny drivers and professional licenses to parents who owe child support, but we allow such parents to obtain federal licenses.",0,0.0,,,,,,,,0.0
+173,We are considering talkng action to remedy this situation.,1,1.0,,,,,,,,1.0
+174,Will you please respond to the following questions by Friday February 17,0,0.0,,,,,,,,0.0
+175,"In your February 17, l 998 memorandum you discussed child support enforcement.",0,0.0,,,,,,,,0.0
+176,You pointed out that states are required to deny drivers and professional licenses to parents who owe child support and that the Administratton is considering taking action to deny federal licenses to such parents.,0,0.0,,,,,,,,0.0
+177,You provided a preliminary list of federal licenses and asked EPA to identify any that are missing from the list and to answer several questions about those licenses.,0,0.0,,,,,,,,0.0
+178,The information you requested is attached.,0,0.0,,,,,,,,0.0
+179,"As you can see from the attachment, very few of the ""licenses"" granted by EPA go to individuals, as opposed to business entities.",0,0.0,,,,,,,,0.0
+180,Accordingly we believe that few benefits and potentially significant costs could result from any effort to amend the various environmental licensing programs to include child support enforcement provisions.,1,1.0,,,,,,,,1.0
+181,"For purposes of this exercise considered the term ""license"" broadly to include licenses, permits, certification accreditations, and approvals that allow persons  to  undertake  activities within EPA's jurisdiction.",0,0.0,,,,,,,,0.0
+182,"The following is a list of licenses, permits, certifications,  accreditations and approvals issue (hereinafter licenses) by EPA",0,0.0,,,,,,,,0.0
+183,In many cases the licenses are available both to individuals (mcluding those acting in a business capacity as a sole proprietor) to  ness entities such as partnerships and corporations.,0,0.0,,,,,,,,0.0
+184,"It is probable that most of them are held by businesses rather than individuals, but we have included any license that might be granted to an individual",0,0.0,,,,,,,,0.0
+185,(including those acting in an individual business capacity or as an employee required to have a specific  to do his or her job).,0,0.0,,,,,,,,0.0
+186,"You should also note that the authority to issue most of these licenses can be, and in most cases is, delegated to states (and in some cases tribes) under EPAs various statutes.",0,0.0,,,,,,,,0.0
+187,If a state or tribe has been d egated or authorized to issue the license EPA generally does not perform that function for that jurisdiction.,0,0.0,,,,,,,,0.0
+188,"Where the state or tribe is not delegated or authorized to perform this function, EPA would perform the function.",0,0.0,,,,,,,,0.0
+189,"Thus, to be complete, any approach to child support enforcement in this area would have to deny these types of licenses whether they are issued by EPA, by the states, or by tribes..",0,0.0,,,,,,,,0.0
+190,"We do not have readily available information that would allow us to determine how many individual as opposed to business entities, have each of these kinds of licenses, but we  try to indicate below relative proportions of individuals as opposed to business entities receiving each kind of license.",0,0.0,,,,,,,,0.0
+191,"As you will see, we believe that only a few individuals receive these kinds of licenses from EPA, or from states and tnbes under EPA-delegated or authorized programs.",0,0.0,,,,,,,,0.0
+192,"Thus, there would not be much benefit from attempting to deny these kinds of licenses for people who have not paid child support, and dojng so may add considerable burden and complexity to federal, state, and tribal administration of these programs.",1,1.0,,,,,,,,1.0
+193,"Finally we do not believe we would have the authority under current law to be able to deny these licenses to individuals because they owe child support, accordingly ""legislation would Be neededâ€",1,1.0,,,,,,,,1.0
+194,"Given the low potential payoff from using environmental licensing as a tool for child support enforcement, we are concerned that such legislation might become a vehicle for other, unwarranted changes in the environmental laws.",1,1.0,,,,,,,,1.0
+195,The EPA contact with whom you should coordinate as you develop possible policy on this issue is Mark Badalamente at (202)260-4724.,0,0.0,,,,,,,,0.0
+196,Please find below the first installment from the Department of Commerce on this issue.,0,0.0,,,,,,,,0.0
+197,"(It's in the form of a memo from Kit Lunney, Deputy General Counsel here, to me.)",0,1.0,,,,,,,,1.0
+198,"As I advised you in my telephone message, more is due from NOAA early next week.",0,0.0,,,,,,,,0.0
+199,I appreciate  your patience; please feel free to  call me with any questions or comments on the information.,0,0.0,,,,,,,,0.0
+200,"If you need it in a more formal format, I can arrange that, too.",0,0.0,,,,,,,,0.0
+201,"Per your request, I have canvassed OGC to obtain ahswers to the questions raised in the Child Support Enforcement inquiry from the White House.",0,0.0,,,,,,,,0.0
+202,"I provided copies of the memo to those agencies that on the face  of  the statutes noted appeared to  be  responsible  for  administering  them, specifically ITA, NOAA, PTO and BXA.",0,0.0,,,,,,,,0.0
+203,"Their answers are detailed below, also posed the  questions  raised at  a Senior  Staff  meeting this  week to  see if any other Commerce bureaus had licenses of the type discussed.",0,1.0,,,,,,,,1.0
+204,The answer from around the table was no.,0,0.0,,,,,,,,0.0
+205,"In addition, I spoke to my Assistant General Counsels and members of their staff  to  see if  they  were aware of any additional licenses of this type and again the answer was no..",0,0.0,,,,,,,,0.0
+206,Questions Presented and Answered:,0,0.0,,,,,,,,0.0
+207,1. How many people currently have these licenses?,0,0.0,,,,,,,,0.0
+208,The Department of Commerce does not currently issue licenses or certificates for foreign traveling salesmen.,0,0.0,,,,,,,,0.0
+209,No person currently holds such a license or certificate.,0,0.0,,,,,,,,0.0
+210,"2. Would we, through regulation, be able to deny these licenses to people who owe child support, or would a legislative change be required?",0,1.0,,,,,,,,1.0
+211,"The Department of Commerce cannot deny a license through regulation, which it currently does not issue.",0,0.0,,,,,,,,0.0
+212,3. Who is the agency contact with whom we should coordinate as we develop possible policy on this issue?,0,1.0,,,,,,,,1.0
+213,No agency contact is available because the Department of Commerce does not issue such licenses or certificates ..,0,0.0,,,,,,,,0.0
+214,Background: The purpose of 22 USC 6503 was to enforce the provisions of certain conventions entered into with foreign governments that permit commercial travelers (foreign traveling salesmen) of Contracting Parties to operate in the United States.,0,0.0,,,,,,,,0.0
+215,"Enacted in 1922, this Act authorized the Department of Commerce to 1) issue licenses to manufacturers, merchants and traders domiciled in the other Contracting Party to operate as commercial travelers in the United States, and",0,0.0,,,,,,,,0.0
+216,"2) issue certificates  attesting  that  a manufacturer, merchant or trader domiciled in the United States was a commercial traveler.",0,0.0,,,,,,,,0.0
+217,"This Act has apparently not  been enforced in the last twenty years, if ever.",0,0.0,,,,,,,,0.0
+218,A search of the Federal Register back to 1980 indicates that no regulations have been passed to implement this licensing and certification process.,0,0.0,,,,,,,,0.0
+219,The Department of Commerce currently does not issue licenses or certificates for foreign traveling salesmen (commercial travelers).,0,0.0,,,,,,,,0.0
+220,The State Department was contacted to determine if they administer a similar process.,0,0.0,,,,,,,,0.0
+221,The State Department does not issue licenses or certificates for foreign traveling salesmen (commercial travelers).,0,0.0,,,,,,,,0.0
+222,b) How many people currently have these licenses?,0,0.0,,,,,,,,0.0
+223,"The PTO issues over 100,000 patents per year.",0,0.0,,,,,,,,0.0
+224,"Most patent applications are owned by legal entities, such as corporations and universities, to whom the inventor has assigned his or her rights (usually in accordance with an employment contract).",0,0.0,,,,,,,,0.0
+225,"â€¢ c) Would we, through regulation, be able to deny these licenses to people who owe child support, or would a legislative change be required?",0,1.0,,,,,,,,1.0
+226,Patents issue when the PTO determines that the applicant has complied with the requirements of the Patent Act.,0,0.0,,,,,,,,0.0
+227,The PTO would need statutory authority to deny a patent grant because an applicant owes child support.,0,0.0,,,,,,,,0.0
+228,"In addition, since most patent applications are owned by legal entities such as corporations and universities, it is not clear how this provision would be applicable.",0,0.0,,,,,,,,0.0
+229,d) Who is the agency contact with whom we should coordinate as we develop possible policy on this issue?,0,1.0,,,,,,,,1.0
+230,Are there are licenses missing from the list?,0,0.0,,,,,,,,0.0
+231,The PTO issues licenses to individuals to practice before the PTO in patent matters.,0,0.0,,,,,,,,0.0
+232,"Currently, there are approximately 20,000 registered patent practitioners.",0,0.0,,,,,,,,0.0
+233,"However, most of these practitioners are attorneys, and therefore already subject to denial of their state license.",0,0.0,,,,,,,,0.0
+234,The denial of their state license would ordinarily result in the denial of their license to practice before the PTO in patent and trademark matters.,0,0.0,,,,,,,,0.0
+235,The PTO believes that th Commissioner has authority to promulgate substantive regulations regarding patent practitioners.,0,0.0,,,,,,,,0.0
+236,"See 35 U.S.C. 6  31 (""The Commissioner, subject to the approval of the Secretary of  Commerce, may prescribe regulations governing the recognition and conduct of agents, attorneys, or other persons representing  applicants  or  other  parties  before the Patent and Trademark Office ... "").",0,0.0,,,,,,,,0.0
+237,NOAA is still working on an answer regarding the  nine  statutes  listed in the memo.,0,0.0,,,,,,,,0.0
+238,I hope to get an answer back from them soon.,0,0.0,,,,,,,,0.0
+239,The following relates to statutes not listed in the memo.,0,0.0,,,,,,,,0.0
+240,(a) The National Marine Fisheries Service (NMFS) issues licenses and permits under a number of statutes that conserve and manage living marine resources.,0,0.0,,,,,,,,0.0
+241,"Some licenses are issued to vessels, others to individuals.",0,0.0,,,,,,,,0.0
+242,These statutes include:,0,0.0,,,,,,,,0.0
+243,"Northern Pacific Halibut Act, 16 USC 773 et seq.",0,0.0,,,,,,,,0.0
+244,"Tuna Conventions Act, 16 USC 951 et seq.",0,0.0,,,,,,,,0.0
+245,"Atlantic Tunas ConÂ·vention Act, 16 USC 971 et seq.",0,0.0,,,,,,,,0.0
+246,"South Pacific Tuna Act, 16 USC 973 et seq.",0,0.0,,,,,,,,0.0
+247,"Marine Mammal Protection Act, 16 USC 1361 et seq.",0,0.0,,,,,,,,0.0
+248,"Endangered Species Act, 16 USC 1531 et seq.",0,0.0,,,,,,,,0.0
+249,Magnuson-Stevens.,0,0.0,,,,,,,,0.0
+250,"Fishery Conservation  and Management  Act, 16 USC  1801..et seq.",0,0.0,,,,,,,,0.0
+251,"Antarctic Marine Living Resources Convention Act, 16 USC 2431 et seq.",0,0.0,,,,,,,,0.0
+252,"High Seas Fishing Compliance Act, 16 USC 5501 et seq.",0,0.0,,,,,,,,0.0
+253,(b) The number of licenses and permits issued by NMFS numbers in the several  thousands.,0,0.0,,,,,,,,0.0
+254,(c) None of the statutes NMFS administers explicitly authorizes NMFS to deny licenses and permits to people who owe child support.,0,0.0,,,,,,,,0.0
+255,Our initial reaction is that legislative change would be required.,0,1.0,,,,,,,,1.0
+256,"BXA's export licenses are granted primarily to corporate entities as , opposed to individuals.",0,0.0,,,,,,,,0.0
+257,The Bureau grants no other licenses.,0,0.0,,,,,,,,0.0
+258,"Thank you, Judge.",0,0.0,,,,,,,,0.0
+259,Can you get me something in writing re: what Virginia has done and what results they have had -- or give me a name and number to call?,1,0.0,,,,,,,,0.0
+260,"I want to know, can we credible say this has ""worked"" in Virginia?",1,1.0,,,,,,,,1.0
+261,"We have talked about it and decided that, absent legislation - similar to what we have in the law regarding state license revocation, booting cannot be mandated by regulation.",1,0.0,,,,,,,,0.0
+262,"As you may know, the State of Virginia has begun a very aggressive program of booting and the State Director there tells me that i has been very successful.",0,0.0,,,,,,,,0.0
+263,"I have asked the editor of our Child- Support Report that goes to  employees  across  the nation, to  feature  the Virginia I project in an article ..",1,0.0,,,,,,,,0.0
+264,We also do a best practices manual.,0,0.0,,,,,,,,0.0
+265,"If the resuits continue to be beneficial, we will include it in a future edition.",1,1.0,,,,,,,,1.0
+266,"It might b e worthwhile, however, for the President to mention it in some future child support radio address.",1,1.0,,,,,,,,1.0
+267,Hope this helps.,0,0.0,,,,,,,,0.0
+268,David Ross.,0,0.0,,,,,,,,0.0
+269,"Yes   -- we  require states to have the authority to suspend licenses, but they decide when to  apply,  which is  what I think  we should do for booting cars.",1,1.0,,,,,,,,1.0
+270,"Generally, as you know, states report that they get funds by threatening to revoke licenses",0,0.0,,,,,,,,0.0
+271,they rarely actually have to follow through and actually suspend them but requiring the state to have the procedure gives the child support .,0,0.0,,,,,,,,0.0
+272,agency a new tool to collect overdue funds.,0,0.0,,,,,,,,0.0
+273,"Let me get more information on Virginia's car booting program to make sure we can credibly say ""'this works."" '.",1,1.0,,,,,,,,1.0
+274,"Current law re: licenses reads as follows: states must have ""procedures under which the State has (and uses in appropriate cases) authority to withhold or suspend, or to restrict the use of  driver's licenses, professional and occupational licenses, and recreational  licenses  of  individuals  owing overdue support or failing, after receiving appropriate notice, to comply with subpoenas or warrants relating to paternity or child support proceedings""",0,0.0,,,,,,,,0.0
+275,"On drivers licenses, we mandate that they have legislation to give themselves the option to do it, right?",0,1.0,,,,,,,,1.0
+276,Is that what we'd do here?,1,1.0,,,,,,,,1.0
+277,Sure. He is a lawyer named Stephen Grant.,0,0.0,,,,,,,,0.0
+278,He is our International Officer  and his telephone number is 202 260 5943.,0,0.0,,,,,,,,0.0
+279,IRS - I am working on the other two issues.,0,0.0,,,,,,,,0.0
+280,"Also, I have been asked whether it be possible for the federal government, through regulation, to require states to ""boot"" the cars of owners who owe child support, the way state and local governments boot cars of people who owe traffic tickets?",1,0.0,,,,,,,,0.0
+281,I wonder if there's a way to interpret section 368 of PL 104-193 regarding liens or section 369 regarding licenses to do this?,1,1.0,,,,,,,,1.0
+282,"This was suggested at a high level meeting, and we will be expected to report back.",1,1.0,,,,,,,,1.0
+283,"As you requested, attached is a list of federal licenses that might be subject to either  suspension or denial.",0,0.0,,,,,,,,0.0
+284,Much more  work needs  to  be done by the legal staff of the  various  agencies  and  departments  before  we could actually ask the President to promulgate an executive order.,1,1.0,,,,,,,,1.0
+285,"The listing if a result of searches of the U.S. Code, Code of Federal Regulations, and other resources.",0,0.0,,,,,,,,0.0
+286,"While many of the ninety-two licenses listed are arcnane and unlikely to prove effective as enforcement tools, this is at least an appropriate starting point for discussions with other federal agencies to identify federal powers which might be used to encourage compliance with child support orders.",1,1.0,,,,,,,,1.0
+287,Here is more information about what I'd like you to get from the law library:,0,0.0,,,,,,,,0.0
+288,1) Attached is a list of licenses granted by the federal government to individuals.,0,0.0,,,,,,,,0.0
+289,a) Are there licenses missing from this list?,0,0.0,,,,,,,,0.0
+290,b) How many people have these licenses?,0,0.0,,,,,,,,0.0
+291,"c) Would we, through regulation, be able to deny these licenses to people who owe i.  child support, or would a legislativeÂ·change be required?",0,1.0,,,,,,,,1.0
+292,"2) Would it be possible for the federal government, through regulation, to require states to ""boot"" bars of owners who owe child support, perhaps through an interpretation of section 368 of PL :104-193 regarding liens or section 369 regarding licenses?",0,1.0,,,,,,,,1.0
+293,(See attached for statutory language.),0,0.0,,,,,,,,0.0
+294,I spoke to Kohl's staff today.,0,0.0,,,,,,,,0.0
+295,"After very preliminary conversations with CBO, they think the bill will cost ""a few hundred million dollars.""",0,0.0,,,,,,,,0.0
+296,Somewhere in the $200-$300 range.,0,0.0,,,,,,,,0.0
+297,"Still, a very preliminary estimate.",0,1.0,,,,,,,,1.0
+298,"I. Background: Under current law, states generally retain child support collected on behalf of TANF-assisted families as one of several sources of program financing.",0,0.0,,,,,,,,0.0
+299,This .support is split between the State and Federal Government  as  reimbursement  for  welfare  services.,0,0.0,,,,,,,,0.0
+300,"Under welfare reform, states were given the option of continuing  the  previous  $50 pass-through,  but most states have opted not to do so.",0,0.0,,,,,,,,0.0
+301,"However, some pass-through a portion (typically $50) and disregard this amount in calculating the family's  TANF  benefits.",0,0.0,,,,,,,,0.0
+302,A  few  (including  Wisconsin and Vermont) have federal waivers which allow them  to pass-through  all of the support collected to the family.,0,0.0,,,,,,,,0.0
+303,Wisconsin disregards the support in calculating assistance -- Vermont does not.,0,0.0,,,,,,,,0.0
+304,II. Issues: 1) Disincentives: Non-custodial parents of TANF assisted children are discouraged from paying support because their money goes to the government and does not benefit their children directly.,0,0.0,,,,,,,,0.0
+305,Custodial parents also have less incentive to cooperate with the CSE agency since payments are generally not forwarded to them.,0,0.0,,,,,,,,0.0
+306,"2) Burdens: Support is distributed according to when it accrues, whether a family is or ever was on public assistance and by which method it is collected.",0,0.0,,,,,,,,0.0
+307,This distribution system has proven burdensome and costly both in terms of programming and personnel.,0,0.0,,,,,,,,0.0
+308,"3)Unstable Financing: CSE caseloads have increased 44 percent since 1991, but TANF caseloads are decreasing.",0,0.0,,,,,,,,0.0
+309,"As discussed, states retain TANF collections, but distribute non-TANF collections directly to the families.",0,0.0,,,,,,,,0.0
+310,"Thus, increasing caseloads are generating a need for more resources, but the revenue-making portion of the caseloads is in flux.",0,0.0,,,,,,,,0.0
+311,III. Kohl Pass-Through Option Legislation,0,0.0,,,,,,,,0.0
+312,"Option to Pass-Through for TANF: States  are given  the option  to  pass-through  all  child support collections, including arrears, made on behalf of TANF families.",0,0.0,,,,,,,,0.0
+313,"If a state adopts a passÂ­ through policy, the state  can claim TANF MOE  for passed-through support,  even  if  that  support is not disregarded.",0,0.0,,,,,,,,0.0
+314,(Current law only allows states to claim TANF MOE credit for disregarded support.),0,0.0,,,,,,,,0.0
+315,Family Income Protection: States that adopt a pass-through policy must have budget   mechanisms in place so that child support income is not counted against TANF eligibility or benefits until the family has the child support in hand.,0,0.0,,,,,,,,0.0
+316,Income Treatment Options: State has options to:,0,0.0,,,,,,,,0.0
+317,(1) include child support as income when calculating eligibility for TANF;,0,0.0,,,,,,,,0.0
+318,"(2) disregard child support in whole or in part when calculating the amount of a welfare benefit  for a family, but if the state disregards 50 percent or more of the total child support payments, determined either on a case by case basis or in an annual aggregate, that state is no longer required to repay or calculate the Federal share of the payment",0,0.0,,,,,,,,0.0
+319,"Maintenance of Effort: Requires states that adopt a pass-through policy to fund child support program at highest of 1995-1998 level to ensure that program is not defunded simply because more resources are going to families, excluding aufomated systems costs and enhancements.",0,0.0,,,,,,,,0.0
+320,Child Support Pass-through,0,0.0,,,,,,,,0.0
+321,"Under AFDC, families applying for assistance assigned their child support rights to the state.",0,0.0,,,,,,,,0.0
+322,Child support payments made by a noncustodial parent were thus paid to the child support agency rather than the AFDC family.,0,0.0,,,,,,,,0.0
+323,"If the child support payment was not large enough to disqualify the family from AFDC, the first fifty dollars of the child support payment  was paid to  the AFDC family each month as a ""pass-through.''.",0,0.0,,,,,,,,0.0
+324,"In addition, the pass-through was disregarded in the families' benefit computation.",0,0.0,,,,,,,,0.0
+325,The remaining portion of the child support payment that was not paid to the AFDC family was split between the state and federal government as reimbursement for monthly cash assistance payments.,0,0.0,,,,,,,,0.0
+326,"Under waivers, some states changed the pass-through amount and other states treated child support payments as unearned income, disregarding some portion of the payment for the purposes of benefit computation.",0,0.0,,,,,,,,0.0
+327,PRWORA repealed  the federal law requiring  the fifty dollar pass-through.,0,0.0,,,,,,,,0.0
+328,"Under  PRWORA, a portion of the child support payment is paid to the federal government based on the Medicaid match rate in effect September 1996.",0,0.0,,,,,,,,0.0
+329,The remaining portion of the payment is kept by the states.,0,0.0,,,,,,,,0.0
+330,States may choose to discontinue the pass-through or maintain the pass-through at their own expense.,0,0.0,,,,,,,,0.0
+331,"Table VI.6 shows that 18 states have maintained the fifty qollar pass-through that originated under AFDC, but 4 of those states have maintained the pass-through on a temporary basis.",0,0.0,,,,,,,,0.0
+332,Thirty-three states have changed the pass-through amount significantly.,0,0.0,,,,,,,,0.0
+333,"Of those, 29 states discontinued the child support pass-through completely and one state (Kansas) maintains the child support pass-through at a reduced level, passing through forty dollars of the child support payment to the families.",0,0.0,,,,,,,,0.0
+334,"Two states increased the pass-through amount (Connecticut, Nevada), and one state (Wisconsin)  passes through the entire child support payment, allowing families to keep a larger portion of the child support payment each month without lowering the families' cash assistance benefits.",0,0.0,,,,,,,,0.0
+335,"very strange -- i just asked Michele for paper on CS distribution rules, when this popped up.",0,0.0,,,,,,,,0.0
+336,"Michele will look into getting paper, but this is a start.",0,1.0,,,,,,,,1.0
+337,"For those interested in an overall understanding of the federal rules that affect how child support collections are assigned and distributed, I recommend reading the Child Support enforcement section of the Green Book (http://www.access.gpo.gov/congress/wm001.htm1).",0,0.0,,,,,,,,0.0
+338,For a more focused description of how child support distributions affect,0,0.0,,,,,,,,0.0
+339,Here's what these reports basically say: For families that are currently on welfare the rules for distribution of child support collections are generally straightforward,0,0.0,,,,,,,,0.0
+340,(distribution rules for families that are not longer on welfare are  a little more complicated).,0,0.0,,,,,,,,0.0
+341,"Under AFDC, the first fifty dollars of child support collected on behalf of a family was ""passed-through"" to the family currently on welfare.",0,0.0,,,,,,,,0.0
+342,The remaining child support collections were split between the state and federal government (according to state medicaid match rates).,0,0.0,,,,,,,,0.0
+343,"Since the $50 ""pass-through"" was not counted as income, it increased the amount of the welfare grant by  $50.",0,0.0,,,,,,,,0.0
+344,The idea behind this was to give mothers a financial incentive to cooperate with child support enforcement.,0,0.0,,,,,,,,0.0
+345,"Under TANF, the fifty dollar ""pass-through"" was repealed and states must first pay the federal government its share of the child support collections (again, according to the state medicaid match rates).",0,0.0,,,,,,,,0.0
+346,The rest of the child support collected on behalf of a family currently on welfare is distributed at the discretion of the state.,0,0.0,,,,,,,,0.0
+347,"If the state wants to continue distributing $ 50  of the child support collected on behalf of a family to that family, it may do so (although the  $50  will come from the state's share of the child support  collection,  not  off  the top as under AFDC rules).",0,0.0,,,,,,,,0.0
+348,"In this case, the welfare check again increases by $50.",0,0.0,,,,,,,,0.0
+349,"Unfortunately, most states (29 according to the ""One Year After"" paper) have decided not to pass-through any amount of the child support collected on behalf of a family with the result that  child support  collections  have no affect on the size of the ' welfare grant in these states",0,0.0,,,,,,,,0.0
+350,"(unless, of course, the amount of child support collected is greater than the welfare  grant  at  which point the welfare grant is reduced to 0 and the family gets the full child support payment).",0,0.0,,,,,,,,0.0
+351,"In the 22 states with a child support  pass through, the size of the welfare grant is affected by child support collections, equal to the amount of the pass-through  (in most of these states, it is still $50.)",0,0.0,,,,,,,,0.0
+352,I hope this clears  things up.,0,0.0,,,,,,,,0.0
+353,"As far as the child support not affecting the cash grant, I just  interviewed a whole slew of women in sunflower county MS who said they  refused to stay on TANF because the cash grant was less than their child  support benefit so they chose to take the child support because they cannot  get both.",0,0.0,,,,,,,,0.0
+354,This is a different point.,0,0.0,,,,,,,,0.0
+355,The issue of whether receiving child support   makes the family better off than being on welfare is different than whether   receiving child support *changes* the size of the grant.,0,0.0,,,,,,,,0.0
+356,"Now that this bill has actually been introduced (or will be shortly), it would be very helpful to go through it and identify key issues/concerns/implications/things we would like to see changed and things we like.",0,1.0,,,,,,,,1.0
+357,We'd like to have a conference call late next week to discuss this list of issues.,0,1.0,,,,,,,,1.0
+358,The version I have still has hand written changes so -- I assume we'll be able to pull the real thing off the web tomorrow.,0,1.0,,,,,,,,1.0
+359,"Also, has anyone seen an up to date section by section summary from Bayh?",0,0.0,,,,,,,,0.0
+360,A few specific questions I have include:,0,0.0,,,,,,,,0.0
+361,"1. looks like block grants are added to end of WtW section, so does this mean Secretary of Labor awards them?",0,1.0,,,,,,,,1.0
+362,Which Secretary awards media campaign funds?,0,0.0,,,,,,,,0.0
+363,"2. I understand why there's a 50/50 split between ""formation and maintenance of married two parent families"" and ""fragile families and promotion of fatherhood"" but it's not at all clear how those would be defined.",1,1.0,,,,,,,,1.0
+364,"3. WtW eligibility: does subclause (II) listing characteristics of the ""recipient or noncustodial parent"" (i.e. unemployed, underemployed, etc) impose a new eligibility test on all participants with 70% category -- both noncustodial parents and others?",0,0.0,,,,,,,,0.0
+365,"The way we'd structured this, we had a separate category for long-term recipients an.d for non-custodial parents.",1,0.0,,,,,,,,0.0
+366,"Also, does  the 10% ""window"" just  apply  to subclause  (Ill), i.e.   the status of the child, or does it also waive (11), which is the status of the parent.",0,1.0,,,,,,,,1.0
+367,"4. Use of funds: use of term ""assistance"" could be narrower than intended.",0,1.0,,,,,,,,1.0
+368,Note this substantially broadens the purpose of WtW funds.,0,0.0,,,,,,,,0.0
+369,5. What does state option to disregard child support collections for purposes of determining TANF eligibility achieve?,0,0.0,,,,,,,,0.0
+370,"Can't states already set their own TANF eligibility rules, including how child support is counted?",0,0.0,,,,,,,,0.0
+371,6. looks like they have not addressed most of the concerns around using child support funds for fatherhood program (other than to give slightly more definition to a fatherhood program),0,1.0,,,,,,,,1.0
+372,Bayh and Domenici will introduce Responsible Fatherhood bill at a press conference Thursday afternoon.,0,0.0,,,,,,,,0.0
+373,"They expect to be joined by groups supporting the bill (I don't know exactly who, but they've been reaching out broadly to groups across the Fatherhood spectrum).",0,1.0,,,,,,,,1.0
+374,"Likely D co-sponsors include: Breaux, Landrieu, Lieberman, Lincoln, Robb, Grahan, Domenici is reaching to Rs.",0,0.0,,,,,,,,0.0
+375,"Once the bill is introduced, they expect to do some fine tuning and gather more co-sponsors.",0,1.0,,,,,,,,1.0
+376,"Bayh's staff has given Ron Haskins a heads up, and got the impression Johnson's bill will be on a somewhat slower track.",0,1.0,,,,,,,,1.0
+377,"In summary, the bill :         1. authorizes $75 million in challenge grants for state and local media campaigns;",0,0.0,,,,,,,,0.0
+378,2. authorizes $75 million for responsible parenting block grants to states;,0,0.0,,,,,,,,0.0
+379,3. authorizes $2 million for a national parenting support clearinghouse;,0,0.0,,,,,,,,0.0
+380,4. makes some WtW eligibility changes and raises allowable in-kind match to 75% (while not required by        5.),0,0.0,,,,,,,,0.0
+381,5. encourages child support pass through by foregiving federal share of first $75 passed through to families that is disregarded from determining TANF eligibility and allows states to count their portion of pass-through toward TANF MOE;,0,0.0,,,,,,,,0.0
+382,6.  allows states who opt for child support pass through to use a similar amount of child support funds for fatherhood/parenting promotion without getting a waiver;,0,0.0,,,,,,,,0.0
+383,7. explicitly lists family formation as one of purposes for which TANF HPB funds will be awarded.,0,0.0,,,,,,,,0.0
+384,Based on conversation w/ Bayh's staff today:,0,1.0,,,,,,,,1.0
+385,"1. they seem willing to consider going beyond the Kennedy technical to include the broader eligibility changes in Cardin's bill, particularly to include a broader group of low income fathers.",1,1.0,,,,,,,,1.0
+386,I sent them side-by-side of current law and Cardin's bill and Charlie will call DOL.,1,1.0,,,,,,,,1.0
+387,2. they generally want to be helpful on WtW but don't want to lose broader fatherhood approach.,1,1.0,,,,,,,,1.0
+388,Sounds like they fear more WtW will result in less R support.,1,1.0,,,,,,,,1.0
+389,3. media campaign is intended to rec3ch a broad group of fathers all incomes and both those living with their kids and those not.,0,0.0,,,,,,,,0.0
+390,Challenge grant approach and amount is based on ONDCP campaign.,0,0.0,,,,,,,,0.0
+391,They understand TANF funds can also be used to promote formation of two parent families.,1,0.0,,,,,,,,0.0
+392,"4. still don't have exact costs - waiting for scoring on child support pass-through, but envision something in the $2 8 over 5 years ballpark (w/ bulk of funds for pass-through).",0,1.0,,,,,,,,1.0
+393,5. purposefully leaving block grant uses very vague to allow states to try a variety of approaches; have not yet done runs on block grant formula but realize they may need to set a small state floor.,1,1.0,,,,,,,,1.0
+394,6. they've coordinated w/ Kohl on pass through and see the major difference between their approaches as one of cost -- they cap amount of pass-through Feds will participate in at $75 whereas Kohl is open-ended.,0,1.0,,,,,,,,1.0
+395,They still understand that their propo al to allow state share of child support pass-through to count towards TANF MOE goes beyond what's currently allowed (HHS -TA here could be helpful.,1,1.0,,,,,,,,1.0
+396,Charlie is reaching out to Lauren or Mary).,0,0.0,,,,,,,,0.0
+397,7. allowing states who elect child support pass-through to use $50 (this was purposefully less than the $75 to keep costs down) for fatherhood/parenting activities without getting a waiver is seen as a way to supplement the modest block grant funding.,1,0.0,,,,,,,,0.0
+398,They seemed receptive to the concern that there should be some more direct benefit or connection to famllies involved with the child support program (HHS - TA here could be helpful),1,1.0,,,,,,,,1.0
+399,8. reason for explicitly listing family formation as part of the High Performance Bonus: it's not included in current guidance and this will ensure it's included in future rule.,1,1.0,,,,,,,,1.0
+400,They'll probably revise the bill at least once more befor Thursday.,1,1.0,,,,,,,,1.0
+401,This memo outlines three things: first; the overarching theme we propose for the State of the Union;,0,1.0,,,,,,,,1.0
+402,"second, the ""big ideas"" initiative that should be the centerpiece of the speech and the budget;",0,1.0,,,,,,,,1.0
+403,"third, the eight signature policies that comprise the ""big ideas"" package.",0,0.0,,,,,,,,0.0
+404,I. THEME: RESPONSIBILITY FOR THE FUTURE,0,0.0,,,,,,,,0.0
+405,"The theme we recommend for the State of the Union is ""Responsibility for the Future.""",1,1.0,,,,,,,,1.0
+406,"This theme brings together all the major elements of your agenda: strengthening Medicare and Social Security, and reducing the debt; investing in and reforming public education; bridging the digital divide; investing in Scientific research; protecting the environment; promoting peace around th world; and closing the opportunity gap.",0,0.0,,,,,,,,0.0
+407,"""Responsibility for the Future"" reinforces both liberal convictions about equity (leave no one behind) and Third Way sensibilities about accountability (let no one fail to do his part).",0,0.0,,,,,,,,0.0
+408,"It is consistent with your longstanding theme of ""responsibility, opportunity; and community,"" and sets forth a powerful message that will resound long after we're gone.",0,1.0,,,,,,,,1.0
+409,"The country has come a long way these seven years, enabling us to turn even more to challenges of the next generation.",0,0.0,,,,,,,,0.0
+410,"II. BIG IDEA: CLOSING THE OPPORTUNITY GAP We believe your ""big idea"" for the budget and the State of the Union should be a ""Closing the Opportunity Gap"" initiative.",1,1.0,,,,,,,,1.0
+411,"It is a package of eight signature proposals described in the next section, and would highlight three or four major budget pieces.",0,0.0,,,,,,,,0.0
+412,"We had considered other  labels for this initiative (""Leaving  No One Behind,"" ""Every  Child's  Initiative,"" and  ""Education First"") but advocate ""Closing the Opportunity Gap"" because it shows continuity with your core philosophy and values, suggests a sweeping challenge worthy of a sweeping response, and provides a framework that will energize the entire economic and domestic team, from Summers and Herman to Shalala, Riley; and Cuomo.",1,1.0,,,,,,,,1.0
+413,III. EIGHT SIGNATURE ELEMENTS OF CLOSING THE OPPORTUNITY  GAP,0,0.0,,,,,,,,0.0
+414,Your final State of the Union should  be  more than a  laundry  list  of  worthy  ideas (although we provide such a list in three longer memos which are attached).,1,1.0,,,,,,,,1.0
+415,"Here, we outline a package of signature ""Opportunity Gap"" proposals.",1,0.0,,,,,,,,0.0
+416,These  proposals  representthe core of your doniestk vision; they are ambitious  ideas  that will  stick  in the  public  mind.,1,1.0,,,,,,,,1.0
+417,"They are bold enough to show that  your imperative is  action,  and appealing enough  to stand  a chance of enactment this year.",1,1.0,,,,,,,,1.0
+418,"Together, they give purpose and principle to yom final year's agenda.",1,0.0,,,,,,,,0.0
+419,"The ""Opportunity Gap"" initiative consists of eight proposals:",0,0.0,,,,,,,,0.0
+420,1) universal pre-school to give all poor children  a smart start;,0,0.0,,,,,,,,0.0
+421,2) universal  after-school  to help kids meet  high standards;,0,0.0,,,,,,,,0.0
+422,3) a plan to turn around every failing school over the next decade;,0,1.0,,,,,,,,1.0
+423,4) measures to bridge the digital divide;,0,0.0,,,,,,,,0.0
+424,5) a set of new steps to help low-income students get into college and complete a degree;,0,0.0,,,,,,,,0.0
+425,6) proposals to encourage absent fathers to take responsibility for the support and love they owe their children;,0,0.0,,,,,,,,0.0
+426,7) a new bargain of tax cuts and other measures to reward work and family;,0,0.0,,,,,,,,0.0
+427,and 8) a major expansion of New Markets to help aH communities share in economic prosperityâ€¦,0,0.0,,,,,,,,0.0
+428,1.. Early Childhood/Universal Pre-School.,0,0.0,,,,,,,,0.0
+429,"With a significant down payment in the FY2001 budget, you can lay the groundwork for achieving a  goal  that you,  the  Vice  President,  and  the First  Lady  have talked  about for  some time:   universal access to pre-school  for every 4-year-old.",1,0.0,,,,,,,,0.0
+430,There  are a number  of ways to do this:,0,0.0,,,,,,,,0.0
+431,â—¦ Dramatic increase in Head Start funding.,0,0.0,,,,,,,,0.0
+432,"'Could expand by $1 billion ver FY'00, to expand Head Start from 880,000 children to 11early 1,000,000 in FY '01.",1,0.0,,,,,,,,0.0
+433,A path for future fund  increases to make Head Start universal  could also be established.,1,1.0,,,,,,,,1.0
+434,Early Childhood Learning Fund. A dramatic increase in  the Early Childhood Leaming Fund combined with  a path for  future  increases.,1,0.0,,,,,,,,0.0
+435,Could expand  to $1  billion  for FY O1 - $400 million increase and aim for $10-$20 billion Over 10 years.,0,1.0,,,,,,,,1.0
+436,2. Universal  After-School.,0,0.0,,,,,,,,0.0
+437,"By  doubling after-school  funding  in, the FY 2001 budget (from  $453 million in FY 2000 to at least $1 billion in FY 2001), you  can meet an urgent goal, which is to provide after-school and summer schoolto every student in a failing school.",1,0.0,,,,,,,,0.0
+438,You called on states and districts to end social promotion in this year's  State  of  the  Union;  this initiative will enable you to say we're giving them the resources to end social promotion the right way and give every student in our worst schools the extra help they need.,1,0.0,,,,,,,,0.0
+439,"Over an 11, year period, we  can make after school and summer school universal for every Title I school  and with a sliding scale for students above 200% of poverty, we could eventually make  after school available  to every  student.",1,0.0,,,,,,,,0.0
+440,(Cost:   $20-30 billion over 10 years).,0,0.0,,,,,,,,0.0
+441,3. Turning Around Every Failing School.,0,0.0,,,,,,,,0.0
+442,"To close the opportunity gap, we must dose the achievement gap by focusing our efforts on the worst-performing schools.",1,0.0,,,,,,,,0.0
+443,"With a series of accountability and performance initiatives in the FY 2001 budget (and the after-school pledge outlined above), you can credibly set forth an ambitious, defining goal for strengthening public education: turning around or shutting down every failing school in America overthe next decade.",1,1.0,,,,,,,,1.0
+444,"In addition to doubling after-school funding, the key steps include: expanding your accountability fund; reaching your goal of 3,000 charter schools before you leave office; funding a new performance bonus to reward states and school districts for increasing their percentage of qualified teachers, adopting statewide accountability systems and school report card; and requiring universal public school choice for students in failing schools.",1,0.0,,,,,,,,0.0
+445,We could also reintroduce a version of education opportunity zones.,1,1.0,,,,,,,,1.0
+446,(Cost: $3-5 billion over IO years).,0,0.0,,,,,,,,0.0
+447,4. Closing the Digital Divide.,0,0.0,,,,,,,,0.0
+448,"If we are to close the opportunity gap in the next century, we must do all we can to address the emerging digital divide.",1,0.0,,,,,,,,0.0
+449,Key elements could include:,0,1.0,,,,,,,,1.0
+450,Community Technology Centers.,0,0.0,,,,,,,,0.0
+451,A more than four-fold increase in funding - from $32.5 million in FY 2000 to $132.5 million in FY 2001 as part of a major challenge to have Internet centers in all  poor communities.,0,0.0,,,,,,,,0.0
+452,"We could  challenge  the private sector to contribute hardware, software and man-hours  and possibly give them tax incentives  to donate used equipment.",1,1.0,,,,,,,,1.0
+453,Develop Universal Internet Access.,0,0.0,,,,,,,,0.0
+454,Reserve a 100 million fund for public-private partnerships to bring affordable Internet access to poor families.,0,0.0,,,,,,,,0.0
+455,â—¦ Teacher Training for the Internet.,0,0.0,,,,,,,,0.0
+456,"We could dedicate $100 million- perhaps from the existing technology literacy challenge initiative - to ensure all new teachers, or all middle-school teachers, receive training in how to use computers as a learning device.",1,1.0,,,,,,,,1.0
+457,â—¦ School Internet Modernization Fund.,0,0.0,,,,,,,,0.0
+458,A discretionary counterpart to our school construction proposal to modernize schools for new teachers and Internet access.,0,0.0,,,,,,,,0.0
+459,5. Closing the Opportunity Gap for College.,0,0.0,,,,,,,,0.0
+460,"This element would focus on different aspects of closing the opportunity gap for college: helping more students aspire to and prepare for college, continuing to make college more affordable, and starting to address America's quiet crisis of dedining college completion rates.",1,0.0,,,,,,,,0.0
+461,Keeping Students on Track to College.,0,0.0,,,,,,,,0.0
+462,"we could increase access for impoverished young people through Youth Opportunity Grants, TRIO, GEAR UP, and Youth Build, increasing funding to a total of $500 million.",1,0.0,,,,,,,,0.0
+463,â—¦ AP Courses Online.,0,0.0,,,,,,,,0.0
+464,Small and poor schools often-lack the resources and teachers to  offer challenging courses.,0,0.0,,,,,,,,0.0
+465,This distance learning initiative aims to ensure that students in underserved areas get access to Advanced Placement and other highÂ­ quality academic courses and ESL programs online.,0,0.0,,,,,,,,0.0
+466,"Total funding for the initiative would be $225 million, including $50 million for grants, $25 million for course development, and.$125 million in increases in existing programs.",1,0.0,,,,,,,,0.0
+467,â—¦ Test Prep for Poor Kids.,0,0.0,,,,,,,,0.0
+468,"This program would support partnerships among high schools, proven providers of college test  prep courses (like Kaplan,  Princeton Review), and community-based organizations to offer high-need students SAT/ACT preparation arid other services related to college admissions.",0,0.0,,,,,,,,0.0
+469,"Grants of $30 million would serve approximately  50,000 students.",0,0.0,,,,,,,,0.0
+470,A couple of announcements that would make real sense to announce at the DLC:     (1) EITC -- new proposal plus victory lap on record,1,1.0,,,,,,,,1.0
+471,(2) Child support -- new proposals plus new accomplishments data (see below)    .,1,0.0,,,,,,,,0.0
+472,"(3) Welfare to work success -- new numbers from Welfare to Work Partnership (hiring, retention) plus general accomplishments",1,0.0,,,,,,,,0.0
+473,And of course we could add our food stamp car and IDA car policies.,1,1.0,,,,,,,,1.0
+474,These announcements could work either before or after the VP announces the $250 million employment grants for fathers and families.,1,1.0,,,,,,,,1.0
+475,New Child Support Data We will have new data which show i) child support collections have nearly doubled under this Administration (from $8 billion in 1992 to and estimated $15.5 billion in 1999);,0,0.0,,,,,,,,0.0
+476,ii) of that $15.5 billion a record $1.3 billion came from seizing tax returns (up 18 percent over last  year);,0,0.0,,,,,,,,0.0
+477,"iii) the new child support computer system proposed by the Administration in 1994 and enacted in 1996 located nearly 3 million delinquent parents and over 650,000 of their bank accounts last year;",0,0.0,,,,,,,,0.0
+478,"and iv) a child support law enforcement initiative launched by the Administration last year has inve tigated nearly 1,000 cases of the worst offenders, making nearly 300 arrests and obtaining $5.3 million in restitution orders.",0,0.0,,,,,,,,0.0
+479,These descriptions are still accurate.,0,0.0,,,,,,,,0.0
+480,"The details of the tobacco policy are still being worked out, but you could use this generic language as a placeholder.",1,1.0,,,,,,,,1.0
+481,"Donâ€™t call it tobacco ""penalty""",1,1.0,,,,,,,,1.0
+482,Tobacco - Raising the Price of Cigarettes so Fewer Young People will Smoke.,0,0.0,,,,,,,,0.0
+483,Public health experts agree that the single most effective way to cut youth smoking is to raise the price of cigarettes.,0,0.0,,,,,,,,0.0
+484,"To reduce youth smoking, the budget will include a combination of excise taxes and assessments on the industry if companies fail to meet youth smoking reduction targets.",0,0.0,,,,,,,,0.0
+485,Listed below are the descriptions of the budget initiatives in your area that could be rolled out prior to the SOTU that I have included in the DPC memo regarding rollout.,0,1.0,,,,,,,,1.0
+486,"Please let me know if you have any edits, updates, changes, etc. to these descriptions.",0,1.0,,,,,,,,1.0
+487,Any additions in blank areas would be greatly appreciated.,0,0.0,,,,,,,,0.0
+488,Philanthropy/Faith-Based Initiatives.,0,0.0,,,,,,,,0.0
+489,Among the possible announcements we can make are         1) steps to increase involvement of community- and faith-based groups in after-school and other important programs; and 2) new tax incentives to promote increased charitable giving by all taxpayers.,1,1.0,,,,,,,,1.0
+490,Responsible Fatherhood Initiative: Promoting responsible fatherhood is the critical next stage of welfare reform and one of the most important things we can do to reduce child poverty.,1,0.0,,,,,,,,0.0
+491,We could a) announce new data showing the dramatic increases in child support collections made by this Administration and at the same time put forward a package of proposals to,1,1.0,,,,,,,,1.0
+492,b.) ensure every unemployed parent who owes child support goes to work and supports his children;,1,0.0,,,,,,,,0.0
+493,c) collect more child support from parents who can afford to pay;,1,0.0,,,,,,,,0.0
+494,d) revise outdated rules to ensure mothers and children receive more of the support the father pays;,1,0.0,,,,,,,,0.0
+495,and e) promote efforts to ensure fathers returning from prison become responsible fathers and responsible members of society.,1,0.0,,,,,,,,0.0
+496,Jack said you were asking about the food stamps immigrant proposals.,0,0.0,,,,,,,,0.0
+497,Let me know if you need more info.,0,0.0,,,,,,,,0.0
+498,"The reproposal of last year's food stamps elderly policy will help 10,000 people by FY05.",1,0.0,,,,,,,,0.0
+499,"The new proposal, to restore benefits to pre 8/22/96 adults in families with kids, will help 150,000 people by FY05.",1,0.0,,,,,,,,0.0
+500,"Apparently our parents of CHIP proposal as currently scored wouldn't give states the option of covering legal immigrant parents, despite the fact that we propose to cover legal immigrant kids under CHIP.",1,1.0,,,,,,,,1.0
+501,"(Under current law legal immigrant children who arrived pre 8/96 can be covered by CHIP or Medicaid at state option, and we have proposed and will re-propose to allow the Medicaid/CHIP state option for immigrant children arriving post-8/96.)",0,0.0,,,,,,,,0.0
+502,Mendelson and I realized this yesterday and he's got folks scoring the additional cost.,1,1.0,,,,,,,,1.0
+503,If the parents proposal flies (and I hope it does) I think it would be embarrassing if we left out legal immigrants.,1,1.0,,,,,,,,1.0
+504,We spoke again to Barbara Chow and others at OMB on other legal immigrant matters.,1,0.0,,,,,,,,0.0
+505,OMB thinks we can pay for re-proposing our proposals from last year plus maybe a small add on which would be helpful but fall short of the advocates wish list.,1,1.0,,,,,,,,1.0
+506,"The attached table has more information, but broadly:",0,0.0,,,,,,,,0.0
+507,"Re-proposing FY 2000 proposals: $1.9 billion over 5 years, $11.6 billion over 10.",1,0.0,,,,,,,,0.0
+508,"FY 2000 proposals plus small add-on: $2.1-2.4 billion over 5 years, $12.3-$12.6 billion over 10.",1,0.0,,,,,,,,0.0
+509,"Advocates wish list: $7.2 billion over 5 years, at least $26 billion over 10",1,0.0,,,,,,,,0.0
+510,Mary and NEC have been working with DOT to develop a package of '01 tribal transportation proposals.,1,0.0,,,,,,,,0.0
+511,We worked to make sure they gave serious consideration to allowing tribes to apply directly for Access to Jobs grants (as you know we've been going back and forth with FTA about this for a while).,1,1.0,,,,,,,,1.0
+512,"Yesterday, DOT agreed to propose appropriations language that will allow tribes to apply directly for Access to Jobs grants.",1,0.0,,,,,,,,0.0
+513,"They also plan to set aside $5 M within the $150 M for tribes, but they think this can be done administratively through the application process.",1,0.0,,,,,,,,0.0
+514,Apparently they also plan to do a similar set-aside for projects in the Delta.,1,0.0,,,,,,,,0.0
+515,Set-aside grants would still have to follow the ATJ program requirements.,1,0.0,,,,,,,,0.0
+516,Can you call Jennifer Friedman and work with her to figure out how to spend the $15 million?,1,1.0,,,,,,,,1.0
+517,(Since this is discretionary we would only worry about the year 1 costs.) .,0,1.0,,,,,,,,1.0
+518,I think your summary looks fine but it's essentially a much more articulate version of what we proposed last year and couldn't get the ag appropriators to fund.,1,1.0,,,,,,,,1.0
+519,Jennifer and Jeff Farkas are trying to figure out if they can squirrel away some of the $15 million elsewhere in a place that will be more likely to get funded.,1,1.0,,,,,,,,1.0
+520,Attached is my version of FNS's version that was axed by the Secretary's office and;,1,1.0,,,,,,,,1.0
+521,"therefore, never went to OMB for consideration.",1,0.0,,,,,,,,0.0
+522,I made some changes to it adding some language on working poor and playing down some of their nutritional education ideas and playing up on the outreach (education about eligibility) aspects.,1,1.0,,,,,,,,1.0
+523,I didn't remember you telling me that you already mentioned bumping it up to $15 million to Barbara.,1,0.0,,,,,,,,0.0
+524,Cynthia A. Rice,0,0.0,,,,,,,,0.0
+525,"As you know I asked Barbara to up the number to $15 million, and at the welfare meeting late this afternoon Jennifer Friedman said OMB is prepared to go to $15 million but is looking for a place to put some of it that will be more likely to get enacted and wanted to know if we have any ideas.",1,1.0,,,,,,,,1.0
+526,What is the attachment below?,0,0.0,,,,,,,,0.0
+527,Is that FNS's original proposal?,0,0.0,,,,,,,,0.0
+528,"OMB included in passback $7 million for nutritional education, of which not less than $5 million is for educating food stamp eligibles not currently participating in the program -- including the working poor, welfare leavers, elderly, and ABAWD's of their ability to apply for food stamps.",0,0.0,,,,,,,,0.0
+529,I'm not a big FORK fan - I think it's overly prescriptive but this is what it does:,0,0.0,,,,,,,,0.0
+530,Requires FNS to conduct annual on-site inspections of local food stamp offices in every state and authorizes appropriations for this purpose.,0,0.0,,,,,,,,0.0
+531,(current FNS regulations require inspections but they can be desk audits which do not require annual visits.,0,0.0,,,,,,,,0.0
+532,Authorizes a demonstration project in which FNS works with state caseworkers to develop caseworker training materials and guidebooks to help state provide clearer information about fs to TANF recipients.,0,0.0,,,,,,,,0.0
+533,Authorizes a competitive grant program to be administered by USDA in consultation with HHS to develop local strategies for improving food stamp access and educating working families about their eligibility.,0,0.0,,,,,,,,0.0
+534,"These grants will go to food banks, schools, WIC clinics etc.",0,0.0,,,,,,,,0.0
+535,(Part of determining the cost is how many of these grants will authroized),0,1.0,,,,,,,,1.0
+536,Requires state TANF programs to provide clear info about ts eligibility  to people being diverted from TANF and people exiting TAIF.,0,0.0,,,,,,,,0.0
+537,Authorizes a tax credit for businesses who are designated as information partners by USDA because they contribute substantial goods or services to help expand the toll-free hotline.,0,0.0,,,,,,,,0.0
+538,How does the FORK act work -- how does it provide outreach funds in a way that needs to be scored?,0,0.0,,,,,,,,0.0
+539,They don't ask for a specific amount - CBO and JCT are scoring it.,0,0.0,,,,,,,,0.0
+540,There rough estimate is $20/ 5 years but Levin's staff admitted that she really doesn't know.,0,0.0,,,,,,,,0.0
+541,Cynthia A. Rice,0,0.0,,,,,,,,0.0
+542,"I see Coyne, Levin et al don't ask for a specific amount for food starnp outreach.",0,1.0,,,,,,,,1.0
+543,At what level was the funding in the FORK act?,0,0.0,,,,,,,,0.0
+544,"Short Version Propose $500 million in FY 2001, with $500 million in out-years, for Welfare-to-Work competitive grants.",0,0.0,,,,,,,,0.0
+545,"These grants could fund projects in three key areas impbrtant to sustaining ,the success of welfare reform: 1) to help the hardest to employ move from welfare to work and succeed in the work force;",0,0.0,,,,,,,,0.0
+546,"2) to help low income fathers work, pay child support and reconnect with their children;",0,0.0,,,,,,,,0.0
+547,"3) to increase job retention, skills upgrading and supports (including outreach on food stamps, Medicaid, child care, and EITC) for low-income working families, including those who have left welfare, through local one-stop employment centers",0,0.0,,,,,,,,0.0
+548,"Long Version Propose $500 million in FY 2001, with $500 million in out-years, for Welfare-to-Work competitive grants.",0,0.0,,,,,,,,0.0
+549,These funds could address three key issues related to sustaining the success of welfare reform:,1,1.0,,,,,,,,1.0
+550,1) $250 million for innovative local projects in communities that need the most help to move the hardest to employ from welfare to wolk and succeeding in the workforce.,0,0.0,,,,,,,,0.0
+551,"This would honor the original intent of the Welfare-to-Work program, by focusing on the hardest to employ and getting the funds directly to locals.",1,1.0,,,,,,,,1.0
+552,"Within this amount, forrimla grants for tribes could be continued at current level of $15 Mor increased to $30 Mas proposed in FY 2000..",0,0.0,,,,,,,,0.0
+553,"2) $150 million for responsible fatherhood initiatives that help low income fathers work, pay  child support, and reconnect with their children.",0,0.0,,,,,,,,0.0
+554,This is consistent with the President's strong emphasis on fathers in our FY 2000 WtW reauthorization and positions to engage with the Hill as we expect Fatherhood bills to gain momentum next year.,0,1.0,,,,,,,,1.0
+555,"3) $100 million to increase job retention, skills upgrading and supports (including outreach  on food stamps, Medicaid, child care, and EITC) for low income working families, including those who have left welfare through local one-stop centers.",0,0.0,,,,,,,,0.0
+556,This would build on the Workforce Investment Act and help address the issues of the non-welfare working poor.,0,1.0,,,,,,,,1.0
+557,We are  also exploring ways to increase access to employment  services for  individuals  with  disabilities through this proposal.,1,0.0,,,,,,,,0.0
+558,"OMB staff is currently proposing a total of$750 million for FY '01, all dedicated to the third category, but are also receptive to competitive grants in the other two areas:",1,1.0,,,,,,,,1.0
+559,We're  waiting for them to finish Director's review today to find out where they're ending up.,1,1.0,,,,,,,,1.0
+560,"Based on info Amy provided on the marriage stats,  I'd  replace  the  2nd  graph  of  3d)  in  the 11/24 memo to BR/EL with the following.",1,1.0,,,,,,,,1.0
+561,I'm sending you a hard copy of the info from HHS (which is what they'd shared earlier but I'd misplaced).,0,0.0,,,,,,,,0.0
+562,Something not proposed by the VP which we could add is funding- for National Center for Health Statistics to improve data on marriage and divorce.,1,1.0,,,,,,,,1.0
+563,In the past several years they have stopped collecting detailed information from states due to budgetary pressures and concerns about the quality  of the data.,0,0.0,,,,,,,,0.0
+564,"This has received a surprising amount of press attention, some have used this to criticize the Administration for being 'weak on marriage', and House W&M staff have expressed interest in restoring funding.",0,0.0,,,,,,,,0.0
+565,"We could either wait for them to do so, or pre-empt them with a modest funding proposal.",1,1.0,,,,,,,,1.0
+566,"HHS' very preliminary  estimates show  it would cost about $750,000 in the first year to assess states' ability to report these data, with annual costs of $7 - $10 million to implement a high quality reporting system.",0,0.0,,,,,,,,0.0
+567,I assume you'll work on this?,0,1.0,,,,,,,,1.0
+568,Let me know if you'd like us to do anything.,0,0.0,,,,,,,,0.0
+569,As a quick cut I would reorganize this to be:,0,1.0,,,,,,,,1.0
+570,I am pleased that today the House.,1,0.0,,,,,,,,0.0
+571,"Commerce committee voted [vote # if good] on a bipartisan basis for the Work Incentives Improvement Act, which would remove significant barriers to work for millions of people with disabilities by increasing their access to health care and employment services.",1,0.0,,,,,,,,0.0
+572,"I strongly support this legislation and the Senate version championed by Senators Jeffords, Kennedy, Roth and Moynihan and which XX members of the Senate have co-sponsored.",1,0.0,,,,,,,,0.0
+573,I call upon the leadership of the House and Senate to work together to pass this legislation by the Memorial  Day recess.,1,0.0,,,,,,,,0.0
+574,No one should have to make a choice between earning an income and health care access.,1,0.0,,,,,,,,0.0
+575,"Obviously we may want to have more on what the bill does, etc.",1,1.0,,,,,,,,1.0
+576,and maybe the plug for no heath weakening amendments too.,1,1.0,,,,,,,,1.0
+577,"â€¢ The Administration strongly supports S. 311/H.R. 1180, which would remove significant barriers to work for millions of people with disabilities by increasing their access to health care and employment services.",0,0.0,,,,,,,,0.0
+578,"In his January 19th State of the Union Address, the President expressed his ongoing commitment to empower people with disabilities and urged the Congress to pass the landmark Work Incentives Improvement Act.",0,0.0,,,,,,,,0.0
+579,"The President's FY 2000 Budget fully funds the bill's health care options in Medicare and Medicaid as well as the ""Ticket to Work"" provisions for individuals with disabilities.",0,0.0,,,,,,,,0.0
+580,"During the last year, White House staff worked intensely with the disability community and with Congress to develop a proposal that provides the services necessary to enable people with disabilities to work.",0,1.0,,,,,,,,1.0
+581,"The ""ticket to work"" program helps address this need.",0,0.0,,,,,,,,0.0
+582,But it is also essential to ensure access to health insurance coverage.,0,0.0,,,,,,,,0.0
+583,"Senators Jeffords, Kennedy, Roth, and Moynihan have successfully developed a fully paid-for proposal that accomplishes these policy goals.",0,0.0,,,,,,,,0.0
+584,The Administration thus opposes any agiendments that weaken the bill's indispensable health provisions: no one should have to make a choice between earning an income and health care access.,0,0.0,,,,,,,,0.0
+585,Most of the offsets that were included in last year's  version of  JK  were dropped.,0,0.0,,,,,,,,0.0
+586,The exceptions  were the  prisoner  provision  and the  clergy open season.,0,0.0,,,,,,,,0.0
+587,When JKRM -introduced the bill this session they included a series of tax provisions (including user  fees and tax  credits)  to  pay for  the bill.,0,0.0,,,,,,,,0.0
+588,"I was wondering about the provisions that save money, whether those offsets were essentially being used in both bills (Jeffords-Kennedy and foster care).",0,0.0,,,,,,,,0.0
+589,"Yes, the ""treatment  of prisoners""  language is included in S. 331  and H.R. 631;  ( I need to  check if the provisions are identical, but in concept, they are the same.",0,0.0,,,,,,,,0.0
+590,"Also, many of the-other H.R. 631 offsets are assumed in the FY 2000 Budget.)",0,0.0,,,,,,,,0.0
+591,"On Friday 3/26, ED staff (Curtis Richards and others) met with W&M staff for about an hour to discuss the Bunning-Kennelly bill & this year's Kennedy-Jeffords bill.",0,0.0,,,,,,,,0.0
+592,I apologize for the delay in sending this summary out.,0,0.0,,,,,,,,0.0
+593,"One of the main purposes of this meeting was to brief W&M staff on how the State VR programs work (e.g., the fact that priority is given to serving individuals with the most significant disabilities).",0,1.0,,,,,,,,1.0
+594,Below is a brief summary of the other important items that were discussed.,0,0.0,,,,,,,,0.0
+595,"Agreement with State Rehab Agency: W&M staff asked ED about the purpose of sec. 1148(c)(3){D) in the Senate bill, which states that no payment can be made to an employment network who either makes referrals to a State agency in violation of their agreement  with the agency, or has not entered into an agreement.",0,0.0,,,,,,,,0.0
+596,"ED staff noted that this language is intended to prevent employment networks from ""double dipping""  by referring an individual to  a State  VR agency for specific services, and then being reimbursed for the services provided,by the State VR agency.",0,0.0,,,,,,,,0.0
+597,W&M staff was concerned that the bill language would essentially  reassign the  ticket  to the VR agency.,0,1.0,,,,,,,,1.0
+598,"ED said the language just requires the provider to reimburse the Rehab agency, not give up the ticket, but said that it would look into this issue.",0,0.0,,,,,,,,0.0
+599,"Mode of Election for Reimbursement: W&M staff asked about Sec. 1148 (c)(1) in the Senate bill, which gives only State agencies the option of  operating  under  the  old or the  new  payment  system, on a case by case basis.",0,0.0,,,,,,,,0.0
+600,"ED justified this language by  saying that, under  this  bill, the m.ost  difficult and risky cases (e.g., the most severely disabled) will most  likely  wind  up  in  the  State  agencies rather then private providers, and that the reimbursements for  these  individuals  would  usually  be lower under the new payment system.",0,0.0,,,,,,,,0.0
+601,W&M staff said that  they  were  concerned  that  private providers do not have the same option in the Senate bill.,0,0.0,,,,,,,,0.0
+602,Big Picture -- Competition: W&M staff asked ED if both they and the State rehab agencies are generally concerned that this legislation would increase competition between State rehab agencies and private providers.,1,1.0,,,,,,,,1.0
+603,"ED noted that they support the  Kennedy-Jeffords legislation in its  current form (though they have concerns  with, for instance, the P&A language),  and that competition isn't a major issue with the Department because there are more than enough people for both the State rehab agencies and private providers to serve.",1,1.0,,,,,,,,1.0
+604,"P&A: ED brought up it's concern that the Senate bill only provides a generic reference to providing information on obtaining employment and advocacy, rather than the more specific P&A language included in last year's draft H.R.  3433.",1,1.0,,,,,,,,1.0
+605,W&M said that they'd take ED's  concern under advisement.,1,1.0,,,,,,,,1.0
+606,I agree with Jonathan's comment.,1,0.0,,,,,,,,0.0
+607,"I also would suggest that the first paragraph be made longer, Jeanne what do you think and what  would  you add?",1,1.0,,,,,,,,1.0
+608,"so that  the balance  is  right,  e.g.,  there's 99% we absolutely love and 1% we'd amend slightly.",1,1.0,,,,,,,,1.0
+609,I would also amend the second graph as follows:,1,1.0,,,,,,,,1.0
+610,"The Administration, AQW urges the Senate to amend the bill to authorize the Work Incentives Assistance Grants proposal included in the President's FY 2000 Budget.",0,1.0,,,,,,,,1.0
+611,"This proposal would authorize grants, for benefits planning and assistaa e counseling to facilitate access to information about work incentives and for state and local partnerships to better imegrate coordinate services for people with disabilities who work or are returning to work.",0,0.0,,,,,,,,0.0
+612,Looks good.,1,0.0,,,,,,,,0.0
+613,"I suggest you drop the ""however"" in the second paragraph.",1,1.0,,,,,,,,1.0
+614,"It has the unintended effect of diminishing our support in the first paragraph (e.g., ""I like you but ... "").",1,1.0,,,,,,,,1.0
+615,"It would read fine simply: ""The Administration urges.:.""",1,1.0,,,,,,,,1.0
+616,"Work Incentives Improvement Act Meeting: Administration and Disability Advocates April 7, 1999",0,0.0,,,,,,,,0.0
+617,Agenda,0,0.0,,,,,,,,0.0
+618,I. Welcome/Introductions: Jonathan Young (OPL) Attendees expected to include:,0,0.0,,,,,,,,0.0
+619,"A. Disability Advocates: Marty Ford{The Arc), Tony Young (UCPA), David Fields (UCPA), Andrew Sperling (NAMI), Suellen Galbraith (ANCOR), Mary Gennaro (NADDC), Sallie Rhodes (NAPAS)",0,0.0,,,,,,,,0.0
+620,"B. White House: Cynthia Rice (DPC), Jeanne Lambrew (NEC), Eric Gould (DPC), Lisa Brown (OVP), Jonathan Young (OPL)",0,0.0,,,,,,,,0.0
+621,"C. OMB: Barbara Chow, Joanne Cianci, Melinda Haskins, Larry Matlack, Jeff F rkas:",0,0.0,,,,,,,,0.0
+622,"D. DOL: Becky Ogle, Gary Reed, Bill McKinnon",0,0.0,,,,,,,,0.0
+623,"E. SSA: Susan Daniels, Judy Chesser, Jim O'Donnell",0,0.0,,,,,,,,0.0
+624,F. HHS: Bob Williams,0,0.0,,,,,,,,0.0
+625,"IL Work Incentives Planners/DOL Grants: Cynthia (DPC), Barbara (0MB), Becky (DOL), and Susan (SSA)",0,0.0,,,,,,,,0.0
+626,III. Overall Strategy: Jonathan (OPL) and Cynthia (DPC)         A. House Update         B. Senate Update         C. Future Meetings:,0,1.0,,,,,,,,1.0
+627,This is just 7 lines.,0,0.0,,,,,,,,0.0
+628,"If Marie and Laura each take one, 0MB takes two, Jeanne takes one, I'll join Cynthia in her office, patch in Connie, leaving one extra line.",0,0.0,,,,,,,,0.0
+629,Call is at 12:30 pm,0,0.0,,,,,,,,0.0
+630,"Cynthia, can you look this over before I circulate it?",0,1.0,,,,,,,,1.0
+631,Thanks.,0,0.0,,,,,,,,0.0
+632,"I Background: One of the original titles of the JK Legislation concerned setting up ""Work Incentives Planners,"" on a competitive state-by-state grant basis, to inform people on SSI and SSDI about their options for obtaining employment and taking advantage of the JK War Incentives.",0,0.0,,,,,,,,0.0
+633,"The Senate bill propsed to fund this program out of SSA 1 for $23 million a year max over five years, starting in year 2.",0,0.0,,,,,,,,0.0
+634,"During our budget process, we developed a proposal that combined the Planners with one of the Task Force recommendations for Systems Change in DOL, for a total of $50 million a year, beginning year one (roughly $23 million going to the Planners, the rest for Systems Change).",0,1.0,,,,,,,,1.0
+635,"We proposed this change to the Senate during, but the bill was passed out of Finance Committee without our recommended change, sticking by the $23 million in SSA.",0,0.0,,,,,,,,0.0
+636,Reason for Meeting: Senate staff and disability groups are operating under the assumption that the bill language obligates/mandates SSA to fund the program.,0,1.0,,,,,,,,1.0
+637,They are separately exploring ways to appropriate funds for the Task Force Systems Change component.,1,1.0,,,,,,,,1.0
+638,"But, as we have discussed in recent meetings, the language would require SSA to fund the Planners out of its discretionary Administrative account, and SSA cannot therefore guarantee it will have the resources  to  operate the program.",1,1.0,,,,,,,,1.0
+639,We want to inform the Congress and the advocates about our concern so that we do not run into greater problems down the road.,1,1.0,,,,,,,,1.0
+640,Proposed Agenda for Meeting: 1) Introductions; 2) Review history and content of our DOL combined proposal; 3) Review concerns about current Senate language; 4) Q & A.,0,1.0,,,,,,,,1.0
+641,"Attendance at Meeting: 1) Administration Representatives from DPC/NEC, 0MB (health and income maintenance divisions), W.H. Legislative Affairs, SSA, DOL, OVP, OPL; 2) Leading disability community advocates (4-6).",0,0.0,,,,,,,,0.0
+642,"Administration offices not  mentioned  above, but  wishing  to  attend, may do so.",0,0.0,,,,,,,,0.0
+643,Just let me know.,0,1.0,,,,,,,,1.0
+644,"From the response I've heard so far, this appears to be the best (and perhaps only) workable time.",0,1.0,,,,,,,,1.0
+645,"Please let me know if this does NOT work for representation from OMB (Health and Ed), DPC/NEC, SSA, DOL, and Leg. Affairs.",0,1.0,,,,,,,,1.0
+646,"In the meantime, interested parties please hold date/time for meeting with disability representatives.",0,1.0,,,,,,,,1.0
+647,"There will probably be no perfect time, so I'd like to hold this one unless it poses a major problem.",0,1.0,,,,,,,,1.0
+648,Thanks.,0,0.0,,,,,,,,0.0
+649,"[This message doesn't apply to all of you, but I thought it easier to send it to everyone, rather than risk leaving someone out.]",0,0.0,,,,,,,,0.0
+650,RE: Setting up meeting with groups,0,1.0,,,,,,,,1.0
+651,"We discussed meeting with the groups Tuesday or Wednesday, April 6-7.",0,1.0,,,,,,,,1.0
+652,"I'd like to suggest two windows of time: 11 :00 AM to 2:00 PM gn Tuesday, and 10:00 AM to 4:00 PM on Wednesday.",0,1.0,,,,,,,,1.0
+653,"We need representatives from the following: OMB (including Barbara Chow and Dan Mendelson, if possible), SSA, DOL (that includes PTFEAD), Leg Affairs, and OPD.",0,0.0,,,,,,,,0.0
+654,We'd like to keep this meeting manageable by keeping numbers small.,0,1.0,,,,,,,,1.0
+655,"But if  you're not from one of  these offices and really  want to attend, let me know.",0,0.0,,,,,,,,0.0
+656,I suggest the following approach to identify a time.,0,1.0,,,,,,,,1.0
+657,"I've listed below nine hour-long blocks, with numbers.",0,0.0,,,,,,,,0.0
+658,Just email me back with the numbers of the times that do NOT work for you (and your office).,0,0.0,,,,,,,,0.0
+659,I hope that there will be at least one hour that works.,0,1.0,,,,,,,,1.0
+660,"[Cynthia, please coordinate OPD/Leg Affairs representation]",0,1.0,,,,,,,,1.0
+661,"[Joanne, please coordinate 0MB representation]",0,1.0,,,,,,,,1.0
+662,"[Marie, please coordinate SSA representation]",0,1.0,,,,,,,,1.0
+663,"[Becky, please coordinate DOL representation]",0,1.0,,,,,,,,1.0
+664,"#1: Tuesday, April 6, 11:00 AM - 12:00 PM",0,0.0,,,,,,,,0.0
+665,"#2: Tuesday, April 6, 12:00 PM - 1 :00 PM",0,0.0,,,,,,,,0.0
+666,"#3: Tuesday, April 6, 1:00 PM - 2:00 PM",0,0.0,,,,,,,,0.0
+667,"#4: Wednesday, April 7, 10:00 AM - 11:00 AM",0,0.0,,,,,,,,0.0
+668,"#5: Wednesday, April 7, 11:00 AM - 12:00 PM",0,0.0,,,,,,,,0.0
+669,"#6: Wednesday, April 7, 12:00 PM - 1:00 PM",0,0.0,,,,,,,,0.0
+670,"#7: Wednesday,  April 7,  1 :00   PM - 2:00 PM",0,0.0,,,,,,,,0.0
+671,"#8: Wednesday, April 7,  2:00 PM - 3:00 PM",0,0.0,,,,,,,,0.0
+672,"#9: Wednesday, April 7, 3:00 PM - 4:00 PM",0,0.0,,,,,,,,0.0
+673,"Once we get a time that works internally, I'll take care of notifying the groups and setting up room arrangements, clearance, etc.",0,1.0,,,,,,,,1.0
+674,Feel free to give me a call if you have any questions.,0,0.0,,,,,,,,0.0
+675,Thanks everyone for your commitment to this bill.,0,0.0,,,,,,,,0.0
+676,It would be a tremendous victory to get this signed by the President this year.,0,1.0,,,,,,,,1.0
+677,Keep up the good work.,0,0.0,,,,,,,,0.0
+678,"Today SSA met with W&M staff (led by  Kim Hildred 'and  Sandy  Wise), plus  a  cast  of  thousands from the Hill, to discuss changes made since the Bunning-Kennelly bill passed  the House last  year.",0,0.0,,,,,,,,0.0
+679,We worked from a copy of the  8-K  bill that  was  marked  up  to  reflect  changes.,0,0.0,,,,,,,,0.0
+680,"Although  HCFA sent a representative, no one from ED or DOL was present.",0,0.0,,,,,,,,0.0
+681,Here is a  summary  of  some  of  the issues discussed (Medicaid and offsets were not discussed):,0,1.0,,,,,,,,1.0
+682,Scoring.,0,0.0,,,,,,,,0.0
+683,"Kim and Sandy noted that while the 8-K bill produced savings over five years, the changes made to these provisions by the Senate now result in costs.",0,0.0,,,,,,,,0.0
+684,Work Incentive Grants.,0,0.0,,,,,,,,0.0
+685,"W&M staff noted the specialists proposed in 8-K were no longer in the bill, and asked SSA to explain the new grants.",1,0.0,,,,,,,,0.0
+686,"I added that the budget did not include the JKRM grants, but rather included an alternative grant program based in DOL.",1,0.0,,,,,,,,0.0
+687,Kim and Sandy requested to see any paper/legislative language the Administration developed on these grants.,1,0.0,,,,,,,,0.0
+688,Prisoner Provision -- Privacy Act Exemption.,0,0.0,,,,,,,,0.0
+689,Sandy noted that the prisoner provision language was changed and she asked for the rationale.,1,1.0,,,,,,,,1.0
+690,We explained that  SSA  did not  need to  be exempt  from the entire Privacy Act in order to collect and  share  the  information  under  this  provision.,1,0.0,,,,,,,,0.0
+691,The substitute language is meant to  only exempt  SSA  from the necessary  provisions.,1,1.0,,,,,,,,1.0
+692,We  also  noted that OMB-OGC and SSA-OGC continue to discuss this issue.,1,1.0,,,,,,,,1.0
+693,"W&M seems to be  fine  with  the change as long as the data sharing can still occur, and requested that we share any future changes with them.",1,0.0,,,,,,,,0.0
+694,Funding.,0,0.0,,,,,,,,0.0
+695,In several places the Senate changed authorization language to language that looks  more like appropriations language.,0,0.0,,,,,,,,0.0
+696,House staff hypothesized this  may  have  been  to  avoid  offsetting certain provisions.,0,1.0,,,,,,,,1.0
+697,"However, they  also  noted  that  the  funds  should  not  be  appropriated  through this bill, and would be supject to the discretionary caps.",0,0.0,,,,,,,,0.0
+698,Someone on House staff volunteered  to raise the issue with the appropriators.,0,1.0,,,,,,,,1.0
+699,He felt it was unlikely the House would pass the language.,0,1.0,,,,,,,,1.0
+700,Reauthorization of the Ticket.,0,0.0,,,,,,,,0.0
+701,"W&M is unhappy with the reauthorization language {staff referred to it as a ""five year sunset provision with a grandfather clause"").",0,1.0,,,,,,,,1.0
+702,"CBO noted that the change has little effect on 5 year numbers, but virtually all of the program's savings are lost over the 10 year period.",0,0.0,,,,,,,,0.0
+703,CLARIFICATION POINTS Continuing Disability Reviews.,0,0.0,,,,,,,,0.0
+704,There is some  confusion in  W&M  (as  in  SSA  and EXOP)  about  how the  two  provisions  that  eliminate   work  activity  as  a  trigger  for  a  disability  review  relate  to  each other.,1,0.0,,,,,,,,0.0
+705,SSA volunteered to provide a written rationale for the changes it would like to make.,1,0.0,,,,,,,,0.0
+706,Advisory Panel.,0,0.0,,,,,,,,0.0
+707,"W&M staff wanted to know if the Administration opposed the panel proposed in the Senate -- twice the size of the House panel and broader scope (SSA-based panel advises HHS, DOL, ED).",1,1.0,,,,,,,,1.0
+708,"SSA and I stated that while we preferred to build off of an  existing  interagency  panel  focused on employment for individuals with disabilities, we would not oppose the Senate panel.",1,1.0,,,,,,,,1.0
+709,State Agency Participation in the Ticket Program.,0,0.0,,,,,,,,0.0
+710,The Senate version enables State VR agencies to select payment methods on a case by case basis and to develop contracts with other participating providers/managers.,0,0.0,,,,,,,,0.0
+711,Kim Hildred wants to speak to someone from ED about these changes.,0,0.0,,,,,,,,0.0
+712,Medicare.,0,0.0,,,,,,,,0.0
+713,W&M staff asked several questions to get a better understanding of the provision.,0,0.0,,,,,,,,0.0
+714,"Specifically, they asked about the 10 year window, whether  disability  reviews  would be  conducted after an individual stops receiving DI cash benefits (they read it as ""no""), and costs.",0,0.0,,,,,,,,0.0
+715,Expedited Eligibility Provision.,0,0.0,,,,,,,,0.0
+716,"This was not discussed in detail, though Kathy Ruffing (CBO) did note that she scored it as a small caster instead of a small saver.",1,1.0,,,,,,,,1.0
+717,SSA will provide a  written rationale for this provision.,1,0.0,,,,,,,,0.0
+718,ADDITIONAL ISSUES,0,0.0,,,,,,,,0.0
+719,Milestone Payments.,0,0.0,,,,,,,,0.0
+720,SSA again requested that more specific language be adopted regarding milestones only being paid after an individual starts a job.,1,0.0,,,,,,,,0.0
+721,Kim and Sandy believe the language that enables the Commissioner to determine the timing and amount ofpayments is sufficient.,1,1.0,,,,,,,,1.0
+722,Individual Work Plans.,0,0.0,,,,,,,,0.0
+723,Senate language provides detailed requirements of what the plans must include and takes away the Commissioner ability to waive  the plans in  certain cases.,0,0.0,,,,,,,,0.0
+724,W&M  and SSA both prefer the House language.,1,1.0,,,,,,,,1.0
+725,Qualification for Employment Networks.,0,0.0,,,,,,,,0.0
+726,W&M staff are concerned that the flexibility built into the Senate language may allow McDonalds or other large employers to qualify for payments.,0,1.0,,,,,,,,1.0
+727,SSA does not believe the language would do this.,1,0.0,,,,,,,,0.0

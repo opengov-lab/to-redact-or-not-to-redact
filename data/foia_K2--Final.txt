@@ -1,0 +1,1341 @@
+﻿<label>|<Sentence Text>|<Always deliberative>|<Non IIA>|<Sentiment>|<Subjectivity>
+D1|That list sounds fine to me.|1||0.977152646|0.99282587
+D1|From #2, I would only highlight a & b -- I wouldn't do the others or make much of them.|1||-0.546556652|0.8848735
+D1|On #3, I would announce both now, I think.|1||0.993330777|0.61460066
+|||||
+D1|Rahm wants to leak the school violence report for Monday a.m.|1||-0.999751747|0.000158295
+D1|I don't think we're going to get much pressure for announcements.|1||-0.992566109|0.99957603
+|||||
+D1|Mike and I discussed a set of possible announcements and challenges that the President could make at Monday's TIMSS event.|1||0.917171597|0.58454156
+D1|Mike asked me to run them by you.|1||-0.880649209|0.26621473
+D1|Could you please take a particularly close look at # 2, the challenges?|1||0.970990241|0.6128779
+|||||
+D1|The President could:|1||-0.811511576|0.024017971
+|||||
+D1|1) Highlight the importance of moving forward on his education agenda, focusing heavily on the voluntary national 8th grade test but also mentioning class size, modern schools/school construction, urban education zones, High Hopes, teacher recruitment and training initiatives, and the $60 million middle school math initiative in the '99 budget.|||0.996320128|8.44E-08
+|||||
+D1|2) Issue a set of challenges for the nation to help address the issue.|||0.989904821|0.000177188
+D1|calling on:|||-0.840485275|0.4068691
+|||||
+D1|a. states to require new math and science teachers to pass assessments of their knowledge of math or science, and their capacity to teach their subject well, before getting their teaching license.|||-0.958660245|0.019149452
+D1|(33 states are members of an organization working to develop and put in place assessments like these over the next three years.)|||0.993943274|0.000338772
+|||||
+D1|b. states and school districts to insist that their math and science teachers have  either majored or minored in their subject area in college.|||-0.991255641|0.000157884
+D1|(The average K-8 math teacher only takes 3 undergraduate math courses.|||-0.941590905|0.08351166
+D1|28% of math teachers have neither neither a major nor minor in math, 55% of physics teachers have neither a major nor minor in physics, and 18% of science teachers have neither a major nor minor in science.)|||-0.91774261|0.001337847
+|||||
+D1|c. students to work hard and take tough courses in math and science in middle school and high school, and for those with real proficiency in math and science to consider making careers in teaching.|||0.990740418|4.10E-06
+D1|(To help students do this, also challenge schools to offer tough math and science classes for all students throughout middle and high school.)|||0.943926752|9.31E-06
+|||||
+D1|d. businesses to make clear that students' performance in school counts and look at students transcripts when considering them for jobs.|||0.997845888|0.017250683
+D1|The President could thank the Business Roundtable and National Alliance of Business for their work on this issue, and announce that he would convene a meeting of business leaders at the White House to stimulate action on this nationwide.|1||0.906676173|0.001208028
+|||||
+D1|e. universities to strengthen their programs preparing math and science teachers and to encourage more math and science majors to consider careers in teaching.|||0.991852939|2.94E-05
+|||||
+D1|f. parents to insist on finding out how their child is doing compared to national standards and compared to their peers around the nation and world.|||-0.850279391|0.000705592
+D1|(This leads into national tests, of course.)|||0.94691366|0.000327432
+|||||
+D1|The one other challenge to the states we might want to include is for states to adopt rigorous standards in math and science.|1||-0.882843256|0.2820374
+|||||
+D1|3) Announce new on-line help for parents, teachers, and students in math and science:|||0.978717566|4.17E-07
+|||||
+D1|a. TIMSS on-line challenge.|||0.990551949|0.07865502
+D1|Parents will be able -- beginning at back-to-school time this fall to download a math and science quiz from the internet, give it to their children, and get a rough sense of what their children need to know in math and science and how they are doing compared to their peers around the world.|||0.982806563|0.000540305
+|||||
+D1|b. New math and science web-site.|||0.741086841|0.81401205
+D1|On Monday, a new website will be available connecting teachers, parents, and students to good materials for curriculum and out-of-school math and science learning, drawing on the scientific resources of NASA, the Department of Energy, the National Science Foundations, and other federal agencies involved in math and science.|||0.741471827|1.34E-10
+D1|(Thus has been a collaborative effort among more than 40 agencies.|||0.997892916|0.32580447
+D1|It will be ready Monday, but we could also save this for a VP event later this month that could focus more squarely on this website and give more credit to all of the agencies involved.)|1||-0.93979466|0.37099648
+|||||
+D0|I. PURPOSE  To bring together leaders from government, business, education, and the scientific community to discuss the recent 12th grade|||0.973499596|0.024815958
+D0|Third International Math and Science Study (TIMSS) results, and to issue a set of challenges to the nation to improve student achievement.|||0.978063822|0.009177819
+D0|You will also announce new on-line math and science help for parents, teachers, and students.|||0.83261162|0.002103876
+|||||
+D0|BACKGROUND You will be meeting with 25 leaders from government, business, education, and the scientific community to discuss how the nation should respond to recent findings from the Third International Math and Science Study (TIMSS) that while U.S. 4th graders are near the first in the world in science and above average in math, U.S. 12th graders lag below the international average in both subjects.|||0.830364108|0.18201986
+|||||
+D0|"These results demonstrate the importance of implementing your education agenda, including proposals for: national standards and tests in math and reading, smaller classes with well-prepared teachers, modem school buildings, Education Opportunity Zones to end social promotions and fix failing schools, technologically advanced schools, and ""High Hopes"" mentoring to encourage students to take tough classes and prepare for college."|||0.995404363|1.65E-06
+|||||
+D0|In addition to reiterating your legislative proposals, you will issue the following new challenges to boost student achievement in math and science.|||0.653081775|0.8034698
+|||||
+D0|â€¢ Reducing out-of-field teaching.|||0.987963676|0.74386644
+D0|You will challenge states and school districts to reduce the percentage of math and science teachers without a major or minor in their subject area.|||0.88194716|0.04564837
+D0|The average K-8th grade math teacher takes only three undergraduate math courses.|||-0.968765259|0.15982378
+D0|Twenty-eight percent of secondary math teachers lack a major or minor in their subject area, as do 18% of secondary science teachers and 55% of physics teachers.|||-0.956556261|0.000902588
+|||||
+D0|â€¢ Rigorous Tests for New Teachers.|||0.997968137|0.6783092
+D0|You will challenge states to require all new teachers of math and science to pass challenging tests of math or science knowledge and teaching proficiency.|||0.881026447|0.82743293
+D0|With nearly half of our nation's teaching force to be replaced over the next several years in order to accommodate growing student enrollments and an aging teaching force, raising standards of teaching now can boost the quality of our schools for decades.|||0.999240279|0.002071846
+|||||
+D0|â€¢ A Call to Action for Schools, Students, and Parents.|||0.992730796|0.014259061
+D0|You will challenge schools to offer -- and students to take -- tough math and science courses throughout middle school and high school.|||0.608982742|0.3817259
+D0|Only 25% of U.S. students take algebra before high school, and only 25% of U.S. high school students take physics before graduating.|||-0.995534062|6.37E-08
+D0|You will challenge parents to insist that school districts provide ways of showing how children are doing compared to national standards and international benchmarks.|||0.951584339|0.9419856
+D0|Today, parents have no way of finding out how their children do compared to the international standards in TIMSS.|||-0.951353073|0.04377594
+|||||
+D0|You will also announce the following new on-line resources for parents, students, and teachers:|||0.86549449|0.003735571
+|||||
+D0|"â€¢ ""Federal Resources for Educational Excellence"" (FREE) Web-site."|||0.928847432|0.021710074
+D0|A new website is available today to connect teachers, parents, and students to teaching and learning resources in math, science, and other subject areas from NASA, the Energy Department, the National Science Foundation, and other agencies.|||0.979070783|3.83E-10
+|||||
+D0|â€¢ The TIMSS On-Line Challenge.|||0.995219171|0.8788581
+D0|The U.S. Department of Education will launch this fall a website that puts TIMSS math and science problems on-line.|||0.63650471|0.15880354
+D0|This will enable parents to give a quiz to their children, learn what their children should know in math and science, and learn how their children are doing compared to students from other countries.|||0.99184376|1.05E-05
+|||||
+D0|Summary of the TIMSS Results: TIMSS showed that U.S. 12th graders scored among the lowest of2I nations in general math and science, with the U.S. outperforming only Cyprus and South Africa.|||-0.976718903|0.99932766
+D0|Performance of U.S. 12th graders in advanced math and physics courses also lagged behind their peers from other nations.|||-0.923398376|0.033926174
+D0|The 12th grade findings completed a multi-year study showing U.S. 4th graders near the first in the world in science and above average in math, with U.S. 8th graders slightly above the international average in science and below the international average in math.|||0.936457574|0.38460127
+D0|The 21 nations participating in the 12th grade study were the U.S., Canada, Australia, and many European nations.|||0.831724346|0.000296217
+D0|No Asian countries participated in the 12 grade tests.|||-0.997992516|0.022119828
+D0|(See attachment of how the U.S. ranks compared to each participating country for all three grades.)|||0.951966822|0.09972247
+|||||
+D0|While there is not yet an analysis of the 12th grade TIMSS, an analysis was done of the 8th and 4th grade TIMSS.|||-0.779729664|0.13485532
+D0|The analysis found that U.S. curriculum was less advanced, and that it covered more subjects superficially rather than a few subjects in depth.|||-0.997460246|0.9984464
+D0|The analysis also showed that U.S. teachers often do not get as much training as those in other nations.|||-0.996179104|0.8703616
+|||||
+D0|Although other tests (including the National Assessment of Educational Progress) show that U.S. student achievement is improving, TIMSS makes clear these improvements are not rapid enough to keep pace with other nations in an increasingly global economy.|||0.818175197|0.9973028
+|||||
+D0|Springbrook High School is a good school with above-average test scores.|||0.99225837|0.5456917
+D0|Although the school has a solid math and science program, it is not particularly stronger than any of the other academic areas taught in the school.|||-0.999271452|0.30564427
+D0|Springbrook has a very diverse student body (35% African American, 20% Asian, 16% Hispanic, 28% white), and it enrolls a total of 2,200 students.|||0.996351957|3.25E-05
+|||||
+D0|Last week Springbrook High School held its first Anti-Violence Week, to honor one Springbrook student and one fonner student who were killed within the last year.|||0.583896995|1.69E-06
+D0|Fonner Springbrook student Alfredo Enrique Tello, Jr. was brutally killed at age 19.|||-0.991944969|0.000376527
+D0|Samuel Sheinbein (who fled to Israel) and Aaron Needle are charged with the murder.|||-0.868178666|4.53E-07
+D0|Two months later a Springbrook student Elmer Flores was killed in a robbery.]|||-0.926795006|6.06E-07
+|||||
+D0|IV. PRESS PLAN MEETING: Pool Press for Opening Statement.|||0.996086717|0.97207314
+D0|Meeting is then Closed Press.|||-0.53283447|1.51E-05
+D0|SPEECH: Open press remarks before the student body.|||0.951842308|0.006894109
+|||||
+D0|V. SEQUENCE OF EVENTS - YOU will be greeted at the school by Principal Mike Durso, Governor Glendening, Superintendent of Schools Nancy Grasmick, and Members of Congress.|||0.995598316|0.009470975
+D0|â€¢You will also be greeted by Michael Cohen's son, Ross, who attends Springbrook.|||0.999059856|0.897251
+D0|#NAME?|||0.945982635|0.117591545
+D0|(All other participants will already be seated.)|||0.978539348|0.010227024
+D0|#NAME?|||0.810277224|0.015223138
+D0|#NAME?|||0.750495195|0.89773595
+D0|Sec. Riley will make remarks and introduce Bill Schmidt, TIMSS Nat'l Coordinator.|||0.862749279|0.98145527
+D0|#NAME?|||-0.910843372|0.07335942
+D0|- YOU will begin the meeting by calling on Secretary Pena to briefly describe the Energy Department's commitment to Science education.|||0.916543663|0.27931997
+D0|#NAME?|||0.987661958|0.12939413
+D0|Each participant will give a brief statement on their view of the improvements that can be made in math and science education, and you are free to respond.|||0.621769011|0.62496024
+D0|(YOU should begin by calling on the Governors and Mayors present.)|||0.85569638|0.012895866
+D0|Â· - IO minutes prior to the close of the meeting Bill Nye will depart to the auditorium, where he will do a brief pre-program for the students.|||-0.849525511|0.7170937
+D0|#NAME?|||0.990449727|0.002438009
+D0|#NAME?|||-0.991570473|0.5545327
+|||||
+D0|Speech to the Student Body: - YOU will be announced onto the stage accompanied by the school Principal and Secretary Riley.|||0.986534655|0.056464653
+D0|#NAME?|||0.963515878|0.9326235
+D0|#NAME?|||0.835400164|0.9789171
+D0|#NAME?|||0.798214674|0.45400497
+D0|#NAME?|||-0.995497346|0.7970639
+|||||
+D0|VI. REMARKS Provided by Speechwriting.|||-0.597293317|0.96093863
+|||||
+D0|DISCUSSION POINTS FOR EDUCATION MEETING|||0.989706993|0.9835752
+|||||
+D0|(l) Improving performance is critical to U.S. economic growth and individuals personal opportunities|||0.994346321|0.28940684
+D0|â€¢ Most of the highest growth areas in our economy are in areas that require strong math and science skills (e.g., information technology, health professions, systems analysts, engineers).|||0.999235392|0.000349737
+D0|â€¢ Almost 90% of new jobs require more than a high school level of literacy and math skills.|||0.986429334|0.9933755
+D0|â€¢ For students to get on the road to college and high paying jobs, math and science skills are critical.|||0.996004879|0.001256784
+D0|Students who take algebra and geometry go to college at much higher rates (83% vs. 36%) than those who don't.|||0.967002213|5.42E-07
+|||||
+D0|(2) We must have higher standards and expectations in middle and high school mathematics and science.|||0.947927654|0.002131
+D0|In grades 4-8, students in other nations are studying algebra, geometry and other topics, while U.S. students continue to be taught primarily arithmetic.|||0.568169057|0.000313153
+D0|The content taught in U.S. eighth-grade mathematics classrooms is generally at a seventh grade level compared to the 40 other nations in the TIMSS study.|||0.953093112|0.32655147
+D0|A recent international comparison of science and math examinations for collegebound students by the AFT shows that our SAT, ACT, and AP exams are much less rigorous than similar exams from other nations.|||-0.90365845|0.9968893
+D0|The standards of state assessments vary widely, and many 8th grade mathematics assessments are less rigorous than the NAEP standards.|||-0.960241497|0.9991774
+D0|The voluntary national tests will help address this.|||0.910398364|0.000803078
+|||||
+D0|(3) Students should take four years of rigorous high school mathematics and science.|||-0.518647254|7.78E-05
+D0|â€¢ Only 25% of U.S. high school students take physics and only 10% take calculus.|||-0.998385787|0.07390915
+D0|Most students do not take four years of high school mathematics and science.|||0.502475262|0.005875641
+D0|Even among college bound students, less than half do so.|||-0.948985219|0.6660753
+D0|Businesses can demonstrate the importance of a rigorous course of study by looking at student transcripts when making hiring decisions.|||0.991787136|0.009752051
+D0|The U.S. Chamber of Commerce, the National Alliance of Business, and the Business Roundtable are encouraging employers to do this.|||0.969762087|0.04042762
+|||||
+D0|(4) U.S. curriculum should be more focused, instead of covering more subjects superficially.|||-0.995351195|0.9761286
+D0|"â€¢ At 8th grade, U.S. mathematics and science curriculum is less focused than that of other nations --""a mile wide and an inch deep."""|||-0.998286068|0.58771664
+D0|The typical U.S. 8th grade mathematics textbook covers 35 topics while the typical Japanese 8th grade textbook covers 7.|||-0.844291449|0.5177927
+|||||
+D0|(5) Teachers must be prepared to teach challenging math and science.|||0.977620065|0.009485699
+D0|The average K-8 teacher of mathematics takes only 3 undergraduate math courses.|||-0.968820393|0.033636913
+D0|In high school, in 1993-94, 28% of mathematics teachers, 18% of general science teachers and 55% of physics teachers were teaching out-of-field, meaning that they have neither a major nor a minor in the subject they teach.|||-0.997553289|3.96E-07
+D0|â€¢ TIMSS found that in a typical U.S. classroom, students are drilled to learn how to repeat how the teacher solves a problem.|||-0.524200618|0.8359366
+D0|In Japan, students are asked to solve problems and then present their methods and solutions to the class in order to increase their own understanding.|||0.997198224|3.27E-06
+D0|This is why it is essential that states require new teachers to take rigorous tests of their knowledge and skills, that states and districts reduce the number of out-offield teachers, and that colleges and universities commit to recruiting and preparing more top-notch math and science teachers.|||0.811044395|0.000320879
+|||||
+D0|(6) Our students do not start behind, they fall behind.|||0.995152235|5.25E-05
+D0|â€¢ In comparison with students in other nations U.S. 4th graders students are above average in mathematics and second only to Korea in science.|||0.994064867|0.18874311
+D0|"The strong performance of the ""First in the World Challenge"" districts north of Chicago show that with the right effort, our students can be first in the world."|||0.997249186|0.16732624
+|||||
+D0|(7) U.S. achievement in mathematics and science is improving, but not fast enough.|||-0.982246816|0.62124234
+D0|The achievement of U.S. students has improved in the last decade as shown by higher scores on the NAEP, SAT, and ACT.|||0.993843079|0.95754564
+D0|â€¢ TIMSS and other international assessments show that other nations are also improving.|||0.997077107|0.9805387
+D0|Thus, to improve our relative international standing and remain competitive in the increasingly global economy, we must redouble our efforts.|||0.896147311|0.007483617
+|||||
+D0|(8) U.S. students are mastering the basics of computation but have troubles with more advanced content and skills|||-0.906222701|0.7491483
+D0|Both NAEP and TIMSS show that our students do well in the basics of computation.|||0.999053895|0.5412864
+D0|79% of 8th graders can add, subtract, multiply and divide.|||0.917173386|0.95688826
+D0|â€¢ Our students have trouble with more advanced content (geometry, measurement, algebra) and with solving multi-step problems.|||-0.99779737|0.31202838
+|||||
+D0|(9) We must destroy the myth that math and science are only for a few students.|||-0.984761|0.005695504
+D0|â€¢ Surveys show that about half of middle and high school students say they will drop math and science as soon as they are able to -- even if they want to go into fields such as engineering or medicine that require math and science knowledge.|||0.543837547|0.11323392
+|||||
+D0|PARTICIPANTS IN MEETING ON MATH AND SCIENCE EDUCATION Secretary Richard Riley Secretary Federico Pena Governor Parris Glendening, Maryland Governor Cecil Underwood, West Virginia Mayor Richard Daley, Chicago, IL Mayor Richard Riordan, Los Angeles, CA Mayor Lee Clancey, Cedar Rapids, IA William Schmidt, National Coordinator for TIMSS, Professor at Michigan State University Rudy Crew, Chancellor of New York City Schools Diane Ravitch, Former Assistant Secretary of Education in the Bush Administration.|||0.986034989|6.99E-06
+D0|Currently, a Senior Fellow at Brookings and Research Professor at New York University.|||0.979494214|4.33E-08
+D0|"Bruce Alberts, President of the National Academy of Sciences Neil Lane, President of the National Science Foundation Bill Nye, Host of Weekly Television Show,""Bill Nye The Science Guy"" Alan Wurtzel, Vice Chairman of the Board for Circuit City, and Chair of the National Alliance of Business Task Force on Education Standards Wilmer Cody, Chair of the Chief State School Officers and Commissioner of Education in Kentucky Robert Moses, Director of the Algebra Project, which helps disadvantaged students prepare for rigorous math classes Bob Chase, NEA President Sandy Feldman, AFT President Nancy Grasmick, Superintendent of Schools, Maryland Migues Nevarez, President of University of Texas Pan American Walter Secada, Professor of Math and Science Education at the University of Wisconsin, and Director of the Hispanic Dropout Project Cindy Mayorga, Springbrook High School Student Cyrus Ishikawa, Springbrook High School Math and Physics Teacher Congresman Wynn Senator Sarbanes"|||0.956438243|7.27E-08
+|||||
+D0|I now have confirmations from Ed Rust, (State Farm CEO), Mayor Daley, Rudy Crew, Diane Ravitch and Bill Schmidt (Mr. TIMSS).|||0.95179075|4.76E-05
+D0|I should get confirmation from Feldman and Chase shortly; their staff were working on rearranging their schedules.|||-0.711057723|0.024533834
+|||||
+D0|I'll provide additional updates on other participants as soon as I have them.|||0.764809132|0.10023525
+|||||
+D0|are just about there--as soon as I can tell them what time the meeting is, they can complete|||0.99889946|0.35138363
+|||||
+D1|If it helps, here is a first cut at a meeting list:|1||-0.590618312|0.4971003
+|||||
+D1|â€¢ Lou Gerstner, IBM â€¢ Ed Rust, State Farm (head of National Alliance of Business, Business Roundtable Education Task Force, and new member of ACHIEVE Board.|||0.998461843|0.001026743
+D1|â€¢ Gov. Engler or Gov. Voinavich (the political people here will go nuts over Engler, but he's the best R gov. if we want to use this to move our testing agenda forward.|1||0.997851729|0.999426
+D1|â€¢ Gov. Hunt, Gov. Romer or Gov. Carper â€¢ Diane Ravitch â€¢ Mayor Daley or another mayor into education (if Rahm really wants a mayor) â€¢|1||0.991022825|0.000124345
+D1|Bill Schmidt (head of TlMSS study) â€¢ Norma Paulus, Oregon state superintendent of education â€¢ Paul Kimmelman or another representative of Chicago-area 1st in world consortium â€¢ 2 outstanding math/science teachers â€¢ Bob Corrigan, President of Cal. State U system, or Richard Atkinson, President of UC system (and former head of NSF in Carter Administration) â€¢|||0.99971503|2.83E-07
+D1|Hugh Price â€¢ a few scientists/mathematicians, and a few people who would add greater diversity to the list.|1||0.999047458|0.5934783
+D1|â€¢ Bab Chase and Sandy Feldman if we want them|1||0.996718824|0.3573798
+|||||
+D1|This list is too long--and will take some work to keep to a manageable size and still give us what we need.|1||-0.999475896|0.9995421
+|||||
+D1|A Wednesday announcement - almost two weeks before the meeting -- is a guarantee that we will spend considerable time between now and then dealing with people who are ticked off that they are not invited, or represented in some way.|1||0.571865976|0.9992531
+|||||
+D1|One of the possible amendments to the ed-flex bill is an amendment from Lieberman adding a Mccain-Lieberman Troops to Teachers bill.|||-0.953944266|0.5312644
+D1|I am reviewing the bilI tonight, but I think it differs from our Troops to teachers plan -- most important in that it limits participation in the program to retiring military.|1||-0.507956505|0.9994856
+D1|We have said our proposal would support other mid-career professionals as well.|1||-0.628425062|0.7014453
+D1|I'll read the bill and have more information on this tomorrow morning, but I wanted to give you a heads-up on this.|1||-0.918961942|0.9915975
+|||||
+D0|"FYI--POTUS is in fact consistent on this issue; I checked the statement that Riley put out after the '96 debate (after he said something to the effect of "" ... if people in Milwaukee or Cleveland want to have vouchers, I say 'let 'er rip'""),"|||-0.822729647|0.89280295
+|||||
+D0|According to this statement that was carefully negotiated with his Secretary of Education, the President: 1. opposes the use of federal funds for vouchers|||-0.576620936|0.10885879
+D0|2. believes the use of state or local funds for vouchers are state or local decisions|||-0.78805232|0.001001957
+D0|3. as he said about the 1995 Cal. voucher ballot initiative, the President would personally oppose state or local voucher plans if he were a voter in a state or locality.|||-0.570717216|0.004074725
+|||||
+D1|Attached is a slightly edited answer for the voucher question --clarifying that the President opposes using federal funds for vouchers:|1||-0.681904078|0.98035645
+|||||
+D1|Q. The Wisconsin Supreme Court ruled today that the private school voucher program in Milwaukee is constitutional.|||0.803973317|0.3983613
+D1|In light of the President's opposition to school vouchers, what is his view of this decision?|1||-0.904750705|0.124414
+|||||
+D1|The President has not had a chance to review the Court decision.|||0.512711227|0.02199386
+D1|However, the President is opposed to using federal funds for school vouchers because he believes that we must use public funds to strengthen our public schools.|1||0.628578603|0.006190834
+D1|We must raise standards, increase accountability, expand public school choice, and invest taxpayer resources in the steps that will make a difference, such as reducing class size, improving teaching, and modernizing our school buildings.|1||0.754074872|0.94181335
+D1|He is opposed to diverting federal funds away from the public schools, which serve 90% of the students, when the needs there are so great.|1||-0.723833799|0.013516068
+D1|The Wisconsin Supreme Court decision does not changes these views, nor the President's opposition to private school vouchers.|1||-0.806371629|0.924137
+|||||
+D0|I just got a heads up from the Education Department and Kennedy's staff that the Coverdell-Craig-Abraham Drug-Free Neighborhoods Act amendment to the Tobacco bill may well contain a provision, offered last year by Senate Republicans, that allows federal funds to he used to give vouchers to kids who are victims of school violence, including drug-related crimes.|||-0.999187887|0.002160814
+|||||
+D0|"The overview/summary of the bill reads: DRUG-FREE SCHOOLS: makes it an allowable use of federal funds to provide school choice or compensation for k-12 students who are the victims of school violence, including drug-related crimes .... """|||-0.59349364|0.8665128
+|||||
+D1|In the education world, a tobacco bill that doesn't have class size reduction but does provide for vouchers would be seen as a complete disaster.|1||-0.996620178|0.99187344
+D1|I don't know where things stand in the negotiations over this amendment, but it would be great if we could indicate that this particular provision would be a deal breaker.|1||-0.926617384|0.999905
+D1|Otherwise, the R's may be using this to set the Dems up to take responsibility for bringing down the tobacco bill.|1||-0.958553016|0.034863155
+|||||
+D0|The Administration strongly opposes H R. 2746.||1|-0.969272971|0.9374095
+D0|If the bill were presented to the President, his senior advisers would recommend that the bill be vetoed.||1|-0.944798529|0.17568383
+D0|Under H.R. 2746, States and local school districts could provide vouchers for basic instruction in private schools, using funds that are otherwise available for the supplemental costs of education reform under Title VI of the Elementary and Secondary Education Act of 1965.||1|-0.97710526|4.05E-05
+D0|Federal funding of private school vouchers is bad policy because it would divert needed attention and resources from the Nation's public schools, which serve approximately 90 percent of students in kindergarten through twelfth grade.||1|-0.999464333|0.98845893
+|||||
+D1|The problematic rule and these two bills are now expected to come up on the House floor tomorrow (Thursday);|1||-0.978071272|0.008493695
+D1|Andy Blocker has confirmed that Democratic leadership will be opposing the rule;|1||-0.976876795|0.057632215
+D1|the question is whether any moderate Republicans who support charter schools and don't want to mess up the Riggs-Roemer bill will vote against it as well.|1||-0.994519055|0.9664923
+D1|Jon Schnur is letting John Doerr's folks know about this, because they have a strong interest in charter schools, and is also getting the word out to some in the charter schools community, who probably wouldn't want to see the bill fouled up.|1||-0.993582785|0.999209
+|||||
+D0|"As we had heard was a possibility, for House floor consideration, Goodling has requested a ""self-executing"" rule, under which the voucher bill (HELP) would come up first, then the charter schools bill, and then once both bills have passed the voucher bill would automatically be added to the charter bill before it goes over to the Senate."|||-0.612058461|4.68E-05
+|||||
+D0|In the 21st century, our children must have the best education in the world.||1|0.997754991|0.002319015
+D0|I am committed to making sure every eight-year old can read, every l 2-year old can log on to the Internet and every I 8-year old can go to college.||1|0.985794306|0.5536882
+D0|And we have made significant progress to improve and strengthen public education.||1|0.999429882|0.016382642
+|||||
+D0|But as Congress continues to debate the Education Bill this fall, it's become very clear that there some who are waging a multi-front war against our public schools.||1|-0.95395577|0.8646446
+|||||
+D0|First, the Senate has passed an amendment that would virtually kill the Department of Education and abolish some of its most successful efforts to expand public school choice, to bring computers to every classroom, to create more safe and drug-free schools.||1|-0.976868391|0.004046565
+|||||
+D0|Second, the House of Representatives has voted to prevent America from setting the high national standards of academic excellence that we must have to ensure every child masters the basics.||1|0.591795564|0.018507736
+|||||
+D0|I have vowed to veto both pieces of legislation.||1|-0.978838384|0.9361782
+D0|And I am pleased that 43 Democratic Senators have announced their intention to support high national standards and sustain my veto.||1|0.974693418|0.5424635
+D0|Third, in a vote to occur today, some in Congress would diminish our country's commitment to public education by siphoning badly-needed funds away from our public schools into a voucher program that would support private education for a limited number of students.||1|-0.93394798|0.9592832
+D0|Ninety percent of America's children attend public schools.||1|0.962518513|0.086382076
+D0|Our public schools are already facing a host of challenges with very limited funds.||1|-0.984310746|0.18845756
+D0|And we must continue to support proven reform efforts -- making schools safer, getting parents more involved, raising standards and improving teaching.||1|0.992872059|0.16394171
+|||||
+D0|Education has always been a public enterprise in America.||1|0.998963237|0.11058305
+D0|Public schools are the cornerstone of American democracy.||1|0.996705472|0.006878378
+D0|Throughout history, we have always recognized our common responsibility for preparing all our young for the challenges of the future and duties of citizenship.||1|0.998407781|0.000283777
+D0|I call upon Congress to stand by our public schools, not walk away from them.||1|0.869206607|0.012184327
+|||||
+D1|Elena-- on the voucher amendment, Lott did not introduce this; Dominici did for Coverdale.|||0.732379317|0.9001694
+D1|See how much confusion is rampant on this?|1||-0.998010814|0.024396893
+|||||
+D1|I would stress in the weekly (1) that it happened;|1||-0.995940804|0.007234298
+D1|(2) that is was occasioned by confusion; it happened quickly, the amendment was so poorly drafted that it is unimplementable;|1||-0.999770582|0.10480811
+D1|(3) that it provides something of a symbolic victory but one that we can and will downplay because of the confusion.|1||0.530815721|0.997549
+|||||
+D1|The education amendment adopted in the Senate by a vote of 51-49 (Domenici voting for) was intended to allow the Labor Committee to fund school vouchers for children who are the victims of crime.|||-0.624665439|0.002535523
+D1|It is basically not implementable although it does change budget resolution numbers.|1||-0.999979615|0.9999945
+D1|The amendment came in the form of a second degree to the Wellstone amendment (the Republicans wanted to avoid an up or down vote on Well stone).|1||-0.848417819|9.88E-05
+|||||
+D1|The text of the amendment states the intent as described above, and simply strikes Wellstone number changes and inserts an additional (not offset) $2.5 billion in 2000 in budget authority for Function 400, it also adds an additional $2.5 billion in budget aggregates.|||-0.991802394|0.99990916
+D1|Outlays are not changed, the discretionary caps are not changed, nor is the Labor Committee reconciled the additional spending.|||-0.996715665|0.9999852
+D1|Since the stated intent of the amendment is not binding, the only effect of this amendment is to increase Function 400 education spending (budget authority only) in the year 2000.|||-0.95746243|0.94764537
+|||||
+D1|During the debate, there was a great deal of confusion about the amendment and and many members (including possibly Senator Domenici) apparently thought it was a Sense of the Senate.|||-0.999600232|0.00273162
+D1|The education community is concerned that some will represent this as a test vote on vouchers (the Senate has always filibustered vouchers in the past) but I'd chalk it up to confusion and play down the voucher piece of this.|1||-0.968934894|0.9999474
+|||||
+D1|In any event, there is common agreement internally that the amendment should be dropped in conference.|1||-0.929497302|0.08481382
+|||||
+D0|Developed countries are responsible for more than 75% of the increase in greenhouse gas concentrations since the beginning of the Industrial Revolution.|||0.99573791|0.07267091
+D0|In the decades ahead, however, emissions from developing countries are expected to grow sharply.|||0.823392928|0.002555291
+D0|By 2035, developing country emissions are expected to exceed those from the developing world.|||0.945687115|0.001440123
+|||||
+D0|Per capita emissions vary widely.|||-0.859615147|0.9958412
+D0|Carbon emissions from the United States are roughly 5 tons per person;|||-0.992318392|0.16541882
+D0|from the OECD as a whole, roughly 3.5 tons per person; and from developing countries as a whole, roughly 0.5 tons per person.|||-0.951815605|0.36316705
+|||||
+D0|"The Framework Convention on Climate Change, signed at the Rio ""Earth Summit"" in 1992, established differentiated levels of commitments for developed and developing countries."|||0.961019754|0.009971564
+D0|It called upon developed countries to take the lead in addressing climate change and to aim to return emissions to 1990 levels by the year 2000.|||0.959131062|0.004114361
+D0|It called upon developing countries to adopt policies and measures to address climate change, but provided no aim for developing countries similar to the year 2000 goal.|||-0.920947134|0.66169924
+D0|These differentiated commitments were intended to recognize both the unequal contribution of developed and developing countries to global greenhouse gas concentrations and the unequal capacity of those countries to control emissions.|||0.982562065|0.80444676
+|||||
+D0|In 1995, in Berlin, the Parties to the climate treaty agreed to negotiate steps for controlling greenhouse gas emissions beyond the year 2000.|||0.954990923|0.032731295
+D0|"The negotiating mandate calls on developed countries to set quantified emissions limits for the ""medium term ( e.g. 2005, 2010 and 2020)."""|||0.750455737|0.17488806
+D0|In Berlin, the United States argued strongly that developing countries must participate meaningfully in negotiations over next steps.|||0.658965588|0.007550268
+D0|There was little support for the U.S. position on this point, with many Parties noting the failure of most developed countries to take significant steps toward meeting the year 2000 goal.|||-0.999389887|0.99370605
+D0|"The Berlin Mandate states that there will be ""no new commitments"" for developing countries in the current round of negotiation, but that developing countries will be required to advance the implementation of their existing commitments."|||0.585401177|0.71813095
+|||||
+D0|This is the most difficult issue in the current round of negotiations.|||-0.989251196|0.27808574
+D0|There is a vast gulf between the dialogue abroad (where the U.S. proposal for developing country participation is almost uniformly considered too aggressive) and at home (where more than 60 Senators have signed a resolution insisting on developing country commitments beyond those contemplated in either the U.S. proposal or current negotiating mandate).|||0.985377133|0.9976228
+|||||
+D0|In January, 1997, the U.S. submitted a draft protocol proposal.|||-0.80334878|0.019875344
+D0|"Provisions on developing countries included three elements: (1 calling for the negotiation by 2005 of a new agreement with legally binding emissions targets for all countries, including developing countries, and a ""graduation mechanism"" under which Parties would automatically assume additional obligations as their living standards increase (the ""evolution"" concept); "|||-0.596567214|0.2155424
+D0|(2) establishing a new category (Annex B) of commitments for the most advanced developing countries (providing a halfway house between commitments of developing countries and the more extensive obligations of OECD members);|||0.998411536|8.72E-08
+D0|"and (3) an elaboration of existing commitments (defining what would be meant by ""continuing to advance the implementation of existing commitments"")."|||0.998897672|0.14839832
+D0|"This final element contained several components, including a requirement to report annually on emissions and actions taken to reduce emissions and take ""no regrets"" actions (actions which would benefit the climate system, but which might be taken for other economic or environmental reasons)."|||0.966728747|0.7242915
+|||||
+D0|B. Reaction Abroad|||0.992263913|0.50377446
+|||||
+D1|Support for the U.S. proposal is scant.|||-0.99849236|0.9929998
+D1|While the third element is considered within the ambit of the Berlin Mandate by nearly all Parties, most countries have argued that the other two elements (i.e., evolution and Annex B) are beyond its scope.|||-0.563858092|0.976489
+D1|The U.S. has been urged to drop its proposal for a new annex.|1||-0.997912109|0.8395011
+D1|We have also been urged to drop our proposal for evolution (in favor of a separate agreement at some future date).|1||-0.999635458|0.017178344
+|||||
+D1|The following blocs are active in the negotiations:|||0.888992965|0.004920941
+D1|European Union.|||0.906659603|0.004098653
+D1|EU support for developing country commitments has been very soft.|||0.978691638|0.9983
+D1|"They have supported U.S. proposals for advancing existing commitments, and have proposed that Mexico and Korea take on stronger commitments (not too far removed in substance from the U.S. Annex B), but are not prepared to accept the U.S. language on ""Evolution"" adopted as part of the Kyoto agreement."|1||-0.988684714|0.9938154
+D1|They do not support joint implementation with developing countries.|1||-0.999219537|0.006550346
+|||||
+D1|Non-EU OECD Members (principally Japan, Canada, Australia).|||-0.684820652|0.000208006
+D1|This group of countries broadly supports including developing country obligations under the Kyoto Agreement.|||0.995755851|0.39309558
+D1|Australia and Canada are the most vocal in support of action, while Japan, as host of the December session, is concerned that an aggressive approach would potentially derail the negotiations.|||-0.747164369|0.7405944
+D1|As nearly all countries in this bloc have extensive competitive trade outside of the OECD, they are more aggressive in demanding developing country action With the exception of Japan, this group supports joint implementation.|||0.984844625|0.9813436
+|||||
+D1|Big Developing Countries (China, India and Brazil).|||0.990827739|0.00053371
+D1|These three countries are the primary drivers of the developing country position - and some of the world's largest emitters (China is second after the U.S., and India is number six).|||0.977461398|1.89E-06
+|||||
+D1|These countries have taken a standard north-south line, arguing that global warming has been caused by the developed world, and calling upon the industrialized countries to pay for the clean-up.|||-0.9383834|0.27511168
+D1|They claim that when developing countries have incomes and per capita emissions equal to those of the North, they will then participate in the clean-up effort.|||-0.729039609|0.007816428
+D1|In spite of their often strident public rhetoric, these countries (particularly China and Brazil) have shown a willingness to engage on this issue on a bilateral basis.|||0.980916083|0.9051342
+D1|They have active domestic climate change mitigation efforts, and have privately indicated a support for many elements of the U.S. proposal.|1||0.990066886|0.00648665
+D1|However, they all oppose joint implementation.|1||0.563904107|0.004691248
+|||||
+D1|OPEC.|||0.94460541|0.6646485
+D1|Well organized in the climate negotiations, the OPEC countries have been led by Saudi Arabia and Nigeria, and advocate positions designed to slow or block the negotiations.|||0.988129318|6.81E-05
+D1|These countries have strongly urged: (I) that developing countries should not have to act now,|||0.914065242|0.022429757
+D1|(2) that industrialized countries should compensate developing countries that might be affected by any action taken in industrialized countries to reduce emissions (principally noting that reduction in oil revenues should be compensated).|||0.758315921|0.9999325
+|||||
+D1|Small Island States.|||-0.977744877|7.37E-05
+D1|A group of 37 small island states have banded together to create an alliance (AOSIS) that seeks to balance OPEC's influence.|||0.803944051|0.000690891
+D1|Largely composed of member countries with low lying territory which will be gradually inundated by climate-associated sea level rise, these countries have pushed an aggressive next steps to combat the problem - calling for a 20 percent reduction in industrialized country emissions below 1990 levels by the year 2005.|||0.917341948|0.9928556
+D1|The AOSIS countries have been reluctant to support U.S. calls for developing country action; their proposal omits any mention of any developing country commitments to be undertaken as part of the Kyoto agreement, and they oppose JI.|||-0.968619704|0.998211
+|||||
+D1|An agreement in Kyoto that includes the current U.S. developing country position will be extremely difficult to achieve.|1||-0.999871492|0.99902856
+D1|State Department believes that, at a minimum, this would require U.S. support for a target and timetable perceived by the rest of the world to be serious, an aggressive effort to support replenishment of the Global Environment Facility, and an intensive diplomatic campaign.|1||-0.862929285|0.24200563
+D1|Even with these elements, an agreement that includes the U.S. developing country position will be very difficult to achieve.|1||-0.998852849|0.9903081
+|||||
+D0|C. Reaction At Home|||0.989051878|0.04389172
+|||||
+D1|The domestic dialogue on this issue stands in stark contrast to discussions abroad.|1||0.998895526|0.44644454
+D1|"Many in the business and labor community are deeply concerned about the trade and competitiveness impacts of ""differentiated"" commitments for developing countries under the climate treaty."|1||0.872407317|0.19042246
+D1|"Particular concern has focused on China and ""newly industrialized countries,"" such as Korea."|1||-0.85109514|0.09080298
+|||||
+D1|"Last month, Senator Robert Byrd proposed a sense of the Senate resolution opposed to any agreement that does not contain ""specific scheduled requirements"" for developing countries during the same compliance period as those for developed countries."|1||-0.658948362|0.8329009
+|||||
+D1|The resolution quickly garnered 60 co-sponsors.|1||0.960507095|0.9860685
+D1|As drafted, the resolution appears inconsistent with the current negotiating mandate (which does not envision quantified emissions limits for developing countries).|1||-0.994906962|0.99813336
+D1|During the past several weeks, however, there has been considerable discussion with Senator Byrd and others about the exact meaning of the resolution.|1||-0.815469146|0.002518622
+D1|"Senator Byrd has stated that commitments of developing countries should be based upon their own ""pace of industrialization."""|1||-0.832630634|0.27670145
+D1|Senator Chaffee has prepared a more moderate resolution that would require developing countries to take on commitments with a I 0-year lag behind the commitments of developed countries.|1||-0.72114408|0.99981517
+|||||
+D0|3 Engaging Developing Countries in the Long-Term|||0.999469817|0.2778516
+|||||
+D1|Any solution to the problem of climate change requires the participation of developing countries.|||0.970095515|0.9331094
+D1|The long-term issue is how best to engage developing countries in global efforts to address greenhouse gas emissions.|1||0.948080659|0.43130285
+|||||
+D1|The original vision of the Framework Convention on Climate Change is that developed countries would lead in controlling greenhouse gases, and developing countries would follow.|||0.981264353|0.90276647
+D1|This is similar to the approach in the Montreal Protocol (the 1987 treaty that addresses stratospheric ozone depletion).|||0.864887536|0.46680903
+D1|Under that agreement, developing country obligations generally follow 10 years behind those of developed countries.|||0.959320903|0.002770174
+D1|Developing countries receive financial assistance for their efforts from a multilateral fund.|||0.98545146|0.003628082
+|||||
+D1|Under this model, long-term engagement of developing countries depends on action by developed countries to control emissions.|||0.7091313|0.051035218
+D1|However, the Byrd resolution underscores the domestic political difficulties associated with differentiated commitments between developing and developed countries.|1||0.9779073|0.038980126
+D1|In addition, any competitiveness or leakage issues would present substantive concerns.|1||0.507923663|0.4273961
+|||||
+D1|Many developing nations are addressing their own domestic air pollution problems and other environmental threats and in doing so are curbing releases of greenhouse gases.|||0.988966882|0.020498967
+D1|Independent power producers are building many new, cleaner-burning power plants in developing countries, also reducing greenhouse gas emissions relative to traditional technologies.|||0.998120725|0.7768785
+D1|Renewable energy technologies are finding increasing application among the billions of people in the developing world who are off the electricity grid.|||0.999803007|0.4065246
+|||||
+D1|Various efforts are underway to encourage developing countries efforts to control greenhouse gas emissions.|||0.995628357|0.000469965
+D1|These include: U.S. bilateral assistance; multilateral assistance through the Global Environment Facility (GEF); calls for reorienting the loan guidelines for the international lending institutions;|||0.695306063|0.025673982
+D1|and work on joint implementation (which would encourage the private sector to undertake projects in developing countries to reduce emissions and claim credit for these reductions against a domestic obligation).|||0.998709917|8.23E-05
+D1|The first of these, announced in the President's New York statement at the U.N. Special Session on the Environment, establishes a $ I billion, five-year package to help developing countries plot a climate friendly path to development.|||0.994795024|0.66679484
+|||||
+D1|The primary component of this initiative will be a five year minimum of at least $150 million per year in bilateral assistance for climate related programs, and the potential to use development credits dedicated to climate friendly investment projects.|||0.852740407|0.9946519
+D1|The initiative will also include a $25 million 5-year interagency program to assist developing countries to meet the terms of the climate treaty.|||0.994490385|0.31296203
+D1|A significant focus in this initiative will be on using credit tools to induce greater U.S. private sector involvement in transferring climate friendly technologies.|||0.74918884|0.89850086
+|||||
+D1|Our financial contribution to the GEF was one of the original incentives to developing countries to support the Framework Convention on Climate Change - and to take action to mitigate climate change.|||0.997716069|0.9970702
+D1|However, while the U.S. had pledged a contribution of $430 million to the GEF over a three year period, Congressional funding has lagged considerably.|||-0.999390364|0.9990478
+D1|FY96 and FY97 contributions were at $35 million rather than $1 JO million.|||-0.995694518|0.9980634
+D1|The reduced U.S. contribution to the GEF will make any subsequent calls for developing country action under the climate treaty much more difficult to sustain.|1||-0.999427199|0.9997292
+|||||
+D1|One of the most significant elements of the U.S. approach to encourage developing country participation is joint implementation (JI).|||0.991099179|0.95613986
+D1|Similar to the concept of emissions trading, JI allows countries to offset emissions at home through projects undertaken elsewhere.|||0.967407405|0.9421397
+D1|However, unlike the situation in emissions trading, under a JI regime, projects could be undertaken in developing countries - countries without legally binding emissions budgets.|||0.767533362|0.990695
+D1|The analytic work performed to date suggests that allowing JI could reduce costs within the U.S. substantially.|1||0.733889878|0.9919526
+D1|Developing countries see benefits as well, in the form of technology transfer and private sector investment flows.|||0.991972208|0.000773443
+D1|In spite of the potential benefits, significant opposition among developing countries remains (although support has grown significantly in Latin America).|1||-0.672337055|0.22977446
+D1|Many developing countries believe that JI could undercut the commitment of developed countries to take the lead in controlling greenhouse gas emissions;|1||0.553692102|0.20443884
+D1|some environmentalists are concerned that measuring project-based emissions reductions will be too difficult;|1||-0.994567156|0.9891551
+D1|and some in the private sector and Congress are concerned that JI will result in significant transfers of wealth overseas.|1||-0.974622607|0.001224994
+|||||
+D1|As you know from our several discussions, EPA believes that one of the principles underlying the Executive Order should be our efforts to share with the public how much we do and do not know about the effects of regulatory actions upon children.|1||0.975652218|0.8734528
+D1|The current draft (2.5 pm.1) generalizes this objective through the annual report requirement in section 3-304.|||0.81207788|0.08744307
+D1|While useful, we do not believe that this goes far enough in addressing the draft Order's basic objective of either protecting children, affirmatively explaining why an agency may be making a different choice, or indicating that information is lacking to allow for a fully informed decision on child-specific concerns.|1||-0.884184361|0.99950016
+|||||
+D1|"At the same time, we are very mindful of the concern expressed by a number of agencies that the Order not require agencies to set forth a ""Kick Me"" sign with findings that could have adverse litigation consequences."|1||0.685115755|0.9124902
+|||||
+D1|We therefore propose including the following language, added as subsection (d) of 5-501:|1||-0.847546458|0.8672827
+|||||
+D1|"""A description of the data or information, if any, which was employed to assess child specific risks or hazards."""|||-0.853443742|0.003457579
+|||||
+D1|It is our view that this language would move towards providing more transparency in the context of particular rulemakings, but that it would remove any adverse judgments from such statements and the likelihood of any statements being used successfully against an agency in litigation.|1||-0.894839823|0.99977535
+D1|It is intended only to require neutral explanations of the information used to reach the judgments contained in a regulatory action.|1||-0.998511016|0.9969945
+|||||
+D1|The NIH has serious concerns about this draft Executive Order.|1||-0.935871124|0.59488183
+D1|The topics it is intended to encompass are inconsistent, unclear, and confusing throughout the document.|1||-0.998914123|0.99239796
+D1|Commas make a big difference here.|||0.997529209|0.96568054
+D1|It is one thing to address protecting children in environmental health and safety actions.|1||0.976533592|0.007598686
+D1|"It is far broader and more complex to do so for environmental, health and safety actions, where health and safety must be considered separately and not just in relation to the modifier ""environmental."""|1||0.965961099|0.6204331
+D1|If the intent is to have this order affect just environmental health and safety concerns, as much of the language implies, the wording needs extensive revision to make this clear.|1||-0.995372951|0.9997427
+D1|If not, the effects are so broad that this issue needs extensive discussion--it is inappropriate to be asked to agree to something this sweeping out of the blue in one day.|1||-0.963671923|0.99995244
+D1|The aim is difficult to take issue with, but the mechanism and scope need discussion.|1||0.703113317|0.35803515
+|||||
+D1|Thank you for your willingness to pass along our proposal to the appropriate White House staff for such matters.|||0.944099605|0.9861773
+D1|"  As you have requested, I will briefly describe here the ""best case scenario"" from our view."|1||0.941292346|0.51745284
+D1|We have been discussing this issue (i.e., the need for pediatric data) with David Kessler, Bill Schultz (his deputy), and their lawyers over the past year, and I think you will find them supportive as well.|1||0.995535135|1.56E-06
+D1|Everyone has put a lot of time into this and it has been productive.|1||0.999030709|0.96900284
+|||||
+D1|The following scenario presents the President with the most visibility on what we believe will be a very popular â€œChristmas-present-to-all-childrenâ€ initiative.|1||0.601278305|0.9795123
+D1|If this seems right to the White House, we can -- and must -- begin work immediately.|1||0.980876505|0.97049415
+D1|(It would be particularly helpful if there were a White House staff contact for us.|1||-0.993550777|0.799598
+D1|With most of our issues we would go directly to the AIDS staff but this is obviously broader than AIDS alone.)|1||0.801988065|0.99127614
+|||||
+D1|We propose that some time during the week of December 16, the President issue an Executive Order, directing the FDA to take immediate regulatory action to ensure that all drugs be proven safe and effective for use by children prior to their approval by the FDA.|1||-0.966395676|0.6519942
+D1|We propose that the President sign thJ Order in the Oval Office, with children, parents, and pediatricians present.|1||0.811441839|0.011728567
+D1|We would ask that the President dedicate this action to Elizabeth Glaser and her work to improve child health, and that the Pediatric AIDS Foundation be included in the event.|1||-0.982899427|0.000147239
+|||||
+D1|A proposed action plan detailing the steps that need to be taken, including what should be included in the President's Executive Order and accompanying statement, is attached to this memo.|1||-0.540917814|0.9939389
+D1|We would be happy to help in effectuating this plan in any way possible -- from drafting the Executive Order to generating support in the media, to making physicians, parents, and advocates available for comment.|1||0.995325685|0.56756544
+D1|Just let us know what we can do.|||0.917603076|0.8133867
+|||||
+D0|We are very excited about this proposal, and appreciate your attempt to steer us toward the appropriate decision makers.|||0.993821502|0.9998605
+|||||
+D1|You asked that we send you preliminary comments on the draft executive order (E.O.) for inclusion in the version being prepared for Monday.|1||-0.999523044|0.99361426
+D1|We will have additional comments next week.|||-0.524812043|0.92781425
+|||||
+D1|As indicated during the conference calls, DOL's preference is to limit the E.O. to children under the age of 14.|1||0.696835816|0.000116999
+D1|This could be accomplished in the definitions section and by including a statement in the opening section along the lines of EPA's comments this morning (e.g., the science indicates problems manifest in younger children; therefore, the focus of the E.O. is on children under 14).|1||-0.994039536|0.000189619
+D1|We would be willing to explore other options for excluding teenagers 14 and older.|1||-0.997317731|0.041477248
+|||||
+D1|An alternative (but less acceptable) approach would be to insert the following language into the opening section:|1||-0.995748997|0.99931204
+|||||
+D1|While some health or safety agencies have statutory missions predominantly directed toward certain age groups, such as the working-age population or the elderly, other agencies have more general mandates to protect public health or the environment for the benefit of all Americans.|||0.908719122|0.001063423
+D1|The intent of this Executive Order is to assure that the latter agencies adequately consider health and safety hazards to children when developing regulations and programs.|1||0.978803575|0.03429412
+|||||
+D1|If the final decision is to include older teenagers, we recommend the following language changes:|1||-0.946677089|0.9474387
+|||||
+D1|- Section 3-302.|||0.970864475|0.82635343
+D1|The Department of Labor should be included in the IWG.|1||-0.998886168|0.006608477
+D1|NIOSH should also be included because it does the bulk of the research on occupational safety and health.|1||0.990700305|0.868763
+|||||
+D1|- Section 3-303(c).|||0.990481198|0.13128603
+D1|Cut sentence requiring pamphlet.|1||-0.84293741|0.9806623
+D1|Allow IWG to determine best outreach approach.|1||0.991403759|0.72857475
+|||||
+D1|- Section 6-601.|||0.957208216|0.82635343
+D1|"Suggest ""For each significant regulatory action initiated after the effective date of this E.O. that addresses the environment, health or safety, each agency shall provide the following information, to the extent practicable. . .â€"|1||0.849861383|0.31223774
+D1|We need some language to assure that these requirements do not (1) interfere with current rulemakings,|1||0.974110007|0.99380916
+D1|and (2) impose huge analytical burdens on the agencies.|1||-0.989283562|0.032941196
+D1|OSHA risk assessments and regulatory analyses already consume considerable|1||-0.967388868|0.9999081
+|||||
+D1|â€¢ While parts of the draft executive order (such as the second bullet) appear to address a wide range of health threats to children.|1||-0.932785571|0.037771914
+D1|other parts (such as the title and first bullet) appear to be limited to environmental health threats.|1||-0.98892504|0.010145045
+D1|FDA recommends that the scope of the executive order be broadened beyond just environmental health threats.|1||-0.94694221|0.9905255
+D1|Limiting an executive order to environmental health threats could imply that the most significant health threats faced by children are environmental ones.|1||-0.950195909|0.5574731
+D1|In FDA's view while environmental threats are important, they are not the only significant health threats faced by children.|1||0.719415009|0.010435892
+|||||
+D1|"â€¢ While FDA recognizes the benefit of focusing specific attention on health threats to children, FDA is concerned about layering additional requirements on the regulatory process in circumstances where they will not add ""valueâ€ to the process."|1||-0.770668209|0.90336037
+D1|Thus, FDA recommends that any new analysis regarding effecys on children's health be targeted at regulations that (1) have potential disparate health impacts upon children|1||-0.998628378|0.01625098
+D1|and (2) are significant regulatory actions as defined in Exec. Order 12866.|1||0.998246074|0.002182416
+|||||
+D1|The first limitation (that an analysis of effects on children be limited to regulations with a potential disparate impact on children) will insure that new regulatory reviews are not required unless there is a specific reason to be concerned about children.|1||-0.989282846|0.99503905
+D1|The second limitation (that an analysis of effects on children be limited to significant regulatory actions) will target the new analysis to the regulations which have the greatest effects and which are already required to be subject to a formal cost-benefit analysis.|1||-0.98140496|0.9998042
+D1|If the executive order is targeted in this way, it will formalize what FDA should be - and is - already doing.|1||-0.9238801|0.99132395
+|||||
+D1|"â€¢ The draft executive order requires that certain regulations be ""adequately protectiveâ€ of children's health."|1||-0.919814587|0.3361127
+D1|"FDA suggests that this standard be made less vague and more affirmative by requiring that the regulations ""protect"" children's health."|1||-0.992751002|0.9978398
+D1|"In addition, whichever standard is used, it may be necessary to clarify that the requirement to protect children's health applies ""to the extent permitted by law.â€"|1||-0.9615978|0.5096132
+D1|Without such a qualification, the executive order could be construed as an attempt to override existing statutory authorities.|1||-0.888821542|0.25947687
+|||||
+D1|"â€¢ The draft executive order also requires an â€œaffirmative finding"" that certain regulations are, adequately protective of childrenâ€™s health."|1||-0.716986597|0.104688756
+D1|"A better approach might be to follow the Food Quality Protection Act and require ""a specific determination regarding the safety ... for infants and children (sec. 408(b)(2)(C)(ii)(II))."|1||-0.973706126|5.19E-06
+D1|The specific determination language) has the advantage of not requiring an affirmative finding where this would be impossible due to lack of complete information or a conflicting statutory mandate.|1||0.941829205|0.9969861
+|||||
+D1|FDA does not object to restricting the pamphlet for families (which is addressed in the third bullet) to just environmental health threats.|1||-0.997665524|0.9317434
+D1|However, FDA does have questions about implementation, including whether the pamphlet is a one-time project or an annual one, whether a significant commitment of resources will be required, and who will take the lead in preparing the pamphlet.|1||-0.84772712|0.4857112
+|||||
+D1|"We want to reiterate that, as an agency with no greater priority than protecting the health and safety of children, we strongly support the stated Intent of the draft - Executive Order - to establish a ""national policy to protect the health of American children from environmental, health and safety hazards."""|1||0.610096157|0.13756572
+D1|We had a number of serious concerns about the previous draft of this Executive Order, and we are pleased to see many of the changes that have been made to address those concerns.|1||0.992918551|0.9966282
+|||||
+D1|This memo outlines our most serious remaining concerns with the contents of the current draft Order.|1||0.801111758|0.8120853
+D1|We also anticipate that we may have more comments, questions, and recommendations once we have reviewed the comments of other participating agencies.|1||0.881755948|0.9958884
+D1|Finally, we are still reviewing the Preamble to the draft Order, and may have further comments after that review is completed.|1||-0.947510183|0.25324732
+|||||
+D1|Section 1-102: This section is overly prescriptive and could arguably require agencies to spend unlimited resources to address a particular hazard, unless prohibited by statute.|1||-0.995764732|0.99674666
+|||||
+D1|"Proposal: Section 1-102 should be modified to read, ""The head of each Federal agency shall ensure that the potential impacts upon children of environmental, health, or safety hazards arising from or related to the activities of that agency are considered and addressed, as appropriate, by that agency."""|1||-0.715834498|0.011106778
+|||||
+D1|This memorandum does not necessarily reflect the views of the Commissioners.|1||-0.998230278|0.95196956
+|||||
+D1|Section 3. Children's Health IWG|1||0.668113768|0.02729782
+D1|We agree that there needs to be coordination among federal agencies on children's health and safety issues, particularly in the area of research.|1||-0.721130073|0.40143403
+D1|However, as originally drafted, the Executive Order would have established a new Children's Environmental Health Council with a broad mandate that went well beyond simple coordination among agencies, CPSC staff commented that the creation of a new, cumbersome bureaucratic entity was counter to the Administration's reinvention efforts, and that its broad responsibilities could impose inappropriate burdens and mandates on member agencies.|1||-0.993015409|0.6718066
+D1|While we are pleased that the original proposal has been considerably scaled back, we still have a number of concerns about the proposed lnteragency Working Group (IWG).|1||-0.995956123|0.99490803
+D1|We agree with many of the comments that have been made by representatives of the Office of Information and Regulatory Affairs (CIRA) about creating a new bureaucracy to coordinate efforts among agencies.|1||0.562381685|0.2756046
+D1|We are eager to review OIRA's written comments and recommendations to revise this proposal.|1||-0.769325912|0.99777335
+|||||
+D1|Section 3-303.|||0.972052157|0.2441192
+D1|We have a number of questions and concerns about the list of elements that make up the coordinated Federal strategy:|1||0.963593125|0.99550545
+|||||
+D1|"(a) What is meant by statements of ""guiding principles"" and ""general policy?"""|1||-0.901503384|0.05050843
+D1|How would those principles and policies differ from what has already been stated in the Executive Order?|1||0.638864398|0.17912883
+D1|We would be strongly opposed if those principles and policies included specific directions regarding scientific or technical assessments done by individual agencies.|1||-0.962758362|0.96019495
+|||||
+D1|"Isn't it redundant to require a statement of ""targeted annual priorities"" In this subsection when subsection (d) lists the same requirement?"|1||-0.746042192|0.65707093
+D1|How would these priorities differ from those mentioned in (d)?|1||0.87163353|0.029076567
+|||||
+D1|"(b) As an agency with a broad mandate and a very limited budget -- and no separate research budget -- we would oppose any requirement for the CPSC to contribute in any manner to a ""cross-cutting budget"" for conducting research."|1||0.569637537|0.99723166
+|||||
+D1|(c) We support a coordinated effort to reach out to. and educate the public about, health and safety risks to Infants and children.|1||0.99694258|0.013146723
+D1|However, we believe It Is inappropriate to dictate the form of that outreach by requiring the publication of a pamphlet that includes specific information.|1||-0.980813205|0.7438549
+|||||
+D1|(d) There is no reason to require the identification of a specific number (ten) of high-priority initiatives for the Federal government to undertake.|1||0.994934976|0.049879912
+|||||
+D1|Proposal: Subsections 3-303 (a), (b), (c), and (d) should be modified as follows:|1||-0.999338448|0.000204523
+|||||
+D1|(a) Delete this subsection entirely.|1||-0.999964476|0.91748893
+|||||
+D1|(b) Delete the requirement to prepare a cross-cutting budget.|1||-0.999760091|0.7160554
+|||||
+D1|(c) Delete the second sentence of this subsection.|1||-0.999927282|0.89972806
+|||||
+D1|"(d) Delete the word ""ten.â€"|1||-0.999521732|0.036054816
+|||||
+D1|Scope: CPSC already focuses Its priorities and efforts on protecting children from injury and death.|1||0.998072743|0.056320436
+D1|We endorse an Executive Order to help advance children's health and safety issues government-wide, and would recommend that the CPSC adhere to its terms.|1||0.946296692|0.8688379
+D1|However, it would be inappropriate, for example, to alter an Independent agency's statutory rule making requirements through an Executive Order.|1||-0.850399077|0.6703784
+D1|" Indeed, the administration implicitly recognized this principle In E.O. 12868, which exempts independent agencies from Its provisions that directly affect an agency's regulatory authority (see E.0. 12866, sec. 6), and requires those agencies only to prepare a ''regulatory plan"" and ""regulatory agenda."" (E.O. 12866, sec. 4(b) and (c).)"|1||-0.940605342|0.003093845
+D1|Similarly, we believe that CPSC should be part of any lnteragency Working Group that Is created and submit research proposals for consideration, but that CPSC should otherwise be exempt from the draft Executive Order's requirements.|1||-0.986127019|0.99920386
+|||||
+D1|"Proposal: The following language, quoted directly from E.O. 12866, should replace the definition of ""federal agency"" in section 2-201:"|1||-0.568340778|0.35365477
+|||||
+D1|"""'Agency,' unless otherwise Indicated, means any authority of the United States that is an 'agency' under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502((5))."|||-0.858830214|0.097288206
+|||||
+D1|"As the Supreme Court has held, an independent agency ""cannot in any proper sense be characterized as an arm or an eye of the executive."|1||0.816356599|0.86197335
+D1|Its duties are performed without executive leave and, in the contemplation of [its enabling] statute, must be free from executive control.â€|1||0.556273639|0.06687535
+D1|Humphrey's v. United States, 55 S. Ct. 869, 874 (1935).|||0.973520517|0.016196115
+|||||
+D0|Since the Issuance of E.O. 12866, 44 U.S.C. 3S02(10) has been renumbered as 44 U.S.C. 3S02(5).|||-0.965889573|0.029142587
+|||||
+D1|As relayed on my voice mail to you on this date, the Department of Veterans Affairs has concerns about the proposed Executive Order (EO) because the vagueness and ambiguity of the requirements makes it difficult to determine applicability.|1||-0.999433458|0.9518043
+D1|For example, the term â€œpotential impactsâ€ needs to be clarified in such a way to better define and/or limit when a federal agency must consider the effect of what it does on the health and safety of children.|1||-0.740193725|0.96986425
+D1|"The definition of ""significant regulatory actionâ€ should be clarified to exclude regulatory actions which are unlikely  to affect the health and safety of children."|1||-0.872096241|0.8618192
+D1|The annual reporting requirement in  Section 5-501 should be discretionary so that a report will not be required if an agency determines that there is nothing to report.|1||-0.846568644|0.99997056
+D1|It is also unclear what impact the proposed EO will have on an agency's budget for research or the degree to which the EO will impact an agency's contractual relations.|1||-0.997244835|0.99904364
+|||||
+D0|The Family Right to Know Initiative is a very positive concept that has the potential to fill an important void in the current protection of children's health from environmental risks.|||0.999132216|0.6821652
+D0|When parents and families know about the unique risks to children they can use that information to make wise choices.|||0.994249225|0.00674177
+D0|Responsible decisions by parents can have an aggregate benefit today and in the future.|||0.990394533|0.116930686
+|||||
+D1|In framing this concept we have agreed to a commitment to work with parents, scientists, the business community, and others to achieve the goals of getting better information to families.|1||0.997853816|0.025736924
+D1|As we work with the stakeholders we can build on the concept of a family's right to know, and decide whether legislation is or is not needed to achieve our goals.|1||0.998572826|0.95119274
+D1|As the Administration moves forward we should continue to emphasize our belief that we can achieve our goals in a common sense, cost effective way.|1||0.749226272|0.99413884
+D1|That emphasis is needed to respond to concerns that we will put into place unnecessarily expensive approaches.|1||0.961494505|0.999191
+D1|I plan to continue to be involved in this initiative; please contact Diane Regas of my staff with new information as it arises.|1||0.980185509|0.03335158
+|||||
+D1|While we believe the revised discussion draft of the Children's Environmental E.O. is much improved, as I noted in the voice mail I left for you on Friday, it still presents problems for DOL programs.|1||-0.998691261|0.98817635
+D1|We have developed several options that we believe would eliminate the burden for DOL without affecting the basic thrust of the E.O. As you know, our particular concern is that OSHA and MSHA focus on workplace hazards regardless of who is exposed.|1||0.722420514|0.9952335
+D1|They do not address risk to particular demographic groups, but to all workers.|1||0.986040473|0.000267601
+|||||
+D1|The following options are in order of our preference, with one of the first three strongly preferred to the fourth:|1||-0.939398646|0.03304131
+|||||
+D1|Option 1.|1||0.802377403|0.7950309
+D1|"Add to definitions: ""Environmental, health, or safety risks include only those risks or hazards to which members of the general public regularly may be exposed.â€"|1||0.608290017|0.40918356
+|||||
+D1|Option 2.|1||0.837774038|0.79320157
+D1|Add to definitions: â€œFederal agency includes those agencies listed as members of the IWG in Section 3-302 and such agencies as may be designated at a later date.â€|1||0.622199118|0.42628655
+D1|"In addition, the phrase ""but are not limited to,â€ should be stricken from Section 3-302."|1||-0.994027734|0.36309546
+|||||
+D1|Option 3.|1||0.929115951|0.75433534
+D1|Add to definitions: Disproportionate or disproportionately affect does not include any safety or health hazard or risk that occurs in workplaces in which the regular exposure of significant numbers of children-to the hazard or risk cannot reasonably be anticipated.|1||-0.998919725|0.9999981
+|||||
+D1|Option 4.|1||0.921472073|0.8581802
+D1|Add to definitions: Disproportionate or disproportionately affect does not include any safety or health hazard or risk that occurs in workplaces in which the regular exposure of children to the hazard or risk cannot reasonably be anticipated.|1||-0.998543262|0.99997044
+|||||
+D0|There are two leading ideas for an environmental message in the State of the Union Address.|||0.991880596|0.13678177
+D0|This memo gives you a short background and status on each.|||-0.506779552|0.9799682
+|||||
+D0|Protecting Kids|||0.987811267|0.022880437
+|||||
+D1|Background In August the President directed federal departments to identify ways to provide better information to families about products that pose a special risk to children.|||-0.991611838|4.53E-05
+D1|Since that time, EPA has been working on a proposal to fulfill this direction.|1||0.96771872|0.02161795
+D1|The proposal on the table has two components: first is an Executive Order that would direct federal departments to consider all information about risks to kids when developing environmental health standards, second is principles for toxics labeling legislation.|1||0.829886317|0.374585
+|||||
+D1|"The Executive Order, the ""Children's Environmental Health Executive Order"" would require departments, when taking regulatory action, to make a finding either that the action protects children or that there is insufficient information to make such a determination."|1||-0.962857246|0.049419645
+D1|"In addition, the draft creates a ""Children's Environmental Health Council"" to oversee the implementation of the Executive Order, to coordinate federal research, and, among other duties, to consult with OIRA on regulatory actions that may affect children's environmental health."|1||0.832414508|0.007109413
+|||||
+D1|The primary conceptual questions about the Executive Order are: which federal actions should be covered; how should federal departments deal with limited information;|1||0.722835481|0.58340526
+D1|and whether the Executive Order is consistent with the Administration's position on regulatory reform legislation.|1||-0.73493588|0.013545102
+D1|The draft text has been in circulation only a few days, and I expect that new issues will arise based on the text.|1||-0.9998492|0.93936336
+D1|(Our next interagency meeting is Tuesday, January 28.)|||-0.605162382|0.000337655
+|||||
+D1|The second part of the proposal, principles for labeling legislation, would express the Administration's support for a requirement that manufacturers label products with information about special risks to children.|1||0.650206804|0.58946174
+D1|"This proposal is modeled on ""Proposition 65"" a ten year old law in California."|1||-0.997777045|0.05051312
+D1|The key to the proposal is that it does not add to government regulation of product content, instead it requires manufacturers to test products and label them appropriately.|1||0.771015942|0.9986141
+D1|The government's role is limited to identifying which substances are of concern, and perhaps identifying level below which labeling will not be required.|1||-0.81866765|0.93089443
+D1|Proponents of this approach argue that labeling will provide families with the tools they need to make choices among products and create a strong incentive for manufacturers to reformulate potentially unsafe products.|1||0.97199887|0.98371845
+D1|The proposal would exempt food and drugs.|1||-0.993535399|0.015857963
+|||||
+D1|Federal agencies and White House staff have raised concerns about legislation in this arena.|1||-0.69162488|6.91E-05
+D1|There is little solid data regarding the costs and benefits of a national proposal, and the California model has not been rigorously studied.|||-0.999628186|0.37358963
+D1|(We lack data on the costs and benefits of the California law partly because companies have been very reluctant to release information about their costs.)|||-0.998009384|0.020720039
+D1|In addition, there are difficult trade and small business implications that need to be hammered out.|1||-0.976781666|0.12196291
+|||||
+D1|Status The Executive Order is in draft and could probably be finalized quickly if EPA generates support within the White House for that position.|1||0.803769767|0.72034055
+D1|The process of coming to closure quickly could, however, cause us to miss some more subtle issues, and will likely lead us to draft an Order that is narrowly tailored to environmental health, rather than considering an approach that applies to all health-based regulations.|1||-0.990516245|0.9990363
+|||||
+D1|EPA has drafted about a dozen principles to support labeling legislation.|1||0.993882179|0.8632625
+D1|While these too could be finalized for the State of the Union, the lack of detailed understanding of the policy and political implications counsel continuing the staff discussions.|1||-0.997920573|0.0652845
+D1|Both 0MB and NEC have serious concerns about the need for legislation, and how to structure it most efficiently.|1||-0.980867684|0.9486554
+D1|(Recall that EPA proposed this concept at an NEC meeting in June and the proposal was tabled.)|1||-0.998300374|0.89149183
+|||||
+D1|Recommendation The President should commit to issuing an Executive Order to ensure that federal decisions use the best information we can get to protect children, or more narrowly, children's environmental health.|1||0.691030204|0.74983966
+D1|The interagency process to finalize the Executive Order could then be completed in coming weeks.|1||0.864320934|0.004306322
+|||||
+D1|The discussion of legislative principles should be brought to a deputies' or principals' meeting to allow for a full airing of the issues.|1||0.683788717|0.84640324
+|||||
+D0|American Heritage Rivers|||0.990234971|0.000665448
+|||||
+D1|"Background A new proposal to create a federal designation ""American Heritage River"" is being discussed in a process convened by CEQ."|1||-0.519966543|0.03783538
+D1|The President would announce a commitment to this idea and work some of the details, including an Executive Order, later.|1||0.852989733|0.001333295
+D1|Currently CEQ staff is proposing that identification be based primarily on the cultural value of rivers.|1||-0.981657147|0.004391559
+D1|The implication of designation is still under discussion, but would include a call for partnerships with the private sector, federal support for local initiatives and federal steps to protect designated waters.|1||0.649554014|0.001611278
+D1|Initially departments have raised some concerns: a designation process will create false expectations that we can solve problems in many places;|1||-0.988645434|0.045712765
+D1|choosing waters for cultural significance conflicts with targeting environmental money to solve problems;|1||-0.923816144|0.00135912
+D1|as described, the new designation does not clearly add to current work; and we have not thought through potential political opposition.|1||-0.990346372|0.30061606
+|||||
+D1|The biggest challenge we face in making this idea work is to make designation as an American Heritage River meaningful.|1||-0.626171172|0.8380531
+D1|I am continuing to work with CEQ as they identify ways to accomplish this goal, but I remain concerned that we may not have good solutions by next week.|1||-0.673397362|0.99737823
+D1|I have attached the current iteration of this idea.|||0.976042867|0.97371507
+|||||
+D1|Status CEQ staff are committed to adding enough detail to a proposal so that a decision can be made about whether to go forward next week.|1||0.99623543|0.9996437
+D1|They envision that further detail would be developed in coming weeks.|1||0.989680111|0.06852398
+|||||
+D1|Recommendation There are thousands of people across the country who are working to restore enjoyment of their local waterways, and who would welcome new tools to achieve their ends.|1||0.987884939|0.000685714
+D1|They need incentives to create jobs and revitalize rundown urban waterfronts; small grants to catalyze their work; better processes for participating in federal decisions; more information about environmental threats in their local area; and a federal commitment to work in ways that are consistent with local needs.|1||0.784796476|3.82E-09
+D1|We can do this, and we should focus the effort where people really need it--urban waterways.|1||0.995659292|0.9610664
+D1|The current proposal, if it remains focussed on historically or culturally significant waters, is unlikely to bring these tools to communities.|1||-0.985944152|0.97711927
+|||||
+D1|White House staff should be tasked with coming up with an urban waterways initiative that contributes jobs and environmental benefits.|1||-0.790151417|2.28E-06
+D1|Such an initiative could be announced in a few months.|1||0.8580392|0.075503334
+|||||
+D1|Here's some preliminary data on the stay-at-home moms that ASPE pulled together.|1||0.584867895|0.84637314
+D1|They are looking much more deeply into this because there is more data and other issues that should be  put on the table â€“ do we subtract welfare families from the numbers; should we primarily look at under 18, under 13 (CCDBG eligibility, or under 6?, etc.|1||-0.997553408|0.92023456
+D1|Given the importance of this issue and our continuing involvement in it, I think its real important that we get everything on the table, discuss it and then put together talking points, position paper, or whatever to portray this in its proper light.|1||0.999302387|0.99915266
+D1|I'm sure Melissa S. will have an interest in this, and Treasury will want to be part of these discussions as well.|1||0.606923282|0.9916271
+|||||
+D0|So lets talk more later.|||0.960308433|0.37320793
+D0|Mary|||0.820906758|0.007667704
+|||||
+D0|I quickly pulled together some data from the Census Publication Money Income in the United States: 1996 (P60-197).|||-0.946409047|0.029235197
+|||||
+D0|In 1996, there were 6.21 million families with children under 18 where the husband worked and the wife did not work at all during the year.|||-0.999426484|7.02E-07
+D0|Of these 6.21 million, 1.72 million families (28%) had total family income below $25,000.|||-0.944631338|0.000954875
+|||||
+D0|Of these 6.21 million families there were 3.68 million families with at least some children under age 6.|||0.575305104|0.010715401
+D0|Looking at just those families with some children under age 6 1.18 million (32%) have total family incomes below $25,000 and 1.81 million (49%) have total family income below $35,000.|||-0.961900055|0.000373636
+|||||
+D0|Families with Children under 18  Husband Worked/Wife did not work 6,210,000  Total Family Income less than $25,000 1,724,000 (28%)  Total Family Income less than $35,000 2,749,000 (44%)|||-0.9670856|5.79E-08
+|||||
+D0|Families with some/all children under 6 Husband Worked/Wife did not work 3,683,000 Total Family Income less than $25,000 1,179,000 (32%) Total Family Income less than $35,000 1,814,000 (49%) less than $35,000 (44%) (49%)|||-0.98407644|5.36E-08
+|||||
+D0|WASHINGTON (AP) The House declared Wednesday that any child care initiative must not ignore stay-at-home parents, writing the GOP strategy on this election-year issue onto the record.||1|0.869927108|0.047682423
+|||||
+D0|Democrats went along with the nonbinding resolution, which passed without dissent, though they complained that it said nothing about working parents who cannot afford to forgo a second income.||1|-0.622017145|0.9871934
+|||||
+D0|President Clinton's $21.7 billion, five-year child care initiative proposes tax credits and subsidies to help parents pay child care bills, but it does nothing for stay-at-home parents.||1|-0.999269664|0.012139494
+|||||
+D0|"â€œFederal child care policy should no longer discriminate against stay-at-home parents,"" said Rep. William Goodling, R-Pa., chairman of the Education and the Workforce Committee."||1|-0.902450144|0.003635267
+D0|â€œThey make big sacrifices if they stay at home in order to rear their children.||1|0.954506874|0.010130622
+D0|"It's time we recognize those sacrifices."""||1|0.817109823|0.23218322
+|||||
+D0|Democrats complained that the resolution was sped to the House floor, skipping a vote in committee where they might have amended it to include other child care priorities.||1|-0.998812795|0.60835373
+D0|They accused Republicans of setting up a false choice between parents who stay at home and those who work.||1|-0.999306798|4.24E-06
+|||||
+D0|"â€œI regret that this resolution has chosen to focus on one group of parents,"" said Rep. Rosa Delauro, D-Conn."||1|-0.9354738|0.21082023
+|||||
+D0|The resolution did not advocate any particular policy.||1|-0.981907427|0.87800187
+D0|Some Republicans have suggested that stay-at-home parents might qualify for the dependent-care tax credit, which now is available only to parents who pay for child care.||1|-0.831067801|0.00684509
+D0|Other Republicans have suggested an across-the-board tax cut that would give all families more money to spend as they see fit.||1|-0.955447555|0.9989906
+|||||
+D0|Generally, plans to help stay-at-home moms rely on tax breaks.||1|-0.949147582|0.026744988
+D0|That won't help the lower-income families, who generally owe no taxes, says Donna Shalala, the secretary of health and human services.||1|-0.999093533|0.004986803
+|||||
+D0|Oh what fun I have been missing!|||0.999873757|0.83581257
+D0|That meeting made the TANF reg look easy ....|||0.679049969|0.85334027
+D0|A few thoughts to follow on all your real work:|||0.983519137|0.30399036
+|||||
+D1|"Welfare vs Working Poor Families I was a bit puzzled, as I think you were, by the dicotomy some were drawing between ""welfare families"" and ""low-income working families.â€"|||-0.998261988|0.7253972
+D1|First, welfare families who need child care are working families (or they are at least preparing for work).|||0.895423532|1.71E-07
+D1|Second, many low income women cycle on and off of welfare, using welfare as a form of unemployment insurance -- there is no bright line between the populations.|||-0.995930016|0.04149591
+|||||
+D1|I think the key questions we should ask ourselves are:|1||0.997412264|0.8962198
+D1|Do we want states to treat two mothers making $12,000 a year differently because one used to be on welfare and one did not?|1||-0.997215748|0.81595016
+D1|I think we do not -- we want to encourage states to develop seamless child care systems that focus on incomes, not categories.|1||-0.712689698|0.9787839
+D1|In that case what is the best way to encourage states to develop seamless systems?|1||-0.553948402|0.31219655
+D1|I think it is not by setting benchmarks or other rules which encourage the new funds to be used for the not-formerly-on-welfare working poor to counterbalance current practice of focusing dollars on former welfare recipients.|1||-0.962768853|0.8302893
+D1|I think it is by providing funds for states to raise their eligibility criteria to include more low-income families.|1||-0.834665418|0.568791
+|||||
+D1|We do not need new targetting of the block grant in order to have a proposal which helps moderate income working families even without new targetting.|1||-0.972415328|0.98132664
+D1|"we can talk about any expansion of the child care and development block grant as â€œchild care for hard working minimum wage families"" or ""low income families making less than $24,00 a yearâ€and we can describe the tax credits as help for the â€œmiddle class families earning between $24,000 and $59,000."""|1||-0.988814652|0.2712058
+|||||
+D1|So count me as a vote against benchmarking!|1||0.97613436|0.9094939
+|||||
+D1|Stay at Home Parents Regarding stay-at-home parents, I will admit I am completely unschooled in this issue.|1||-0.816294611|0.22383885
+D1|I do think we will be able to argue that we are helping stay-at-home parents through the $500 per child tax credit.|1||-0.54801178|0.039434753
+D1|I do also think, as I think you do, that an additional proposal here would be very helpful.|1||-0.667063177|0.9999591
+D1|I think such a proposal should focus on parents who stay home for more than 6-24 weeks.|1||-0.989792347|0.6498917
+D1|Thus, I would like to see something like the demonstration project idea, which would provide funds to community and religious groups (including the latter would be helpful) who provide support and assistance to stay-at-home parents, by offering parenting classes or hotlines, play groups, two hour â€œreliefâ€ or â€œemergencyâ€ child care, or which distribute materials to new parents (I though Barryâ€™s idea of promoting connections to WIC was promising).|1||-0.695613623|1.55E-07
+|||||
+D1|In fact maybe the quality fund should have two parts 1) to promote Smart Start-like local efforts to improve the quality of formal child care and 2) to promote local efforts to assist stay-at-home parents.|1||-0.946912169|0.000489333
+D1|This would allow local organizations to provide culturally-sensitive programs for parents of particularly ethnicities, which the Hispanic caucus encouraged us to do.|1||0.970600367|0.036366973
+D1|"In fact, in my in-box is the new issue of Univ of Wisconsin Institute on Poverty magazine which highlights an evaluation of a program called Avance that has worked with low-income Hispanic infants and their families in San Antonio since 1973 which has the explicit goal of ""helping mothers become better teachers of their children."""|1||-0.963992834|2.10E-06
+D1|"The evaluation found ""positive and significant differences between participant and control mothers on three measures of teaching effectiveness."""|1||0.864131212|0.030286273
+D1|I can fax you a copy if you like (it's only one page).|||-0.985313356|0.99033654
+|||||
+D1|I must convey to you in the strongest possible terms that we should proceed to introduce  legislation that will deny Social Security benefits to all Nazi war criminals who are denaturalized on the basis of having participated in Nazi persecution.|1||0.946579993|0.36809164
+D1|Currently, Nazi war criminals who have  been denaturalized, but flee prior to the issuance of a final order of deportation, may continue to  collect Social Security benefits.|1||-0.979990065|4.29E-07
+D1|The Social Security Administration (SSA) and the Department of  Justice staff have drafted corrective legislation.|1||0.838825464|0.000156766
+D1|Such legislation should go forward without delay.|1||0.958068371|0.0843983
+|||||
+D1|While some groups have contended that such legislation could complicate the Government's ability to track down and successfully prosecute Nazi war criminals in this country, I find that contention difficult to accept.|1||-0.999302983|0.007761723
+D1|The federal government must pursue denaturalization and deportation against Nazi war criminals without any reference to whether or not they should receive Social Security benefits.|1||-0.996621609|0.002722003
+D1|Social Security benefits cannot, and should not, be used as a bargaining tool.|1||-0.990463853|0.015357264
+|||||
+D1|The cruelest of ironies is the fact that, come August, SSA could be denying SSI benefits to legal immigrant Holocaust survivors while at the same time paying Social Security benefits to their Nazi tormentors.|1||-0.999624848|0.8303674
+|||||
+D0|I would respectfully request that we meet to discuss this issue as soon as possible.|||0.698557317|0.99015677
+D0|Please contact my office at 202-358-6000 to set up an appointment|||-0.929899871|0.001030981
+|||||
+D0|FACT SHEET.|||0.848669291|0.88408625
+D0|SOCIAL SECURITY BENEFITS AND NAZI WAR CRIMINALS|||0.509923697|0.99709547
+|||||
+D1|Current Law and Policy â€¢ Current policy is to remove Nazi war criminals from the U.S. and to deny them Social Security benefits.|||0.971061707|0.000733663
+D1|There is, however, a loophole under current law.|||0.595849335|0.001787111
+|||||
+D1|â€¢ Since the 1980's, the law has provided that Social Security benefits must be cut off when a final order of deportation is issued against an individual because that individual engaged in Nazi persecution or genocide.|||-0.990144968|0.003546121
+D1|This provision of Social Security law is specifically for Nazi war criminals and provides for an earlier cut off than for other deportees, whose benefits are not cut off until they are actually deported.|||-0.964033425|0.000200107
+|||||
+D1|â€¢ Of the 31 living Nazi war criminals who were eligible for Social Security benefits and who have left the United States, only 10 have lost benefits because of the Nazi war criminal provision in current Social Security law.|||0.930459499|1.11E-07
+D1|SSA found other grounds to cut off benefits to two additional Nazi war criminals, but they could return to the Social Security rolls.|||-0.999104679|0.000509269
+|||||
+D1|â€¢ As of March 15, 1997, 18 Nazi war criminals (almost 2/3) were being paid Social Security benefits.|||-0.999231458|0.000587974
+D1|In addition, I Nazi war criminal was eligible, but was temporarily not in pay status on March 15 because he was suspended based on the erroneous information that a final order of deportation had, in fact, been issued.|||-0.996792495|4.54E-07
+|||||
+D1|â€¢ These individuals escaped the Nazi war criminal provision in current Social Security law because DOJ did not, or could not, get a final order of deportation.|||0.936894|0.001700191
+D1|Some of these individuals fled before DOJ could act.|||-0.877848148|0.001061153
+D1|Others left without a final order of deportation after having reached settlement agreements with DOJ's Office of Special Investigations.|||-0.992545426|8.20E-05
+|||||
+D1|â€¢ The operation of current law results in the U.S. taxpayers subsidizing the retirement of many Nazi war criminals, contrary to the policy that they not receive Social Security benefits.|||-0.954187989|0.04620887
+|||||
+D1|â€¢ DOJ and SSA have been meeting over a period of several months.|||0.984742045|0.21115844
+D1|Both agencies have concluded that the result under current law is inappropriate and that current law concerning receipt of Social Security benefits by Nazi war criminals needs to be strengthened.|1||-0.944772661|0.00798162
+D1|The agencies have developed a legislative proposal.|||0.994168162|0.023165677
+|||||
+D1|Proposal  â€¢ DOJ and SSA propose that Social Security benefits be cut off when a federal court denaturalizes someone on the grounds that the person engaged in Nazi persecution.|1||-0.994147897|0.91720957
+D1|This is an earlier point in time than under current law.|1||0.919258177|0.020604257
+D1|This proposal would cut off benefits of those who leave the U.S. before an order of deportation is issued, as well as those who attempt to stay in the U.S. by fighting an order of deportation.|1||-0.993060708|0.002634637
+|||||
+D0|I held the meeting yesterday with the DOJ, SSA, Neal Sher, former head of DOJ's OSI and representing the American Gathering of Holocaust Survivors, and Doug Bloomfield, representing the World Jewish Congress & World Jewish Restitution Organization.|||0.936062455|2.75E-08
+D0|Counsel's Office (Dawn), Public Liaison (Jay Footlik) and 0MB (Melinda Haskins & Richard Green) also attended.|||0.894147933|1.80E-09
+|||||
+D1|In summary, Messrs. Sher and Bloomfield presented a passionate argument that SSA's proposal will hurt prosecutions of Nazi war criminals.|||0.77936095|0.09843201
+D1|They want the status quo left alone and for SSA not to introduce its legislative proposal.|||-0.953670502|0.0459384
+D1|They presented the argument that I outlined for you earlier: They deeply believe that some judges will act more sympathetically toward old men who were Nazis if they can argue that not only is the government trying to strip them of their citizenship, but the government is also impoverishing them while they are trying to defend their rights during the judicial process.|||-0.9112252|0.33413267
+D1|They think that a single bad outcome in a case could have farreaching implications for other cases.|||-0.987274885|0.3398427
+D1|They admit that it is impossible to accurately predict what judges may in fact do, but they hold the view with absolute conviction that this will hurt prosecutions.|||0.959196627|0.97921914
+|||||
+D1|Obviously, everyone in attendance agreed that we shared the objective of not wanting to do anything to compromise prosecutions of Nazis.|1||-0.752261162|0.99694914
+D1|"SSA and DOJ explained how they engaged in interagency discussions to reach what they jointly view as a proposal that properly balances SSA's concern about ""subsidizing the retirement of Nazis"" with enforcement concerns."|1||0.927048504|0.2457522
+D1|It is important to note that DOJ concedes that there remains some possible enforcement implications, but again, they believe that this proposal is an appropriate balancing of policy objectives.|1||0.986257493|0.99996173
+|||||
+D1|In my follow-up with the White House attendees at the meeting, we agree that the specific enforcement concern depends on predictions on what judges may or may not do and therefore does not sound fully compelling EXCEPT that it is impossible to ignore who is raising the concern.|1||-0.995386064|0.9969121
+D1|These individuals are representatives of those who are the most concerned about and the most effected by this proposal.|1||0.996842623|0.16761641
+D1|It gains us very little to close this SSA loophole if taking that action is decried in the strongest possible terms by the victims of those war criminals as undermining their prosecutions.|1||-0.776844501|0.99864095
+|||||
+D1|And make no mistake, Messrs. Sher and Bloomfield were absolutely clear that they and their organizations would protest vociforously.|1||0.989136934|9.83E-05
+D1|They would protest in the media, and they would protest in Congress.|1||-0.6113801|2.72E-05
+D1|They would make sure that it is known that the President has introduced legislation that would compromise the prosecutions of Nazis.|1||-0.991875231|0.073860794
+|||||
+D1|On the other hand, they said that if SSA is criticized for making such payments they would engage in whatever steps were necessary to explain to the public, to Members of Congress, and to the media that SSA's policies were sound and that anyone promoting an alternative view would be hurting prosecutions.|1||-0.993875921|0.98041534
+D1|There is already at least one critical article that has appeared (St. Petersburg Times) and SSA has been contacted by a Tampa CBS affiliate for comment.|1||-0.998572588|9.32E-06
+D1|I think that we can anticipate other critical pieces, and it may be picked up by the national press.|1||-0.70285517|0.9591376
+D1|Cong. Bunning (R-Ky), chair of the Ways and Means Social Security Subcommittee has requested information about the St. Petersburg story.|1||-0.71127528|3.35E-06
+|||||
+D1|Given the foregoing considerations, I think that this is a very difficult issue, but I have to recommend to you that we provide guidance to SSA that the proposal should not go forward|1||-0.998353362|0.99999356
+D1|Normally, I would give quite a bit of deference to Justice and SSA for the product of a solid interagency process.|1||-0.955684662|0.9997706
+D1|Nobody wants to provide benefits to Nazis, ESPECIALLY when some of their victims who are legal immigrants may face benefit cut-offs, but we cannot ignore the absolute conviction of those who we heard from who represent the victims when they say that the President will hinder the prosecutions of Nazis with this proposal.|1||-0.988630891|0.6327587
+|||||
+D1|Dawn agrees with this recommendation based upon her participation in the meeting.|1||0.993854642|3.63E-05
+D1|Public Liaison agrees.|||0.996948421|0.006158298
+|||||
+D0|Let me know what you think.|||0.94748503|0.7203798
+D0|Thanks Elena.|||0.990381539|0.15557311
+|||||
+D1|BACKGROUND:|||0.848831415|0.7563657
+D1|The current law is that SSA benefits must be cut off when a final order of deportation is issued against an individual becuase that individual engaged in Nazi persecution or genocide.|||-0.999026537|0.002169276
+D1|The loophole exists, for example, for a Nazi who flees the country without an order of deportation.|||-0.95355922|9.24E-06
+D1|Under those circumstances, SSA benefits would continue.|||0.964470208|0.003739211
+D1|Of the 31 living Nazi war criminal who were eligible for benefits and who have left the United  States, only 10 have lost benefits because of the Nazi war criminal provision in current Social Security law.|||-0.966971815|1.32E-08
+D1|As of March 15, 1997, 18 Nazi war criminals almost (2/3) were being paid Social Security benefits.|||-0.998897195|1.66E-05
+D1|SSA found other grounds to cut off benefits to two additional Nazi war criminals, but they could return to the Social Security roles and the pay status of another one is temporarily suspended.|||-0.999058425|6.07E-06
+|||||
+D1|There is not a drop-dead deadline to drop a legislative proposal.|1||-0.910323143|0.7127241
+D1|However, the urgency of deciding  arises because the subcommittee Chairman & staff have been asking SSA as recently as  yesterday where they are on solving the problem of Nazi's getting paid.|1||-0.528637409|0.003810499
+D1|SSA has been putting them off saying that they are continuing to work on the issue.|1||-0.555950761|0.6596967
+D1|There is a technical mark-up, but this proposal doesn't have to be a technical (in fact it may not be eligible to be a technical).|1||0.794652998|0.99967134
+D1|It could be offered later as a stand-alone (or alternatively a member of Congress could offer a bill and we could support that if we chose to) so the 23rd is not magical, but SSA is feeling pressure to get back to the subcommittee Chair fairly promptly.|1||-0.987483859|0.99980444
+|||||
+D1|Also pressing is a media inquiry from the Tampa CBS affiliate that SSA has also been holding off for awhile.|1||-0.605716169|0.000441767
+D1|They want SSA to tell them what it's doing about the problem.|1||-0.998924196|0.023342462
+D1|SSA anticipates that this may be the beginnning of a lot of bad press about how it provides money for the retirement of Nazis.|1||-0.999406815|0.9999616
+|||||
+D1|This is a no-win situation.|1||-0.998823822|0.30300534
+D1|We are either going to be criticized for paying retirement to Nazis or we will be criticized because at least several major Jewish organizations will charge us with compromising enforcement.|1||-0.994031012|0.964538
+D1|There is going to be critical press whatever the decision is.|1||-0.578154325|0.45551702
+D1|The straight policy call is probably that we should be able to rely upon the Department of Justice to determine the appropriate enforcement assessment and what will or won't damage prosecutions.|1||-0.998128116|0.9762999
+D1|And DOJ says they have struck the right balance.|1||0.992202759|0.004312034
+D1|However, I don't think that the policy determination can be completely divorced from an assessment of the political overlay on this issue.|1||0.950500846|0.9983203
+|||||
+D0|Let me know how you want to proceed or if I can get you some more information.|||0.892896593|0.98426443
+D0|If you think it would be helpful, I could set up a meeting between these gentlemen and you (and whoever else you think should be invited) so that you can guage this directly for yourself.|||-0.773347139|0.99992406
+|||||
+D1|Here's what I've learned so far: Under the law, prisoners are not to be included in households in determining food stamp allotments.|||-0.994572818|0.9893686
+D1|"Last year, after GAO reported that this happens too often, Congress passed a law requiring states to establish ""systems to verify and ensure"" that prisoners aren't counted in households."|||-0.998613358|0.019937024
+D1|This can include data matching programs with prisons and/or SSA.|||0.866865218|0.26041964
+D1|The law requires all states to do this by 8/1 /98, although USDA can grant 1-year extensions to states.|||-0.978961527|0.9433897
+|||||
+D1|However, SSA won't be ready to share federal data with states by August, because it hasn't worked out all the bugs of such a system.|1||-0.994995356|0.19786529
+D1|States can still meet the requirement if SSA isn't ready, for example by matching data with prisons directly.|1||-0.703914225|0.92303944
+D1|But SSA has the best data and the law specifically says that states that use SSA data are automatically in compliance.|1||0.988137424|0.47227818
+D1|USDA is having a big meeting in 2 weeks with a few states, SSA, and prison people to figure out what kind of system is required.|1||-0.930045009|0.2292003
+D1|There are also privacy issues.|1||-0.989660978|0.06577018
+|||||
+D1|(FYI, there is a similar push on the dead, although that may not be such good fodder for a radio address.|||-0.994822264|0.99196905
+D1|GAO just did a report on food stamps going to the dead, and Lugar is doing a hearing on this April 23.|||-0.997491837|0.9658263
+D1|SSA also has good data on the dead, so at the hearing USDA has to say whether SSA and USDA can share data on this.)|1||0.887129962|0.99634945
+|||||
+D1|We met yesterday with Rahm, Gene, Barbara Chow, and SSA on a possible radio address on stopping fraud in benefit payments to prisoners.|1||-0.795859754|3.59E-05
+D1|We agreed that there is some potential in announcing that other agencies (USDA, maybe VA and others) will take advantage of SSA's big new database of prisoners to spot prisoners who are getting benefits.|1||-0.997125328|0.4703246
+D1|We will work with OMB to survey agencies for programs where this might work.|1||0.677784145|0.11224837
+D1|SSA notes Shaw is doing an oversight hearing on SSI fraud this month and that there will be a lot of heat from Congress in coming weeks on fraud, so this would let us take the offensive a bit.|1||-0.997713685|0.999992
+|||||
+D0|We have identified some Federal benefit programs which have statutory provisions to reduce or suspend benefits to those incarcerated on a conviction or otherwise institutionalized.|||-0.854003072|0.97919595
+D0|This is not a comprehensive list.|||-0.999151587|0.76326877
+D0|The entities administering these programs would likely benefit from access to SSA's prisoner database.|||-0.979394972|0.11224039
+D0|The following agencies, in our survey of OMB examiners, administer programs with statutory requirements to suspend benefits:|||-0.929987192|0.01411561
+|||||
+D0|The Department of Agriculture: The Department of Education: The Department of Labor: Food Stamps Pell grants and student loans (Federal Family Education Loan, Federal Direct Loan, and Perkins Loan programs)|||0.769535363|7.72E-09
+D0|Federal Employees' Compensation Act (FECA), Unemployment Insurance (UI), Trade Adjustment Assistance (TAA)|||0.944126129|6.27E-07
+D0|The Department of Veterans Affairs: VA compensation, pensions and education programs|||0.993002474|0.006380184
+|||||
+D0|Some of these programs are State-administered, which could make coordination of timely data matches more difficult.|||-0.979547739|0.99910516
+|||||
+D1|Recommendation for Executive Memorandum With respect to the four agencies, identified above, with statutory requirements to suspend benefits, an Executive Memorandum on the issue should require the agencies to conduct matches within a specified period of time with the SSA database to identify ineligible recipients on benefit rosters.|1||-0.561546028|0.8625845
+D1|Additionally, the Memorandum would require the Commissioner of the Social Security Administration to assist the agencies in whatever ways necessary to allow quick, efficient access to the SSA database.|1||-0.931582332|0.041116975
+D1|Agencies would be required to design a protocol for matches within a specified period of time, for example 90 days, and perform the first batch of matches within a specified period of time, for example six months.|1||-0.875841618|0.13235351
+D1|Thereafter, the agencies would be required to match as frequently as practicable but no less frequently than annually.|1||0.953606427|0.8851403
+|||||
+D1|A quick survey of the programs identified above indicates that up to 20,000 prisoners may be receiving benefits improperly.|||-0.998759508|0.89537364
+D1|This estimate is highly uncertain and should be verified with the agencies.|||-0.99884975|0.72937804
+D1|Savings estimates, sought from the agencies, ranged from negligible amounts from the Education programs to $75 million from the VA programs.|||-0.995545506|0.97064507
+D1|These estimates, again, are highly uncertainty, and better savings estimates should be discussed with the agencies.|1||-0.999439418|0.082672186
+|||||
+D1|All other agencies with benefit programs would be directed to explore the potential benefits of conducting such a match and, if they determine beneficial to follow the terms above.|||-0.941443801|0.044288658
+|||||
+D1|Proposal of additional statutory requirements  In a note to accompany the Memorandum informally, all agencies that do not currently suspend benefits would be directed to review their program requirements concerning payments of benefits to prisoners using the laws related to the Social Security programs as a model.|1||-0.586075842|0.9561309
+|||||
+D1|agencies should report their findings and recommendations concerning whether additional legislation is appropriate to the Attorney General.|1||0.734033465|0.014415507
+D1|The Attorney General shall review recommendations and, if additional legislation is necessary, recommend the agency prepare and submit a legislative proposal to OMB for review.|1||0.656413436|0.69443023
+|||||
+D1|SSA says Rahm asked Ken Apfel for material on SSA's efforts to stop paying benefits to prisoners, along with ideas for how to expand those efforts to other agencies.|1||-0.980953276|0.6665708
+D1|Ken sent a copy of his note to Elena and 0MB on the theory that we would have to be involved in any effort to expand this to other agencies in a quick way.|1||-0.846714556|0.019663576
+D1|Other programs Ken listed that might benefit if SSA shared its prisoner data are food stamps, veterans benefits, and child support enforcement.|1||-0.998993933|0.00169011
+D1|I'm not sure if DPC should be following up and, if so, who.|1||-0.986388385|0.99515414
+|||||
+D1|Attached is a note and attachments sent by Ken Apfel to Rahm Emmanuel today on the subject of suspension of prisoners' social Security and SSI benefits.|||-0.959901512|1.03E-05
+D1|Rahm wants to use this issue tor this Saturday's Radio Address.|1||-0.892266929|0.24183542
+|||||
+D1|Please note that the last page of the narrative includes a -suggested Presidential Directive that crosses agency lines.|1||-0.907219589|0.97267455
+|||||
+D0|We are available to help in any way requested, Brian Coyne (358-- 6013) and (358-6030) are the contact points here.|||0.937970281|9.19E-07
+|||||
+D0|SSA PRISONER SUSPENSION PROGRAM Brief History on Prisoner Provisions|||0.599664032|0.9482191
+|||||
+D0|Social Security Adminstration Since the Supplemental Security Income (SSI) program's inception in 1974, SSI  eligibility has been prohibited for individuals who are inmates of public institutions  (including prisons) throughout a calendar month.|||-0.849732161|7.70E-07
+|||||
+D0|In 1980, legislation was first enacted requiring SSA to suspend payment to individuals convicted of a felony entitled to Social Security disability insurance benefits.|||-0.972650409|1.37E-05
+D0|This was expanded in 1983 to cover persons entitled to any Social Security benefits.|||-0.516819477|0.039218653
+D0|In February 1995, P.L. 103-387 (the independent agency bill) expanded the classes of affected beneficiaries by including individuals convicted of crimes punishable by more than 1 year imprisonment (regardless of actual sentence imposed) and those found not guilty by reason of insanity or incompetent to stand trial.|||0.619740903|2.31E-08
+|||||
+D0|In May of 1996, the President submitted legislation to the Congress that was designed  to give SSA the authority to operate an incentive payment program, through which prison and jail facilities would be paid an incentive for providing information leading to the suspension of SSI benefits to inmates.|||-0.997823|3.28E-05
+D0|Under the President's proposal, when a  match of prisoner data against SSI data is made and the Information leads to a subsequent suspension of SSI benefits, the facility would be eligible to receive a payment from SSA of $400 or $200 depending on the timeliness of the report.|||-0.999322772|0.10969285
+D0|In August of 1996, Congress adopted the President's proposal as part of P.L. 104-193.|||0.946890831|0.28393853
+|||||
+D0|#NAME?|||0.505987525|0.054037083
+D0|Some Federal agencies that administer Federal benefit programs operate under laws that require them to suspend benefit payments to individuals while they are in prison.|||-0.989436388|2.39E-05
+D0|For example, recently enacted Welfare Reform legislation requires the Department of Agriculture to review its food stamp rolls to ensure that incarcerated individuals are not included in monthly food stamp allotments.|||-0.974152684|0.8836702
+D0|The Department of Veterans' Affairs, in certain instances, is required to suspend payments to beneficiaries who are in jail.|||-0.956646025|2.67E-05
+D0|On the other hand, the Railroad Retirement Board, for example.|||0.856026769|0.000101083
+D0|does not suspend benefits to eligible individuals who are incarcerated.|||0.784446001|0.38153377
+D0|Many agencies, including some of those mentioned above, and the Office of Child Support Enforcement, within the Department of Health and Human Services, also need to obtain prisoner information.|||-0.983267248|3.87E-07
+|||||
+D1|Focus On Problems When the President took office, there was a lot of work that needed ta be done to establish an efficient and effeetlve prisoner suspension operation within the Social Security Administration.|||-0.793117285|0.000636368
+D1|We found that many prison officials were not aware of the statutory provision requiring the suspension of Social Security and SSI payments to inmates.|||-0.999320388|0.53482157
+D1|In addition, there was no formal process for obtaining this Information from the facilities.|||-0.997697294|0.000841287
+D1|Many agreements were informal, ad hoc, which made them difficult to administer and control.|||-0.999610484|0.029173361
+|||||
+D1|Because the facilities were not aware of the requirements, many reported only once or twice a year to SSA, often the Information was Incomplete and reported manually.|||-0.99906224|0.005264217
+D1|The prison officials viewed the requirement as another unfunded mandate.|||-0.988240719|0.8552392
+D1|Additionally, some correctional institutions are reluctant to enter into agreements with SSA because of the potential cost to them when Incarcerated individuals lose their Medicare or Medicaid eligibility|||-0.937276959|2.18E-05
+|||||
+D1|There were serious limitations in SSA's prisoner suspension program.|||-0.99683702|0.6947689
+D1|The internal processes were fragmented and lacked adequate controls and most tasks were manual.|||-0.999940395|0.9595152
+D1|This resulted in the inability to stop payments to prisoners in a timely manner.|||-0.995146215|0.9679003
+D1|Even when agreements were in place, SSA lacked a method for monitoring the facilities' compliance.|||-0.999732316|0.21553838
+|||||
+D1|Moreover across the Federal govemment, there has been no consistent effort for appropriately suspending payments to incarcerated individuals or data sharing  of prisoner information among agencies.|||-0.993765354|0.9471037
+D1|Because of the numerous Federal and State statutes that govern the redisclosure of prisoner information, Federal agencies are hindered from sharing prisoner information.|||-0.998412132|2.59E-05
+|||||
+D1|RESULTS TO DATE Under this Administration, SSA initiated an aggressive course of action that has resulted in significant improvements in the prisoner suspension process.|||0.998167634|0.9998821
+D1|Over the past few years, SSA has completed a major initiative to contact and establish agreements with all correctional facilities across the United States.|||0.998115063|1.50E-05
+D1|As a result of this, SSA has agreements with the Federal Bureau of Prisons, all State prisons and the 25 largest local jail systems to provide us prisoner data.|||0.995301604|1.56E-05
+D1|In addition, the Agency has agreements with over 3,500 local jails.|||0.984361172|1.69E-05
+D1|SSA has worked with Governors, heads of correctional institutions, correctional associations and similar stakeholders to obtain their help and support in providing prisoner data on a regular basis.|||0.993527353|9.52E-08
+D1|The cooperation of State and local correctional administrators is critical to the suspension process.|||-0.809602678|0.000240599
+D1|SSA has developed an excellent working relationship with these administrators and the associations that represent them.|||0.998159707|0.004886901
+|||||
+D1|As a result of these efforts, prisons and jails representing over 99 percent of the nationâ€™s inmate population are reporting the names and Social Security numbers of incarcerated individuals to SSA.|||-0.953341603|0.000341769
+D1|Because of our aggressive efforts to obtain information on prisoners, who are not eligible for benefits, well over 100,000 prisoners had their benefits suspended during 1995 and 1996 alone.|||-0.978683352|3.76E-05
+D1|For the period 1995-2001, our actions will result in the suspension of payments of nearly $3.5 billion.|||-0.998013377|0.9670287
+D1|Programs such aa Social Security and Supplemental Security Income need to be protected to ensure that only those who are eliglble for benefits are receiving them, and we are proud of the significant savings we have achieved.|||0.993210256|0.9896282
+|||||
+D0|As noted earlier, there is a need to address the sharing of prisoner information among Federal agencies.|||0.810170114|0.000461764
+D0|Officials from the Food Stamp Program have recently contacted SSA for prisoner information.|||-0.961860418|0.000296387
+D0|There needs to be a coordinated effort within the Federal government regarding the sharing of information about incarcerated individuals.|||-0.874034405|0.3876204
+D0|This will ensure that all provisions precluding benefits to incarcerated individuals are enforced.|||0.983701169|0.7834881
+D0|In addition, there needs to be a greater recognition of the medical costs associated with the prisoner population particularly those costs associated with aging and addiction.|||0.596132696|0.001052556
+|||||
+D0|NEXT STEPS NEEDED:|||0.973679841|0.9335511
+D0|Although we have had successes, more remains to be done.|||-0.736773074|0.9386978
+D0|The President is therefore directing that:|||-0.951056123|0.5229462
+|||||
+D1|The Director of the Office of Management and Budget analyze the consistency of Federal policy with regard to the eligibility for benefits of individuals in prison and make recommendations for any legislative changes that may be necessary or appropriate.|||0.905217707|0.99641883
+D1|The Commissioner of Social Security develop a set of plans and proposals to share prisoner data that SSA obtains from prison administrators with other Federal agencies that need it in order to further ensure that prisoners are not receiving any Federal benefit for which they are not eligible.|||-0.811803579|1.68E-06
+|||||
+D1|The Attorney General explore how to improve the sharing of data from the Federal prison system with other Federal agencies that need this Information in order to further ensure that prisoners are not receiving any Federal benefit for which they are not eligible.|||0.894391537|6.57E-05
+|||||
+D1|The Secretary of Health and Human Services examine the health care implications of providing benefits to incarcerated Individuals.|||0.895893276|0.000213182
+D1|I am also asking Secretary Shalala to look Into the Office of Child Support Enforcement's need to obtain prisoner information to locate missing parents.|1||-0.937228262|0.00037647
+|||||
+D1|SSA says Rahm asked Ken Apfel for material on SSA's efforts to stop paying benefits to prisoners, along with ideas for how to expand those efforts to other agencies.|1||-0.980953276|0.6665708
+D1|Ken sent a copy of his note to Elena and OMB on the theory that we would have to be involved in any effort to expand this to other agencies in a quick way.|1||0.722109735|0.019663576
+D1|Other programs Ken listed that might benefit if SSA shared its prisoner data are food stamps, veterans benefits, and child support enforcement.|1||-0.998993933|0.00169011
+D1|I'm not sure if DPC should be following up and, if so, who.|1||-0.986388385|0.99515414
+|||||
+D0|Dear Mr. President: Since joining your Cabinet two years ago, we have made substantial progress in combating the threat of illegal drugs to the United States and its citizens.|||0.978452504|0.010099893
+D0|Your overall support, guidance, and personal presence on this issue has played a major role in these achievements.|||0.997297943|0.9570017
+|||||
+D1|In the coming months, ONDCP has four significant initiatives that we believe would Benefit greatly from your participation, namely:|1||0.988619328|0.75931406
+|||||
+D1|"â€¢ The National ""Rollout of the Youth Media Campaign:"|||0.729528189|0.14138205
+D1|In early July, we will move from the 12 city pilot phase of the Youth Anti-Drug Media Campaign into a national campaign (phase II).|||-0.85114795|3.01E-07
+D1|This expansion will bring our ads to every city and town across the nation.|||0.996315062|0.028386239
+D1|Already, the 12 city phase is showing results: anti-drug coalitions, whose phone numbers appear on the ads, report two to three times as many calls as received prior to the campaign; and, our buying service reports an unprecedented 100 percent match ratio of ad time to PSA time from media outlets.|||-0.863314629|0.002571467
+D1|We expect to see the same types of results this time nationwide -- come July.|||0.930479228|0.8927278
+D1|Your participation in a national rollout event would increase the campaign's visibility, helping it to get off to a strong start.|1||0.986658752|0.9563702
+|||||
+D1|â€¢ United Nations General Assembly Special Session (UNGASS): This June's UNGASS will concern efforts to address illegal drug use.|||0.993194342|0.5030272
+D1|The political declaration and other deliverables being developed for the UNGASS make substantial steps forward in reinforcing the international commitment against drugs.|1||0.998223126|0.30931213
+D1|A number of heads of state (including France, Brazil, South Africa, and Mexico) have already committed to attend the session.|1||0.980917335|3.32E-06
+D1|Your involvement would greatly increase the level of participation and the magnitude of the session.|1||0.979899526|0.8971204
+D1|A speech at UNGASS would afford you the opportunity to give a major policy address establishing a broad vision and setting a strong agenda for how the international community must work together to reduce the transnational threat of drugs.|1||0.988154769|0.98867446
+|||||
+D1|â€¢ The Drug-Free Communities Program Rollout: The membership of the Commission on Drug-Free Communities is being vetted and will soon be set for release to the public (a decision memo has been prepared for your signature).|1||0.996949255|0.9859583
+D1|This program, which over the next five years will create 10,000 new community anti-drug coalitions across the nation, while strengthening the existing 4,000 coalitions, will empower countless Americans to fight drug use at the grassroots level.|||0.997832358|0.005008756
+D1|Your participation in announcing the members and at the inaugural meeting of the commission would send a strong signal to the American people to get involved in this effort.|1||0.991821945|0.5098185
+|||||
+D1|â€¢ President's Drug Policy Cabinet (PDPC) Meeting:|1||0.957968712|0.016081449
+D1|There are a number of key drug policy issues now percolating that would substantially benefit from discussion within the PDPC:|1||0.9473086|0.9919593
+D1|One of the most pressing issues deals with focusing on real results and measuring our success.|1||0.779258251|0.90117526
+D1|In keeping with the Vice President's reinventing government initiative, the 1998 Strategy sets out a performance measurement system to track the ten-year Strategy.|||0.982231855|0.98170877
+D1|However, substantial Congressional pressure exists for more immediate interim markers, which could cause a legislative response.|1||-0.84211719|0.7657097
+D1|ONDCP believes that we must proactively craft annual markers that are realistic, achievable, and flexible.|1||0.996858835|0.9997019
+D1|Your leadership is necessary to hep the PDPC address this need for greater efficacy and accountability).|1||0.997056842|0.9965814
+D1|Similarly, a series of other issues, including UNGASS, the Southwest border, and restructuring the counter-drug intelligence system, also would benefit from discussions within the PDPC.|1||0.541777492|4.08E-05
+D1|We are at a critical juncture involving major drug policy initiatives that promise breakthroughs in bringing down drug use in America.|1||0.99877733|0.14783292
+D1|A PDPC meeting is vital to ensure unity of effort as we move ahead.|1||0.999111235|0.5788605
+|||||
+D1|These events offer an important opportunity to show your hands-on commitment and leadership in the fight against drugs.|1||0.996342003|0.007206301
+D1|Each of these events highlights substantive progress with respect to an important counter-drug initiative.|1||0.999787986|0.29537132
+D1|By your involvement we can continue to raise the awareness of the American people that drugs present a serious threat to the nation, and that this Administration is working hard under your leadership to reduce that threat by half.|1||0.995351195|0.28296578
+D1|Imagine, by way of comparison, the impact to the nation of halving the number of auto or cancer fatalities, or teen pregnancy or illiteracy rates.|1||-0.92902571|0.2609141
+|||||
+D0|We will coordinate these events closely with your staff and do whatever possible in order to facilitate your participation in these four initiatives.|||0.994690955|0.3740996
+D0|Look forward to your thoughts and guidance.|||0.960697949|0.8158137
+|||||
+D1|I spoke to Staff Sec. about the McCaffrey scheduling memo.|1||-0.862220347|0.8874958
+D1|All they need is a reaction from us -- e-mail would be fine -- so they can incorporate it in a quick cover note.|1||0.981177449|0.99854314
+D1|They'd like to send it in to the President during his office time tomorrow.|1||-0.841387153|0.42993405
+D1|If the following is okay w/you, I'll cc staff sec. and tell them to work from this â€¦|1||-0.785464942|0.041147947
+|||||
+D1|Here are my comment/recs on McCaffrey's scheduling memo to the President:|1||-0.776569963|0.053506278
+|||||
+D1|1. National Rollout of the Youth Media Campaign.|||-0.724690616|0.048845902
+D1|We should support a roH-0111 of this signature anti-drug initiative.|1||-0.874448061|0.9951918
+D1|However, for the President not to be disappointed, we need to make sure Rahm takes the lead in getting ONDCP to come up with some specific announcements â€“ i.e., new anti-drug ads, additional private sector partners and commitments, results from the 6-month/12-city pilot, etc.|1||0.930946052|0.8389383
+|||||
+D1|2. U.N. Special Session on Drugs.|||0.89697367|0.169239
+D1|I understand scheduling has already committed to do this, and that NSC is taking the lead.|1||0.991231143|0.67117786
+D1|There is very little of our stuff here.|1||-0.999449074|0.9756187
+|||||
+D1|3. Drug-Free Communities Rollout.|||0.988940299|0.42868862
+D1|The President just signed off on the proposed candidates for the Drug-Free Communities board, and Personnel says that it will take another 4 to 6 weeks to fully vet these folks.|1||-0.9930529|0.022548515
+D1|I would not, however, recommend this as a stand-alone event.|1||-0.990463495|0.8211081
+D1|The board does not include any really big names, and the grants are so small ($10 million).|1||-0.999717534|0.12707955
+D1|Moreover, the Hill Dems were not happy when we did a signing ceremony with the R's on this.|1||-0.999900103|0.08999194
+D1|They hate that the R's vote against funding for virtually every other community-based drug program -- to the tune of hundreds of millions of dollars -- and then turn around and support these tiny grants for community organizations.|1||-0.514825702|0.013305201
+D1|If anything, we should roll this into the media campaign announcement.|1||-0.723089218|0.9947507
+D1|It will allow us to say we're linking our national ant-drug message with action at the grass roots.|1||0.970450699|0.63897294
+|||||
+D1|4. President's Drug Advisory Council.|||0.93348521|0.00041714
+D1|This is a bit of a problem.|1||-0.999590099|0.9121191
+D1|As I've mentioned, QMB -for themselves and on behalf of various agencies -- has expressed serious concerns about ONDCP wanting to discuss its performance measurement system at this meeting.|1||0.881635666|0.98560244
+D1|I would defer Them on when itâ€™s appropriate to do this.|||-0.829112113|0.90236616
+|||||
+D0|Due to a scheduling conflict, am unable to attend your event tomorrow.||1|-0.997985363|0.005534918
+D0|Look forward to seeing the results of your efforts.||1|0.997267962|0.8060526
+D0|Continue to believe that the key to our success in combating drugs remains a united, nonpartisan commitment.||1|0.99532795|0.000284986
+|||||
+D0|Over the last two years, the Administration and the Congress have been able to work together to deliver a number of important victories against drugs.||1|0.997077465|0.001671222
+|||||
+D0|â€¢ With Congress' help, we put in place a $195 million Anti-Drug Youth Media Campaign that is producing real progress.||1|0.996340513|0.9938512
+D0|Preliminary results from the Campaign's first pilot phase show that 97 percent of the people in these media markets say they have seen our ads.||1|-0.99964726|0.9608865
+D0|Eighty percent say that the ads encouraged conversations about drug use.||1|-0.999510884|0.43217376
+|||||
+D0|â€¢ Together, we also succeeded in establishing the Drug-Free Communities Program, which will soon empower community anti-drug groups in countless towns and cities across the nation.||1|0.998494864|9.51E-05
+|||||
+D0|"â€¢ We have mobilized millions of Americans to fight youth drug abuse through our ''Prevention Through Service Alliance."""||1|0.993753016|0.002252049
+|||||
+D0|â€¢ On the supply reduction front, we have also achieved real gains, including, for example, a 40 percent reduction in Peruvian cocaine production over the last two years.||1|0.998476207|0.546303
+|||||
+D0|â€¢ We have improved law enforcement, putting more cops on beats across the nation, establishing new strong measures to combat money laundering, and taking some of the deadliest weapons out of the hands of the dealers, gangs and druglords.||1|0.998234272|0.10677384
+|||||
+D0|This sort of comprehensive approach, embodied in our National Drug Control Strategy, requires the unflinching support of all segments of the American people to succeed.||1|0.995616436|0.96198285
+D0|For that very reason, we cannot allow partisanship to unbalance our counter-drug policies.||1|0.759682119|0.9645627
+D0|The taint of partisanship would only cause us to lose vital ground in our efforts to reduce drug abuse and its consequences in America down to a historic new low.||1|-0.989993393|0.5142612
+D0|Your support, and that of all the members of Congress who take their leadership from you, in maintaining unity of purpose is essential.||1|0.998087823|0.18054931
+D0|America can ill afford us to shift our attention from our real goals -- reducing the demand for drugs through education and prevention, and breaking the sources of supply through law enforcement and international cooperation.||1|-0.735846162|0.503864
+|||||
+D0|The Administration's counter-drug agenda, much of which is reflected in your current thinking, will build upon these successes.||1|0.985800266|0.84676063
+D0|It is imperative that we: expand programs to break the cycle of drugs and crime, particularly through increased treatment within the criminal justice system; strengthen prevention efforts, such as the Drug Free Schools Program, that target our nation's young people; reauthorize the Office of National Drug Control Policy; and, sign into law a new juvenile justice bill.||1|0.891028762|4.36E-07
+D0|These are just four of the many areas where a nonpartisan commitment to progress over politics can make a real difference for the American people.||1|-0.769528031|0.050083555
+|||||
+D1|I'm red dotting the Gingrich speech to you, in case you want to skim it (it's actually a pretty good speech, I think) and read the three paragraphs on drugs.|1||-0.999787867|0.9999765
+D1|"Basically, he lists a drug-free America as his first out of four priorities (education, pensions/retirement and taxes are the other three), and he says that Congress will pass a bill this year to expand McCaffrey's authority so he can develop a ""World War II-style victory plan."""|1||-0.997398376|1.17E-07
+D1|"He also mentions ""sealing upâ€ the border  and states that, generally, it will take us about 10 to 12 years to reach our goals on all of the four priority issues."|1||0.822279632|0.008897564
+|||||
+D1|On a separate note: Joe Califano's group (CASA), with McCaffrey in tow, will be releasing a study at the Press Club on Thursday at 10 am showing that 80% of the nation's offenders have a link to alcohol or drug use.|1||-0.951093554|1.95E-07
+D1|"He will call for ""opening a second front in the drug war"" to treat and train these offenders."|||-0.927010298|3.54E-05
+D1|Thus, I think if Rahm wants to do the radio address on the directive (Leanne's working up a draft), we should think about leaking the directive on Thursday to get in the stories.|1||-0.995093107|0.10103065
+D1|In fact, even if we don't do the radio address on this, we should still condiser leaking the directive for Thursday.|1||-0.998279929|0.9724521
+D1|I'll send a copy of CASA's draft press release.|||-0.997831523|0.4668808
+|||||
+D1|"Met w/OMB today to go over General McCaffrey's proposed letter to Gingrich and ""Blueprint"" report to Hill."|1||0.563734412|0.038955484
+D1|OMB, the agencies and I are very concerned about the lofty promises being made in the proposed document and letter (i.e., reducing drug use by 50%, cutting drug crime rates by 30%, etc.).|1||0.949234903|0.8551012
+|||||
+D1|OMB is especially concerned about McCaffrey's report and letter forcing the Administration's hand on budget issues and conceivably violating the Balance Budget Agreement.|1||-0.98287648|0.99985576
+D1|They want McCaffrey's letter to Gingrich amended and the report held and coordinated w/the overall budget process.|1||-0.676322937|0.08098052
+D1|Raines intends to send a brief memo late tonight/early tomorrow (draft attached) to Erskine and Rahm suggesting as much.|1||-0.977747142|0.00769937
+|||||
+D1|McCaffrey is scheduled to meet w/Gingrich tomorrow afternoon and is sure to be b*llsh*t if he can't have his report/letter in hand.|1||-0.985911727|0.017577624
+D1|(Also, I heard he's trying to get on Raines' calender first thing in the a.m.).|1||-0.749695361|0.6488157
+D1|Justice, Treasury and HHS are now only realizing what's in McCaffrey's report/letter and are likely to be b*llsh*t if they go to the Hill in their current form.|1||-0.995999336|0.002998248
+D1|I expect that you may all encounter this dilemma at tomorrow's senior staff meeting or soon thereafter.|1||-0.9272874|0.033559997
+D1|Call me if you have Q's.|||0.543585956|0.996179
+|||||
+D1|"Last week ONDCP circulated a draft document entitled ""Blueprint for a Drug Free America."""|1||-0.999885082|0.02554073
+D1|"The document lays out ""performance targets"" for the conduct of the anti-drug abuse program in the next five - ten years."|||0.802277565|0.21992818
+D1|The targets and dates are aggressive.|1||-0.996397734|0.5053338
+D1|For example, among the targets are the following: 1) 50 percent reduction in the overall rate of illicit drug use in the U.S. by 2007; and 2) 50 percent reduction in the available supply of drugs in the U.S. by 2007.|||-0.926344812|3.17E-06
+D1|The document indicates that the proposed performance targets must be supported by funding if they are to be realized.|||-0.954086721|0.99835455
+|||||
+D1|We have no evidence that would suggest that the draft goals can be achieved without substantial increases in Federal drug budgets in 1999 and beyond.|1||-0.996494472|0.9995523
+D1|Several agencies have made similar complaints to ONDCP (e.g., Justice and Treasury).|1||-0.983746946|3.80E-06
+D1|As such, release of the document would be problematic and would imply FY 1999 budgetary trade-offs not yet made in favor of anti-drug spending and against other domestic discretionary spending.|1||-0.9945333|0.9999858
+D1|We suggest that the document be withheld until after submission of the 1999 President's Budget, when all agencies must submit their performance plans and targets to Congress.|1||0.536247909|0.97105163
+D1|Those plans must be directly linked to multi-year Presidential budget request levels.|1||-0.914491415|0.9397614
+|||||
+D1|General McCaffrey is likely to be upset if the document is not released.|1||-0.972545207|0.77813154
+D1|His likely arguments for release, beyond his desire to pursue a vigorous fight against drug abuse, will be:|1||-0.962651074|0.000167786
+|||||
+D1|-- The 1997 President's Drug Strategy released by ONDCP this spring indicates that performance measures will be provided to Congress this fiscal year (FY 1997).|||0.965708792|0.9975211
+|||||
+D1|#NAME?|1||0.783295393|0.86505485
+D1|(Apparently, the Speaker wants even more aggressive performance measures than those outlined by ONDCP).|1||-0.974998713|0.99968493
+|||||
+D1|#NAME?|1||-0.989500821|0.886737
+D1|(Because ONDCP is due to receive 1998 appropriations anyway, the threat of a lack of reauthorization is not terribly significant.)|1||-0.904653728|0.99972934
+|||||
+D0|This is from Mark Kleiman at the UCLA Public Policy School.|||0.900078058|0.11542447
+D0|He used to be at the Kennedy School.|||0.51770103|2.22E-05
+D0|He has been extremely helpful to us over the years on drug issues and ideas and this looks like it could be a helpful forum.|||0.98752743|0.8809174
+D0|I sent it to Rahm, too.|||-0.999958277|0.40453422
+|||||
+D0|In addition to talking about the National Drug Control Strategy, the President will be announcing the results of a new study from the Justice Department Bureau of Prisons.|||-0.986935139|2.00E-05
+D0|The study indicates that federal prisoners who were drug tested and treated (through the voluntary program that was part of the 94 Crime Bill) were 73% less likely to be rearrested and 40% less likely to use drugs again after their release.|||-0.995948493|2.64E-05
+|||||
+D0|Presidential Directive on Coerced Abstinence in the Criminal Justice System January 12, 1998|||-0.844234288|0.006075308
+|||||
+D0|â€¢ Today, the President directed the Attorney General to take the necessary steps to: (1) require states to determine the level of drug use in their prisons and report annually on their progress;|||0.749592423|6.09E-06
+D0|(2) grant states the flexibility to use their federal prison funds for drug detection, offender testing and drug treatment;|||0.994645596|4.96E-06
+D0|(3) work with states to enact stiffer penalties for drug trafficking into and within correctional facilities.|||0.98595804|7.09E-07
+D0|The President also announced that his FY 1999 budget will include nearly $200 million for a series of initiatives to promote coerced abstinence and treatment in the criminal justice system.|||0.560829759|0.003110272
+D0|Towards a National Policy of Coerced Abstinence|||-0.97980988|0.065499805
+|||||
+D0|â€¢ Last week, Columbia University's Center on Addiction and Substance Abuse (CASA) released a study confirming the need for coerced abstinence and treatment in the criminal justice system.|||-0.79916811|6.20E-06
+D0|CASA' s study found that 1 .4 million offenders -- or 80% of the I. 7 million criminals in prison and jails -- were either high on drugs or alcohol when arrested, stole property to buy drugs, or have a history of drug and alcohol abuse.|||-0.926639378|1.44E-05
+D0|Many other studies also confirm that the majority of individuals in the criminal justice system have similar drug histories.|||-0.950488985|0.003830893
+|||||
+D0|â€¢ Testing to Measure Progress.|||0.997333765|0.8501716
+D0|Under current law and federal guidelines, states are required to submit drug testing and intervention plans for their federal prison grant funding.|||-0.729516029|7.42E-06
+D0|The President's directive calls on the Attorney General to amend the guidelines to require states to also include a baseline report of their prison drug abuse problem, and to report every year thereafter to chart the progress they are making to reduce drug use and availability.|||-0.657766998|0.007377874
+|||||
+D0|â€¢ Helping States Get the Job Done.|||0.996942103|0.20441304
+D0|Today's directive asks the Attorney General to draft and transmit to the Congress legislation that will grant states the flexibility to use their federal prison construction and substance abuse treatment funds to provide the full range of drug testing, sanctions and treatment for offenders under criminal justice supervision.|||0.905095518|0.000970414
+D0|With this added flexibility, states could tap into the nearly $8 billion in prison funds authorized by the 1994 Crime Law (about $2 billion of which already have been appropriated to date).|||0.864289761|0.12015122
+|||||
+D0|â€¢ Keeping Drugs Out of Prisons.|||0.993311286|0.010052995
+D0|Finally, the President's directive calls on the Attorney General to draft legislation, in consultation with the states, that would require states to enhance their penalties for drug trafficking into and within correctional facilities as a condition of receiving prison construction funds.|||0.740121245|8.64E-08
+D0|The 1994 Omnibus Crime Bill contains tough penalties for similar crimes.|||-0.874384165|0.8287913
+D0|"The President believes we must have ""zero tolerance"" for drug use and trafficking within our nation's prison system."|||-0.979367435|0.015582879
+|||||
+D0|A Record of Accomplishment â€¢ President Clinton has consistently promoted a policy of drug testing, sanctions and treatment for offenders.|||0.997359335|0.98059046
+D0|Specifically, he has:|||0.996423185|0.004269994
+|||||
+D0|Pushed for Drug Testing and Intervention in the 50 States.|||-0.800743699|0.000282459
+D0|The President fought for and signed the legislation requiring states to drug test prisoners and parolees as a condition for receiving prison grants.|||0.71228081|5.13E-06
+D0|States must now submit comprehensive drug testing and intervention plans for prisoners and parolees by March 1998 and implement them by September 1998.|||0.901316047|2.59E-05
+D0|Today's actions directly build on this effort.|||0.990642369|0.990686
+|||||
+D0|Doubled the Number of Federal Arrestees Tested.|||0.811462402|0.7353794
+D0|President Clinton directed the Attorney General to create a program to drug test federal criminal defendants.|||-0.994814456|0.095889695
+D0|Operation Drug TEST (Testing, Effective Sanctions and Treatment) funded a pilot program to test defendants immediately upon their arrest.|||0.605853021|1.83E-06
+D0|In FY 1997, data from 24 judicial districts indicated that 56% of defendants (9,308) were tested -- a dramatic increase over the 28% (4,929) of defendants tested in the previous year.|||0.839199185|0.35515004
+D0|There was also a 190% increase in drug treatment for defendants over the same period.|||-0.825257003|0.07021411
+|||||
+D0|Expanded Testing and Treatment in Federal Prisons.|||0.996590853|0.000461626
+D0|Through his budgets and the 1994 Crime Act, the President has promoted coerced abstinence in the federal prison system.|||0.874784589|1.25E-05
+D0|In 1997 federal prisoners were subjected to nearly 130,000 drug tests.|||-0.998634517|0.010311896
+D0|Additionally, the number of inmates required to receive treatment increased by 3-fold (from 5,450 in FY 1993 to 17,943 in FY 1997).|||-0.867295682|0.14616758
+|||||
+D0|Multiplied the Number of Drug Courts.|||0.822299361|0.22418284
+D0|As part of the 1994 Crime Act, the President fought to launch a $1 billion initiative to spread Drug Courts across the country.|||-0.937780499|1.19E-05
+D0|Drug Courts use drug testing, sanctions and -- when necessary -treatment to cut crime and addiction.|||0.595915437|0.03917726
+D0|Drug Courts have increased from a mere handful in 1993 to more than 200 that are operational today.|||0.996729732|0.691923
+|||||
+D0|Increased Resources in FY 1999 Budget.|||0.995151639|0.27036965
+D0|The President's FY 1999 Budget will continue the Administration's policy of drug testing, sanctions and treatment.|||-0.894843936|0.9016147
+D0|In particular, the budget includes $197 million for related programs:|||0.940787315|0.6497142
+|||||
+D0|"""Zero Tolerance""lnitiative for Drugs in Prison Questions and Answers January 12, 1998"|||-0.504020989|0.007282304
+|||||
+D0|Q. What is the President announcing today?|||-0.971235335|0.61058795
+|||||
+D0|A. Today, the President signed a directive to the Attorney General calling on her to take the necessary steps to:|||0.505076528|0.027817382
+|||||
+D0|(1) Require states to determine the level of drug use in their prisons and report annually on their progress.|||0.719367564|7.27E-07
+D0|Under current law and federal guidelines, states are required to submit drug testing and intervention plans for their federal prison grant funding.|||-0.729516029|7.42E-06
+D0|The President's directive calls on the Attorney General to amend the guidelines to require states to also include a baseline report of their prison drug abuse problem, and to report every year thereafter to chart the progress they are making to reduce drug use and availability.|||-0.657766998|0.007377874
+|||||
+D0|(2) Give states the flexibility to use their federal prison funds for drug detection, offender testing, and drug treatment.|||0.986024439|1.24E-05
+D0|The Attorney General will draft and transmit to the Congress legislation to give states the flexibility to use their federal prison construction and substance abuse treatment funds for the full range of drug testing, sanctions, and treatment for offenders under criminal justice supervision.|||0.98593545|0.000239353
+D0|This will allow states to tap into the nearly $8 billion in prison funds authorized by the 1994 Crime Law (about $2 billion of which already have been appropriated to date).|||0.894640386|0.003540481
+|||||
+D0|(3) Work with states to enact stiffer penalties for drug trafficking into and within correctional facilities.|||0.98595804|7.09E-07
+D0|Finally, the President's directive calls on the Attorney General to draft legislation, in consultation with the states, that would require states to enhance their penalties for drug trafficking into and within correctional facilities as a condition of receiving prison construction funds The 1994 Omnibus Crime Bill contains tough penalties for similar crimes.|||0.738333046|1.64E-07
+D0|"The President believes we must have ""zero tolerance"" for drug use and trafficking within our nation's prison system."|||-0.979367435|0.015582879
+|||||
+D0|President also announced that his FY 99 budget will include $197 million for a series of initiatives to promote coerced abstinence and treatment in the criminal justice system-including $85 million for a new drug testing and sanctions progran1 for states and localities.|||-0.745866477|0.001031617
+|||||
+D0|Q. How bad is the problem?|||-0.99649471|0.73835856
+D0|Is this directive really needed?|||0.970852256|0.5177012
+|||||
+D0|A. While crime rates continue to drop and overall drug use is down, illegal drugs remain an enormous factor behind the level of crime and violence in America.|||0.995932758|9.43E-05
+D0|Drug addicts are involved in approximately 3 to 5 times the number of criminal incidents as arrestees who do not use drugs.|||0.717880368|8.13E-05
+D0|Last week, Columbia University's Center on Addiction and Substance Abuse (CASA) released a study confirming the need for coerced abstinence and treatment in the criminal justice system.|||-0.952388108|1.14E-06
+D0|CASA's study found that 1.4 million offenders -- or 80% of the I. 7 million criminals in prison and jails -- were either high on drugs or alcohol when arrested, stole property to buy drugs, or have a history of drug and alcohol abuse.|||-0.926639378|1.17E-05
+|||||
+D0|Drug test results and anecdotal information reveal that even while incarcerated, offenders can gain access to drugs.|||0.92513603|0.003351608
+D0|In drug tests conducted last year, approximately 2 percent of offenders in federal prison and roughly 9 percent of inmates in state facilities tested positive for drugs.|||-0.995313525|4.62E-08
+|||||
+D0|President Clinton believes that our criminal justice system should reduce drug demand -not prolong, enhance, or tolerate it.|||-0.959719062|0.69587237
+D0|We know that drug testing'and treatment can help to break the cycle of drugs and crime.|||0.997751534|0.003448856
+D0|Convicted offenders who undergo drug testing and treatment while in prisons and after release are approximately twice as likely to stay drugfree and crime-free as those offenders who do not receive drug testing and treatment.|||0.656100154|8.41E-08
+D0|Today's directive and the resources proposed in the President's budget will help us get to zero tolerance for drugs in prison and to helps state to cut crime and recidivism linked to drug abuse.|||0.988889575|0.001330772
+|||||
+D0|Q. How is this different from previous actions taken by this Administration to address this issue?|||0.770178139|0.91013205
+D0|Is this anything new?|||-0.987810493|0.4014596
+|||||
+D0|A. The President's action today builds on his strong record of accomplishment in this area.|||0.998244643|0.9982722
+D0|In 1996, the President launched the first comprehensive effort to address the drug problem in our state criminal justice systems.|||0.989358187|7.59E-05
+D0|President Clinton fought for and signed legislation to require states-- whose criminal justice systems house the vast majority of drug dependent offenders-- to drug test prisoners and parolees as a condition of receiving federal prison grants.|||-0.939150393|0.000310417
+D0|Under the President's initiative, states must submit comprehensive plans of drug testing and intervention for prisoners and parolees by March 1, 1998 and implement them by September 1, 1998.|||0.966556311|3.06E-06
+|||||
+D0|Today's directive complements tlie President's earlier initiative by helping us to chart the states' efforts to reduce drug use and availability in their prisons.|||0.990826905|0.8229501
+D0|The directive also makes more resources available to states to help them get the job done|||0.85432905|0.067992516
+|||||
+D0|The President has taken numerous other actions to combat the problem of drug abuse by offenders involved in the criminal justice system including: doubling the number of federal arrestees drug tested in 24 judicial districts;|||0.856734157|5.31E-08
+D0|fighting to launch a $1 billion initiative to spread Drug Courts across the country;|||-0.812271714|1.53E-07
+D0|and expanding drug testing, intervention and treatment in Federal prisons through his budgets and the 1994 Crime Act.|||0.958443046|1.28E-06
+|||||
+D0|Q. Is the federal government tracking the problem of drug use in its own prisons?|||-0.991041005|0.017751865
+D0|What are you doing about the drug problem in federal prisons?|||-0.986841321|0.3466094
+|||||
+D0|A. Under the leadership of Attorney General Reno, the federal Bureau of Prisons is carrying out model programs in drug testing, drug treatment, and drug detection.|||0.982822835|0.000216561
+|||||
+D0|Drug Testing.|||-0.73843354|0.022724906
+D0|In 1997, federal inmates were subject to 127,460 drug tests.|||-0.997189224|0.021047808
+D0|Two percent of tests were positive, as compared to the 9 percent average for state correctional systems.|||0.967871249|0.002162616
+D0|Prisoners testing positive for drugs are appropriately punished and follow up tests are scheduled regularly to ensure they stay clean.|||0.971292436|0.007891678
+D0|Drug testing of correctional officers, and other selected employees is also an established policy in the Federal Bureau of Prisons.|||0.917427242|1.06E-08
+|||||
+D0|Drug Treatment.|||0.618329883|0.15136597
+D0|In compliance with the 1994 Crime Law, drug treatment is provided to 100 percent of eligible inmates prior to their release from Bureau custody.|||0.945068359|1.97E-06
+D0|In FY 97, nearly 31,000 inmates participated in Bureau treatment programs.|||-0.614257157|0.15723407
+D0|The number of institutions offering residential treatment has grown from 32 to 42 since FY I 994.|||-0.860180438|0.9956579
+|||||
+D0|Drug Detection.|||0.995146215|0.07161783
+D0|Innovative drug detection technology is being piloted at Bureau institutions.|||0.974349797|0.001073288
+D0|The Office of National Drug Control Policy is working with the Bureau to provide the states with information on the best ways to keep drugs out of prisons.|||0.963128686|1.34E-07
+|||||
+D0|Q. Is this new reporting requirement for states on their prison drug problem tantamount to an unfunded mandate on states?|||-0.640083432|0.22831278
+|||||
+D0|A. No.|||-0.999797046|0.57852495
+D0|By law, states must develop and implement plans for drug testing and intervention as a condition of receiving federal prison construction grants.|||-0.700882733|3.15E-05
+D0|Today's action means that as part of those plans, states will need to add information on their existing prison drug use problem, and update that information annually.|||0.973839402|0.36969507
+D0|All 50 state correctional systems conducted some form of drug testing on their inmates last year;|||0.613913894|3.56E-06
+D0|yet no comprehensive data exists on the prevalence on drug use in state prisons.|||-0.98946476|0.008633629
+D0|Anecdotal reports have shown that certain systems, such as the District of Columbia's corrections department, have had difficulty keeping drugs out of prisons.|||-0.993761837|0.17091174
+D0|The baseline information they provide will help us to chart states' progress to reduce drug use and availability in their prisons.|||0.998256981|0.00370432
+|||||
+D0|In order to provide additional resources for states to promote coerced abstinence and zero tolerance for drugs, the directive calls on the Attorney General to develop legislation to allow states to use their federal prison construction and treatment funds to carry out all of these activities.|||-0.753187239|1.21E-05
+|||||
+D0|In addition, the President is proposing $197 million in FY 99 for a series of initiatives to help states promote coerced abstinence and treatment: I) $85 million for a new drug testing, sanctions, and intervention program for states and local criminal justice systems; 2) $30 million for Drug Courts; 3) $4. 7 million for the federal Operation Drug Test program; 4) $5 million for a juvenile justice demonstration program to combat teen drug use; and 5) $72 million to continue the Residential Substance Abuse Treatment in State Prisons program.|||0.637069702|6.57E-08
+|||||
+D0|Q. The President's directive asks the Attorney General to work with states to increase their penalties for smuggling drugs into prisons.|||-0.95367825|0.000359467
+D0|Are there tough penalties for trafficking drugs into federal prisons?|||-0.99308151|0.000693845
+|||||
+D0|A. Yes.|||0.997355938|0.87137693
+D0|The 1994 Omnibus Crime Act increased penalties for illegal drug use and smuggling drugs into Federal prisons.|||-0.759542346|1.52E-05
+D0|For instance, drug trafficking in Federal prisons can now lead to imprisonment for up to 20 years for smuggling narcotics and methamphetamine, and up to 5 years for trafficking marijuana.|||-0.984182417|1.37E-09
+|||||
+D0|January 12, 1998 MEMORANDUM FOR THE ATTORNEY GENERAL SUBJECT: Zero Tolerance for Drug Use and Availability for Offenders|||-0.97874999|0.22228023
+|||||
+D0|Crime rates in this country have dropped significantly for 5 years, and the number of Americans who have used drugs is down nearly 50% from its peak 15 years ago.|||-0.983828843|1.29E-05
+D0|Also, drug-related murders have dropped to their lowest point in a decade, and recent drug use surveys indicate that -- for the first time in years -- teen drug use is leveling off, and in some instances, modestly decreasing.|||-0.994855285|0.12939534
+D0|All of this news is encouraging.|||0.993622482|0.001544615
+|||||
+D1|Nonetheless, much more can and needs to be done to continue to bring down drug use and increase public safety.|||0.740879595|0.8669852
+D1|With more than half the offenders in our criminal justice system estimated to have a substance abuse problem, enforcing coerced abstinence within the criminal justice system is critical to breaking the cycle of crime and drugs.|||0.820126653|0.04472076
+D1|My Administration consistently has promoted testing offenders and requiring treatment as a means of reducing recidivism and drug-related crime.|||0.986803114|0.077898264
+D1|"We have worked to expand the number of Drug Courts throughout the country, increased the number of federal arrestees and prisoners who are tested and treated for drugs, and launched an innovative ""Breaking the Cycle"" initiative, which is a rigorous program of testing, treatment, supervision, and sanctions for offenders at all stages of the criminal justice process."|||0.987085521|4.37E-07
+D1|And under your leadership, the Federal Bureau of Prisons provides models of excellence in drug detection, inmate testing, and drug treatment.|||0.998727262|6.97E-05
+|||||
+D1|We can do still more to enforce coerced abstinence among state prisoners, probationers, and parolees.|||-0.99844414|0.57518464
+D1|When a drug user ends up in a state prison, we have a chance to break his or her addiction.|||0.753517628|1.89E-07
+D1|Convicted offenders who undergo drug testing and treatment while incarcerated and after release are approximately twice as likely to stay drug- and crime-free as those offenders who do not receive testing and treatment.|||-0.607491612|6.12E-07
+D1|But when drug use inside prisons is ignored, the demand for drugs runs high.|||-0.641239226|9.66E-06
+D1|In this environment, correction officials struggle to keep their prisons drug-free.|||-0.935998738|0.000154028
+D1|Often drugs are smuggled in by visitors; sometimes even by compromised correctional staff.|||-0.994541943|9.32E-06
+|||||
+D1|To maintain order in our prisons, to make effective treatment possible, and to reduce drug-related crime, we can not tolerate drug use and trafficking within the nation's prisons.|||-0.760726273|4.61E-05
+D1|Thus, I direct you to:|1||-0.884181738|0.59613305
+|||||
+D1|(1) Amend the guidelines requiring states receiving federal prison construction grants to submit plans for drug testing, intervention, and treatment to include a requirement that states also submit a baseline report of their prison drug abuse problem.|1||-0.670877159|2.03E-07
+D1|In every subsequent year, states will be required to update and expand this information in order to measure the progress they are making towards ridding their correctional facilities of drugs and reducing drug use among offenders under criminal justice supervision.|1||0.917330325|3.78E-07
+|||||
+D1|(2) Draft and transmit to the Congress legislation that will permit states to use their federal prison construction and substance abuse treatment funds to provide a full range of drug testing, drug treatment, and sanctions for offenders under criminal justice supervision.|1||0.981156468|1.31E-07
+|||||
+D1|In consultation with states, draft and transmit to the Congress legislation that requires states to enact stiffer penalties for drug trafficking into and within correctional facilities.|1||0.984475315|5.22E-05
+|||||
+D1|To the best of my knowledge and efforts this has been signed off on by DOJ, ONDCP and WH Counsel.|1||0.994041979|0.011099563
+D1|"Some of the added language on ""enforcing coerced abstinence"" are Rahm's rhetorical flourishes."|1||-0.576026618|0.934412
+D1|The new language also alludes to including probationers in bullets #1 and #2 (mine and ONDCP's addition; Justice is okay though).|1||-0.961275697|0.038341515
+|||||
+D1|"This version was forwarded to General McCaffrey tonight for one ""final"" eyeball."|1||-0.98178345|0.51328295
+D1|I told ONDCP he'll have to speak to Rahm tomorrow if he has any serious concerns.|1||-0.999420524|0.9495467
+|||||
+D0|Rahm: I'll drop the other paper off to you tonight before I leave.|||-0.930711091|0.61081713
+|||||
+D1|Rahm asked Leanne and I to re-draft the state prisons drug directive that's been on the shelf for some months now and get him a copy today.|1||-0.976524591|0.000198273
+D1|I just dropped off the attached version and faxed it to DOJ and ONDCP.|||0.691739142|0.87058103
+D1|Originally, he wanted it for the radio address, but I think that's no longer in play.|1||-0.988432229|0.027664395
+D1|Instead, I believe he wants the directive's imminent signature to make into the coverage tomorrow night on Joe Califano's speech on this topic at the Press Club.|1||-0.979265332|0.028362531
+|||||
+D1|Also, please note that while the concepts in the directive were originally proposed by DOJ -baseline requirement, promoting increased penalties from smuggling drugs into prisons and using prison construction funds for testing/treatment -- our directive proposes a slightly different mechanism.|1||-0.990425527|0.28203592
+D1|I'm suggesting that funds made available to states for testing/treatment be contigent on their enacting tougher penalties for smuggling drugs into prisons (equivalent to what's in the Crime Bill.|1||-0.99955827|0.002058908
+|||||
+D1|1. Make it a condition of federal education funds â€“ or perhaps Safe & Drugfree funds â€“ that schools have an effective policy of removing disruptive students from the classroom.|1||0.677459776|0.9049358
+D1|Not that toothless compromise from IDEA.|1||-0.998742759|0.96995395
+D1|We need a good values issue -- I'm sure y'all can work it out.|1||0.996608973|0.9995314
+|||||
+D1|2. Drug testing (and treatment): I'll send you a chart on the success of random drug testing in the military.|||-0.626458883|0.009957634
+D1|Use has dropped from over 25% in 1981 when the program started to 3% in 1995 -- which is one-third the civilian rate.|||-0.999148369|0.00015812
+D1|We should find a way to help employers do this (either a handbook or a program), and come up with another proposal for the criminal justice system.|1||-0.994901061|0.000518984

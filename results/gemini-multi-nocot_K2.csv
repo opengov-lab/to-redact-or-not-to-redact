@@ -1,0 +1,993 @@
+row,sentence,y_true,agent1_pred,agent1_step1,agent1_step2,agent2_assessment,agent2_issues,agent2_suggestion,agent3_pred,agent3_rationale,y_pred
+0,That list sounds fine to me.,1,1.0,,,,,0.0,1.0,,1.0
+1,"From #2, I would only highlight a & b -- I wouldn't do the others or make much of them.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+2,"On #3, I would announce both now, I think.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+3,Rahm wants to leak the school violence report for Monday a.m.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+4,I don't think we're going to get much pressure for announcements.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+5,Mike and I discussed a set of possible announcements and challenges that the President could make at Monday's TIMSS event.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+6,Mike asked me to run them by you.,1,0.0,,,,,1.0,1.0,,1.0
+7,"Could you please take a particularly close look at # 2, the challenges?",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+8,The President could:,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+9,"1) Highlight the importance of moving forward on his education agenda, focusing heavily on the voluntary national 8th grade test but also mentioning class size, modern schools/school construction, urban education zones, High Hopes, teacher recruitment and training initiatives, and the $60 million middle school math initiative in the '99 budget.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+10,2) Issue a set of challenges for the nation to help address the issue.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+11,calling on:,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+12,"a. states to require new math and science teachers to pass assessments of their knowledge of math or science, and their capacity to teach their subject well, before getting their teaching license.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+13,(33 states are members of an organization working to develop and put in place assessments like these over the next three years.),0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+14,b. states and school districts to insist that their math and science teachers have  either majored or minored in their subject area in college.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+15,(The average K-8 math teacher only takes 3 undergraduate math courses.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+16,"28% of math teachers have neither neither a major nor minor in math, 55% of physics teachers have neither a major nor minor in physics, and 18% of science teachers have neither a major nor minor in science.)",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+17,"c. students to work hard and take tough courses in math and science in middle school and high school, and for those with real proficiency in math and science to consider making careers in teaching.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+18,"(To help students do this, also challenge schools to offer tough math and science classes for all students throughout middle and high school.)",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+19,d. businesses to make clear that students' performance in school counts and look at students transcripts when considering them for jobs.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+20,"The President could thank the Business Roundtable and National Alliance of Business for their work on this issue, and announce that he would convene a meeting of business leaders at the White House to stimulate action on this nationwide.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+21,e. universities to strengthen their programs preparing math and science teachers and to encourage more math and science majors to consider careers in teaching.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+22,f. parents to insist on finding out how their child is doing compared to national standards and compared to their peers around the nation and world.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+23,"(This leads into national tests, of course.)",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+24,The one other challenge to the states we might want to include is for states to adopt rigorous standards in math and science.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+25,"3) Announce new on-line help for parents, teachers, and students in math and science:",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+26,a. TIMSS on-line challenge.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+27,"Parents will be able -- beginning at back-to-school time this fall to download a math and science quiz from the internet, give it to their children, and get a rough sense of what their children need to know in math and science and how they are doing compared to their peers around the world.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+28,b. New math and science web-site.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+29,"On Monday, a new website will be available connecting teachers, parents, and students to good materials for curriculum and out-of-school math and science learning, drawing on the scientific resources of NASA, the Department of Energy, the National Science Foundations, and other federal agencies involved in math and science.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+30,(Thus has been a collaborative effort among more than 40 agencies.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+31,"It will be ready Monday, but we could also save this for a VP event later this month that could focus more squarely on this website and give more credit to all of the agencies involved.)",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+32,"I. PURPOSE  To bring together leaders from government, business, education, and the scientific community to discuss the recent 12th grade",0,1.0,,,,,0.0,0.0,,0.0
+33,"Third International Math and Science Study (TIMSS) results, and to issue a set of challenges to the nation to improve student achievement.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+34,"You will also announce new on-line math and science help for parents, teachers, and students.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+35,"BACKGROUND You will be meeting with 25 leaders from government, business, education, and the scientific community to discuss how the nation should respond to recent findings from the Third International Math and Science Study (TIMSS) that while U.S. 4th graders are near the first in the world in science and above average in math, U.S. 12th graders lag below the international average in both subjects.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+36,"These results demonstrate the importance of implementing your education agenda, including proposals for: national standards and tests in math and reading, smaller classes with well-prepared teachers, modem school buildings, Education Opportunity Zones to end social promotions and fix failing schools, technologically advanced schools, and ""High Hopes"" mentoring to encourage students to take tough classes and prepare for college.",0,1.0,,,,,0.0,0.0,,0.0
+37,"In addition to reiterating your legislative proposals, you will issue the following new challenges to boost student achievement in math and science.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+38,â€¢ Reducing out-of-field teaching.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+39,You will challenge states and school districts to reduce the percentage of math and science teachers without a major or minor in their subject area.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+40,The average K-8th grade math teacher takes only three undergraduate math courses.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+41,"Twenty-eight percent of secondary math teachers lack a major or minor in their subject area, as do 18% of secondary science teachers and 55% of physics teachers.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+42,â€¢ Rigorous Tests for New Teachers.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+43,You will challenge states to require all new teachers of math and science to pass challenging tests of math or science knowledge and teaching proficiency.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+44,"With nearly half of our nation's teaching force to be replaced over the next several years in order to accommodate growing student enrollments and an aging teaching force, raising standards of teaching now can boost the quality of our schools for decades.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+45,"â€¢ A Call to Action for Schools, Students, and Parents.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+46,You will challenge schools to offer -- and students to take -- tough math and science courses throughout middle school and high school.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+47,"Only 25% of U.S. students take algebra before high school, and only 25% of U.S. high school students take physics before graduating.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+48,You will challenge parents to insist that school districts provide ways of showing how children are doing compared to national standards and international benchmarks.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+49,"Today, parents have no way of finding out how their children do compared to the international standards in TIMSS.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+50,"You will also announce the following new on-line resources for parents, students, and teachers:",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+51,"â€¢ ""Federal Resources for Educational Excellence"" (FREE) Web-site.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+52,"A new website is available today to connect teachers, parents, and students to teaching and learning resources in math, science, and other subject areas from NASA, the Energy Department, the National Science Foundation, and other agencies.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+53,â€¢ The TIMSS On-Line Challenge.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+54,The U.S. Department of Education will launch this fall a website that puts TIMSS math and science problems on-line.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+55,"This will enable parents to give a quiz to their children, learn what their children should know in math and science, and learn how their children are doing compared to students from other countries.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+56,"Summary of the TIMSS Results: TIMSS showed that U.S. 12th graders scored among the lowest of2I nations in general math and science, with the U.S. outperforming only Cyprus and South Africa.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+57,Performance of U.S. 12th graders in advanced math and physics courses also lagged behind their peers from other nations.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+58,"The 12th grade findings completed a multi-year study showing U.S. 4th graders near the first in the world in science and above average in math, with U.S. 8th graders slightly above the international average in science and below the international average in math.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+59,"The 21 nations participating in the 12th grade study were the U.S., Canada, Australia, and many European nations.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+60,No Asian countries participated in the 12 grade tests.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+61,(See attachment of how the U.S. ranks compared to each participating country for all three grades.),0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+62,"While there is not yet an analysis of the 12th grade TIMSS, an analysis was done of the 8th and 4th grade TIMSS.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+63,"The analysis found that U.S. curriculum was less advanced, and that it covered more subjects superficially rather than a few subjects in depth.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+64,The analysis also showed that U.S. teachers often do not get as much training as those in other nations.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+65,"Although other tests (including the National Assessment of Educational Progress) show that U.S. student achievement is improving, TIMSS makes clear these improvements are not rapid enough to keep pace with other nations in an increasingly global economy.",0,1.0,,,,,0.0,0.0,,0.0
+66,Springbrook High School is a good school with above-average test scores.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+67,"Although the school has a solid math and science program, it is not particularly stronger than any of the other academic areas taught in the school.",0,0.0,,,,,1.0,1.0,,1.0
+68,"Springbrook has a very diverse student body (35% African American, 20% Asian, 16% Hispanic, 28% white), and it enrolls a total of 2,200 students.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+69,"Last week Springbrook High School held its first Anti-Violence Week, to honor one Springbrook student and one fonner student who were killed within the last year.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+70,"Fonner Springbrook student Alfredo Enrique Tello, Jr. was brutally killed at age 19.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+71,Samuel Sheinbein (who fled to Israel) and Aaron Needle are charged with the murder.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+72,Two months later a Springbrook student Elmer Flores was killed in a robbery.],0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+73,IV. PRESS PLAN MEETING: Pool Press for Opening Statement.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+74,Meeting is then Closed Press.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+75,SPEECH: Open press remarks before the student body.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+76,"V. SEQUENCE OF EVENTS - YOU will be greeted at the school by Principal Mike Durso, Governor Glendening, Superintendent of Schools Nancy Grasmick, and Members of Congress.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+77,"â€¢You will also be greeted by Michael Cohen's son, Ross, who attends Springbrook.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+78,#NAME?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+79,(All other participants will already be seated.),0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+80,#NAME?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+81,#NAME?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+82,"Sec. Riley will make remarks and introduce Bill Schmidt, TIMSS Nat'l Coordinator.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+83,#NAME?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+84,- YOU will begin the meeting by calling on Secretary Pena to briefly describe the Energy Department's commitment to Science education.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+85,#NAME?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+86,"Each participant will give a brief statement on their view of the improvements that can be made in math and science education, and you are free to respond.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+87,(YOU should begin by calling on the Governors and Mayors present.),0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+88,"Â· - IO minutes prior to the close of the meeting Bill Nye will depart to the auditorium, where he will do a brief pre-program for the students.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+89,#NAME?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+90,#NAME?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+91,Speech to the Student Body: - YOU will be announced onto the stage accompanied by the school Principal and Secretary Riley.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+92,#NAME?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+93,#NAME?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+94,#NAME?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+95,#NAME?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+96,VI. REMARKS Provided by Speechwriting.,0,0.0,,,,,1.0,1.0,,1.0
+97,DISCUSSION POINTS FOR EDUCATION MEETING,0,1.0,,,,,0.0,1.0,,1.0
+98,(l) Improving performance is critical to U.S. economic growth and individuals personal opportunities,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+99,"â€¢ Most of the highest growth areas in our economy are in areas that require strong math and science skills (e.g., information technology, health professions, systems analysts, engineers).",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+100,â€¢ Almost 90% of new jobs require more than a high school level of literacy and math skills.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+101,"â€¢ For students to get on the road to college and high paying jobs, math and science skills are critical.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+102,Students who take algebra and geometry go to college at much higher rates (83% vs. 36%) than those who don't.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+103,(2) We must have higher standards and expectations in middle and high school mathematics and science.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+104,"In grades 4-8, students in other nations are studying algebra, geometry and other topics, while U.S. students continue to be taught primarily arithmetic.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+105,The content taught in U.S. eighth-grade mathematics classrooms is generally at a seventh grade level compared to the 40 other nations in the TIMSS study.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+106,"A recent international comparison of science and math examinations for collegebound students by the AFT shows that our SAT, ACT, and AP exams are much less rigorous than similar exams from other nations.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+107,"The standards of state assessments vary widely, and many 8th grade mathematics assessments are less rigorous than the NAEP standards.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+108,The voluntary national tests will help address this.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+109,(3) Students should take four years of rigorous high school mathematics and science.,0,1.0,,,,,0.0,1.0,,1.0
+110,â€¢ Only 25% of U.S. high school students take physics and only 10% take calculus.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+111,Most students do not take four years of high school mathematics and science.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+112,"Even among college bound students, less than half do so.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+113,Businesses can demonstrate the importance of a rigorous course of study by looking at student transcripts when making hiring decisions.,0,1.0,,,,,0.0,1.0,,1.0
+114,"The U.S. Chamber of Commerce, the National Alliance of Business, and the Business Roundtable are encouraging employers to do this.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+115,"(4) U.S. curriculum should be more focused, instead of covering more subjects superficially.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+116,"â€¢ At 8th grade, U.S. mathematics and science curriculum is less focused than that of other nations --""a mile wide and an inch deep.""",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+117,The typical U.S. 8th grade mathematics textbook covers 35 topics while the typical Japanese 8th grade textbook covers 7.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+118,(5) Teachers must be prepared to teach challenging math and science.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+119,The average K-8 teacher of mathematics takes only 3 undergraduate math courses.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+120,"In high school, in 1993-94, 28% of mathematics teachers, 18% of general science teachers and 55% of physics teachers were teaching out-of-field, meaning that they have neither a major nor a minor in the subject they teach.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+121,"â€¢ TIMSS found that in a typical U.S. classroom, students are drilled to learn how to repeat how the teacher solves a problem.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+122,"In Japan, students are asked to solve problems and then present their methods and solutions to the class in order to increase their own understanding.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+123,"This is why it is essential that states require new teachers to take rigorous tests of their knowledge and skills, that states and districts reduce the number of out-offield teachers, and that colleges and universities commit to recruiting and preparing more top-notch math and science teachers.",0,1.0,,,,,0.0,1.0,,1.0
+124,"(6) Our students do not start behind, they fall behind.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+125,â€¢ In comparison with students in other nations U.S. 4th graders students are above average in mathematics and second only to Korea in science.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+126,"The strong performance of the ""First in the World Challenge"" districts north of Chicago show that with the right effort, our students can be first in the world.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+127,"(7) U.S. achievement in mathematics and science is improving, but not fast enough.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+128,"The achievement of U.S. students has improved in the last decade as shown by higher scores on the NAEP, SAT, and ACT.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+129,â€¢ TIMSS and other international assessments show that other nations are also improving.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+130,"Thus, to improve our relative international standing and remain competitive in the increasingly global economy, we must redouble our efforts.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+131,(8) U.S. students are mastering the basics of computation but have troubles with more advanced content and skills,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+132,Both NAEP and TIMSS show that our students do well in the basics of computation.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+133,"79% of 8th graders can add, subtract, multiply and divide.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+134,"â€¢ Our students have trouble with more advanced content (geometry, measurement, algebra) and with solving multi-step problems.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+135,(9) We must destroy the myth that math and science are only for a few students.,0,1.0,,,,,0.0,1.0,,1.0
+136,â€¢ Surveys show that about half of middle and high school students say they will drop math and science as soon as they are able to -- even if they want to go into fields such as engineering or medicine that require math and science knowledge.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+137,"PARTICIPANTS IN MEETING ON MATH AND SCIENCE EDUCATION Secretary Richard Riley Secretary Federico Pena Governor Parris Glendening, Maryland Governor Cecil Underwood, West Virginia Mayor Richard Daley, Chicago, IL Mayor Richard Riordan, Los Angeles, CA Mayor Lee Clancey, Cedar Rapids, IA William Schmidt, National Coordinator for TIMSS, Professor at Michigan State University Rudy Crew, Chancellor of New York City Schools Diane Ravitch, Former Assistant Secretary of Education in the Bush Administration.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+138,"Currently, a Senior Fellow at Brookings and Research Professor at New York University.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+139,"Bruce Alberts, President of the National Academy of Sciences Neil Lane, President of the National Science Foundation Bill Nye, Host of Weekly Television Show,""Bill Nye The Science Guy"" Alan Wurtzel, Vice Chairman of the Board for Circuit City, and Chair of the National Alliance of Business Task Force on Education Standards Wilmer Cody, Chair of the Chief State School Officers and Commissioner of Education in Kentucky Robert Moses, Director of the Algebra Project, which helps disadvantaged students prepare for rigorous math classes Bob Chase, NEA President Sandy Feldman, AFT President Nancy Grasmick, Superintendent of Schools, Maryland Migues Nevarez, President of University of Texas Pan American Walter Secada, Professor of Math and Science Education at the University of Wisconsin, and Director of the Hispanic Dropout Project Cindy Mayorga, Springbrook High School Student Cyrus Ishikawa, Springbrook High School Math and Physics Teacher Congresman Wynn Senator Sarbanes",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+140,"I now have confirmations from Ed Rust, (State Farm CEO), Mayor Daley, Rudy Crew, Diane Ravitch and Bill Schmidt (Mr. TIMSS).",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+141,I should get confirmation from Feldman and Chase shortly; their staff were working on rearranging their schedules.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+142,I'll provide additional updates on other participants as soon as I have them.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+143,"are just about there--as soon as I can tell them what time the meeting is, they can complete",0,1.0,,,,,0.0,0.0,,0.0
+144,"If it helps, here is a first cut at a meeting list:",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+145,"â€¢ Lou Gerstner, IBM â€¢ Ed Rust, State Farm (head of National Alliance of Business, Business Roundtable Education Task Force, and new member of ACHIEVE Board.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+146,"â€¢ Gov. Engler or Gov. Voinavich (the political people here will go nuts over Engler, but he's the best R gov. if we want to use this to move our testing agenda forward.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+147,"â€¢ Gov. Hunt, Gov. Romer or Gov. Carper â€¢ Diane Ravitch â€¢ Mayor Daley or another mayor into education (if Rahm really wants a mayor) â€¢",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+148,"Bill Schmidt (head of TlMSS study) â€¢ Norma Paulus, Oregon state superintendent of education â€¢ Paul Kimmelman or another representative of Chicago-area 1st in world consortium â€¢ 2 outstanding math/science teachers â€¢ Bob Corrigan, President of Cal. State U system, or Richard Atkinson, President of UC system (and former head of NSF in Carter Administration) â€¢",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+149,"Hugh Price â€¢ a few scientists/mathematicians, and a few people who would add greater diversity to the list.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+150,â€¢ Bab Chase and Sandy Feldman if we want them,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+151,This list is too long--and will take some work to keep to a manageable size and still give us what we need.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+152,"A Wednesday announcement - almost two weeks before the meeting -- is a guarantee that we will spend considerable time between now and then dealing with people who are ticked off that they are not invited, or represented in some way.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+153,One of the possible amendments to the ed-flex bill is an amendment from Lieberman adding a Mccain-Lieberman Troops to Teachers bill.,0,1.0,,,,,0.0,0.0,,0.0
+154,"I am reviewing the bilI tonight, but I think it differs from our Troops to teachers plan -- most important in that it limits participation in the program to retiring military.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+155,We have said our proposal would support other mid-career professionals as well.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+156,"I'll read the bill and have more information on this tomorrow morning, but I wanted to give you a heads-up on this.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+157,"FYI--POTUS is in fact consistent on this issue; I checked the statement that Riley put out after the '96 debate (after he said something to the effect of "" ... if people in Milwaukee or Cleveland want to have vouchers, I say 'let 'er rip'""),",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+158,"According to this statement that was carefully negotiated with his Secretary of Education, the President: 1. opposes the use of federal funds for vouchers",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+159,2. believes the use of state or local funds for vouchers are state or local decisions,0,1.0,,,,,0.0,1.0,,1.0
+160,"3. as he said about the 1995 Cal. voucher ballot initiative, the President would personally oppose state or local voucher plans if he were a voter in a state or locality.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+161,Attached is a slightly edited answer for the voucher question --clarifying that the President opposes using federal funds for vouchers:,1,1.0,,,,,0.0,0.0,,0.0
+162,Q. The Wisconsin Supreme Court ruled today that the private school voucher program in Milwaukee is constitutional.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+163,"In light of the President's opposition to school vouchers, what is his view of this decision?",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+164,The President has not had a chance to review the Court decision.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+165,"However, the President is opposed to using federal funds for school vouchers because he believes that we must use public funds to strengthen our public schools.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+166,"We must raise standards, increase accountability, expand public school choice, and invest taxpayer resources in the steps that will make a difference, such as reducing class size, improving teaching, and modernizing our school buildings.",1,0.0,,,,,1.0,1.0,,1.0
+167,"He is opposed to diverting federal funds away from the public schools, which serve 90% of the students, when the needs there are so great.",1,0.0,,,,,1.0,1.0,,1.0
+168,"The Wisconsin Supreme Court decision does not changes these views, nor the President's opposition to private school vouchers.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+169,"I just got a heads up from the Education Department and Kennedy's staff that the Coverdell-Craig-Abraham Drug-Free Neighborhoods Act amendment to the Tobacco bill may well contain a provision, offered last year by Senate Republicans, that allows federal funds to he used to give vouchers to kids who are victims of school violence, including drug-related crimes.",0,1.0,,,,,0.0,0.0,,0.0
+170,"The overview/summary of the bill reads: DRUG-FREE SCHOOLS: makes it an allowable use of federal funds to provide school choice or compensation for k-12 students who are the victims of school violence, including drug-related crimes .... """,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+171,"In the education world, a tobacco bill that doesn't have class size reduction but does provide for vouchers would be seen as a complete disaster.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+172,"I don't know where things stand in the negotiations over this amendment, but it would be great if we could indicate that this particular provision would be a deal breaker.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+173,"Otherwise, the R's may be using this to set the Dems up to take responsibility for bringing down the tobacco bill.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+174,The Administration strongly opposes H R. 2746.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+175,"If the bill were presented to the President, his senior advisers would recommend that the bill be vetoed.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+176,"Under H.R. 2746, States and local school districts could provide vouchers for basic instruction in private schools, using funds that are otherwise available for the supplemental costs of education reform under Title VI of the Elementary and Secondary Education Act of 1965.",0,1.0,,,,,0.0,0.0,,0.0
+177,"Federal funding of private school vouchers is bad policy because it would divert needed attention and resources from the Nation's public schools, which serve approximately 90 percent of students in kindergarten through twelfth grade.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+178,The problematic rule and these two bills are now expected to come up on the House floor tomorrow (Thursday);,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+179,Andy Blocker has confirmed that Democratic leadership will be opposing the rule;,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+180,the question is whether any moderate Republicans who support charter schools and don't want to mess up the Riggs-Roemer bill will vote against it as well.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+181,"Jon Schnur is letting John Doerr's folks know about this, because they have a strong interest in charter schools, and is also getting the word out to some in the charter schools community, who probably wouldn't want to see the bill fouled up.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+182,"As we had heard was a possibility, for House floor consideration, Goodling has requested a ""self-executing"" rule, under which the voucher bill (HELP) would come up first, then the charter schools bill, and then once both bills have passed the voucher bill would automatically be added to the charter bill before it goes over to the Senate.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+183,"In the 21st century, our children must have the best education in the world.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+184,"I am committed to making sure every eight-year old can read, every l 2-year old can log on to the Internet and every I 8-year old can go to college.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+185,And we have made significant progress to improve and strengthen public education.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+186,"But as Congress continues to debate the Education Bill this fall, it's become very clear that there some who are waging a multi-front war against our public schools.",0,0.0,,,,,1.0,0.0,,0.0
+187,"First, the Senate has passed an amendment that would virtually kill the Department of Education and abolish some of its most successful efforts to expand public school choice, to bring computers to every classroom, to create more safe and drug-free schools.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+188,"Second, the House of Representatives has voted to prevent America from setting the high national standards of academic excellence that we must have to ensure every child masters the basics.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+189,I have vowed to veto both pieces of legislation.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+190,And I am pleased that 43 Democratic Senators have announced their intention to support high national standards and sustain my veto.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+191,"Third, in a vote to occur today, some in Congress would diminish our country's commitment to public education by siphoning badly-needed funds away from our public schools into a voucher program that would support private education for a limited number of students.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+192,Ninety percent of America's children attend public schools.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+193,Our public schools are already facing a host of challenges with very limited funds.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+194,"And we must continue to support proven reform efforts -- making schools safer, getting parents more involved, raising standards and improving teaching.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+195,Education has always been a public enterprise in America.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+196,Public schools are the cornerstone of American democracy.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+197,"Throughout history, we have always recognized our common responsibility for preparing all our young for the challenges of the future and duties of citizenship.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+198,"I call upon Congress to stand by our public schools, not walk away from them.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+199,"Elena-- on the voucher amendment, Lott did not introduce this; Dominici did for Coverdale.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+200,See how much confusion is rampant on this?,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+201,I would stress in the weekly (1) that it happened;,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+202,"(2) that is was occasioned by confusion; it happened quickly, the amendment was so poorly drafted that it is unimplementable;",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+203,(3) that it provides something of a symbolic victory but one that we can and will downplay because of the confusion.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+204,The education amendment adopted in the Senate by a vote of 51-49 (Domenici voting for) was intended to allow the Labor Committee to fund school vouchers for children who are the victims of crime.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+205,It is basically not implementable although it does change budget resolution numbers.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+206,The amendment came in the form of a second degree to the Wellstone amendment (the Republicans wanted to avoid an up or down vote on Well stone).,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+207,"The text of the amendment states the intent as described above, and simply strikes Wellstone number changes and inserts an additional (not offset) $2.5 billion in 2000 in budget authority for Function 400, it also adds an additional $2.5 billion in budget aggregates.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+208,"Outlays are not changed, the discretionary caps are not changed, nor is the Labor Committee reconciled the additional spending.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+209,"Since the stated intent of the amendment is not binding, the only effect of this amendment is to increase Function 400 education spending (budget authority only) in the year 2000.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+210,"During the debate, there was a great deal of confusion about the amendment and and many members (including possibly Senator Domenici) apparently thought it was a Sense of the Senate.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+211,The education community is concerned that some will represent this as a test vote on vouchers (the Senate has always filibustered vouchers in the past) but I'd chalk it up to confusion and play down the voucher piece of this.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+212,"In any event, there is common agreement internally that the amendment should be dropped in conference.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+213,Developed countries are responsible for more than 75% of the increase in greenhouse gas concentrations since the beginning of the Industrial Revolution.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+214,"In the decades ahead, however, emissions from developing countries are expected to grow sharply.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+215,"By 2035, developing country emissions are expected to exceed those from the developing world.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+216,Per capita emissions vary widely.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+217,Carbon emissions from the United States are roughly 5 tons per person;,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+218,"from the OECD as a whole, roughly 3.5 tons per person; and from developing countries as a whole, roughly 0.5 tons per person.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+219,"The Framework Convention on Climate Change, signed at the Rio ""Earth Summit"" in 1992, established differentiated levels of commitments for developed and developing countries.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+220,It called upon developed countries to take the lead in addressing climate change and to aim to return emissions to 1990 levels by the year 2000.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+221,"It called upon developing countries to adopt policies and measures to address climate change, but provided no aim for developing countries similar to the year 2000 goal.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+222,These differentiated commitments were intended to recognize both the unequal contribution of developed and developing countries to global greenhouse gas concentrations and the unequal capacity of those countries to control emissions.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+223,"In 1995, in Berlin, the Parties to the climate treaty agreed to negotiate steps for controlling greenhouse gas emissions beyond the year 2000.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+224,"The negotiating mandate calls on developed countries to set quantified emissions limits for the ""medium term ( e.g. 2005, 2010 and 2020).""",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+225,"In Berlin, the United States argued strongly that developing countries must participate meaningfully in negotiations over next steps.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+226,"There was little support for the U.S. position on this point, with many Parties noting the failure of most developed countries to take significant steps toward meeting the year 2000 goal.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+227,"The Berlin Mandate states that there will be ""no new commitments"" for developing countries in the current round of negotiation, but that developing countries will be required to advance the implementation of their existing commitments.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+228,This is the most difficult issue in the current round of negotiations.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+229,There is a vast gulf between the dialogue abroad (where the U.S. proposal for developing country participation is almost uniformly considered too aggressive) and at home (where more than 60 Senators have signed a resolution insisting on developing country commitments beyond those contemplated in either the U.S. proposal or current negotiating mandate).,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+230,"In January, 1997, the U.S. submitted a draft protocol proposal.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+231,"Provisions on developing countries included three elements: (1 calling for the negotiation by 2005 of a new agreement with legally binding emissions targets for all countries, including developing countries, and a ""graduation mechanism"" under which Parties would automatically assume additional obligations as their living standards increase (the ""evolution"" concept);",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+232,(2) establishing a new category (Annex B) of commitments for the most advanced developing countries (providing a halfway house between commitments of developing countries and the more extensive obligations of OECD members);,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+233,"and (3) an elaboration of existing commitments (defining what would be meant by ""continuing to advance the implementation of existing commitments"").",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+234,"This final element contained several components, including a requirement to report annually on emissions and actions taken to reduce emissions and take ""no regrets"" actions (actions which would benefit the climate system, but which might be taken for other economic or environmental reasons).",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+235,B. Reaction Abroad,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+236,Support for the U.S. proposal is scant.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+237,"While the third element is considered within the ambit of the Berlin Mandate by nearly all Parties, most countries have argued that the other two elements (i.e., evolution and Annex B) are beyond its scope.",0,1.0,,,,,0.0,0.0,,0.0
+238,The U.S. has been urged to drop its proposal for a new annex.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+239,We have also been urged to drop our proposal for evolution (in favor of a separate agreement at some future date).,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+240,The following blocs are active in the negotiations:,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+241,European Union.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+242,EU support for developing country commitments has been very soft.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+243,"They have supported U.S. proposals for advancing existing commitments, and have proposed that Mexico and Korea take on stronger commitments (not too far removed in substance from the U.S. Annex B), but are not prepared to accept the U.S. language on ""Evolution"" adopted as part of the Kyoto agreement.",1,1.0,,,,,0.0,0.0,,0.0
+244,They do not support joint implementation with developing countries.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+245,"Non-EU OECD Members (principally Japan, Canada, Australia).",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+246,This group of countries broadly supports including developing country obligations under the Kyoto Agreement.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+247,"Australia and Canada are the most vocal in support of action, while Japan, as host of the December session, is concerned that an aggressive approach would potentially derail the negotiations.",0,1.0,,,,,0.0,0.0,,0.0
+248,"As nearly all countries in this bloc have extensive competitive trade outside of the OECD, they are more aggressive in demanding developing country action With the exception of Japan, this group supports joint implementation.",0,1.0,,,,,0.0,0.0,,0.0
+249,"Big Developing Countries (China, India and Brazil).",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+250,"These three countries are the primary drivers of the developing country position - and some of the world's largest emitters (China is second after the U.S., and India is number six).",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+251,"These countries have taken a standard north-south line, arguing that global warming has been caused by the developed world, and calling upon the industrialized countries to pay for the clean-up.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+252,"They claim that when developing countries have incomes and per capita emissions equal to those of the North, they will then participate in the clean-up effort.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+253,"In spite of their often strident public rhetoric, these countries (particularly China and Brazil) have shown a willingness to engage on this issue on a bilateral basis.",0,0.0,,,,,1.0,1.0,,1.0
+254,"They have active domestic climate change mitigation efforts, and have privately indicated a support for many elements of the U.S. proposal.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+255,"However, they all oppose joint implementation.",1,1.0,,,,,0.0,1.0,,1.0
+256,OPEC.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+257,"Well organized in the climate negotiations, the OPEC countries have been led by Saudi Arabia and Nigeria, and advocate positions designed to slow or block the negotiations.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+258,"These countries have strongly urged: (I) that developing countries should not have to act now,",0,1.0,,,,,0.0,0.0,,0.0
+259,(2) that industrialized countries should compensate developing countries that might be affected by any action taken in industrialized countries to reduce emissions (principally noting that reduction in oil revenues should be compensated).,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+260,Small Island States.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+261,A group of 37 small island states have banded together to create an alliance (AOSIS) that seeks to balance OPEC's influence.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+262,"Largely composed of member countries with low lying territory which will be gradually inundated by climate-associated sea level rise, these countries have pushed an aggressive next steps to combat the problem - calling for a 20 percent reduction in industrialized country emissions below 1990 levels by the year 2005.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+263,"The AOSIS countries have been reluctant to support U.S. calls for developing country action; their proposal omits any mention of any developing country commitments to be undertaken as part of the Kyoto agreement, and they oppose JI.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+264,An agreement in Kyoto that includes the current U.S. developing country position will be extremely difficult to achieve.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+265,"State Department believes that, at a minimum, this would require U.S. support for a target and timetable perceived by the rest of the world to be serious, an aggressive effort to support replenishment of the Global Environment Facility, and an intensive diplomatic campaign.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+266,"Even with these elements, an agreement that includes the U.S. developing country position will be very difficult to achieve.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+267,C. Reaction At Home,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+268,The domestic dialogue on this issue stands in stark contrast to discussions abroad.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+269,"Many in the business and labor community are deeply concerned about the trade and competitiveness impacts of ""differentiated"" commitments for developing countries under the climate treaty.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+270,"Particular concern has focused on China and ""newly industrialized countries,"" such as Korea.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+271,"Last month, Senator Robert Byrd proposed a sense of the Senate resolution opposed to any agreement that does not contain ""specific scheduled requirements"" for developing countries during the same compliance period as those for developed countries.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+272,The resolution quickly garnered 60 co-sponsors.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+273,"As drafted, the resolution appears inconsistent with the current negotiating mandate (which does not envision quantified emissions limits for developing countries).",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+274,"During the past several weeks, however, there has been considerable discussion with Senator Byrd and others about the exact meaning of the resolution.",1,1.0,,,,,0.0,0.0,,0.0
+275,"Senator Byrd has stated that commitments of developing countries should be based upon their own ""pace of industrialization.""",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+276,Senator Chaffee has prepared a more moderate resolution that would require developing countries to take on commitments with a I 0-year lag behind the commitments of developed countries.,1,1.0,,,,,0.0,0.0,,0.0
+277,3 Engaging Developing Countries in the Long-Term,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+278,Any solution to the problem of climate change requires the participation of developing countries.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+279,The long-term issue is how best to engage developing countries in global efforts to address greenhouse gas emissions.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+280,"The original vision of the Framework Convention on Climate Change is that developed countries would lead in controlling greenhouse gases, and developing countries would follow.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+281,This is similar to the approach in the Montreal Protocol (the 1987 treaty that addresses stratospheric ozone depletion).,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+282,"Under that agreement, developing country obligations generally follow 10 years behind those of developed countries.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+283,Developing countries receive financial assistance for their efforts from a multilateral fund.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+284,"Under this model, long-term engagement of developing countries depends on action by developed countries to control emissions.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+285,"However, the Byrd resolution underscores the domestic political difficulties associated with differentiated commitments between developing and developed countries.",1,1.0,,,,,0.0,1.0,,1.0
+286,"In addition, any competitiveness or leakage issues would present substantive concerns.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+287,Many developing nations are addressing their own domestic air pollution problems and other environmental threats and in doing so are curbing releases of greenhouse gases.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+288,"Independent power producers are building many new, cleaner-burning power plants in developing countries, also reducing greenhouse gas emissions relative to traditional technologies.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+289,Renewable energy technologies are finding increasing application among the billions of people in the developing world who are off the electricity grid.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+290,Various efforts are underway to encourage developing countries efforts to control greenhouse gas emissions.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+291,These include: U.S. bilateral assistance; multilateral assistance through the Global Environment Facility (GEF); calls for reorienting the loan guidelines for the international lending institutions;,0,1.0,,,,,0.0,1.0,,1.0
+292,and work on joint implementation (which would encourage the private sector to undertake projects in developing countries to reduce emissions and claim credit for these reductions against a domestic obligation).,0,1.0,,,,,0.0,1.0,,1.0
+293,"The first of these, announced in the President's New York statement at the U.N. Special Session on the Environment, establishes a $ I billion, five-year package to help developing countries plot a climate friendly path to development.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+294,"The primary component of this initiative will be a five year minimum of at least $150 million per year in bilateral assistance for climate related programs, and the potential to use development credits dedicated to climate friendly investment projects.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+295,The initiative will also include a $25 million 5-year interagency program to assist developing countries to meet the terms of the climate treaty.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+296,A significant focus in this initiative will be on using credit tools to induce greater U.S. private sector involvement in transferring climate friendly technologies.,0,1.0,,,,,0.0,1.0,,1.0
+297,Our financial contribution to the GEF was one of the original incentives to developing countries to support the Framework Convention on Climate Change - and to take action to mitigate climate change.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+298,"However, while the U.S. had pledged a contribution of $430 million to the GEF over a three year period, Congressional funding has lagged considerably.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+299,FY96 and FY97 contributions were at $35 million rather than $1 JO million.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+300,The reduced U.S. contribution to the GEF will make any subsequent calls for developing country action under the climate treaty much more difficult to sustain.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+301,One of the most significant elements of the U.S. approach to encourage developing country participation is joint implementation (JI).,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+302,"Similar to the concept of emissions trading, JI allows countries to offset emissions at home through projects undertaken elsewhere.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+303,"However, unlike the situation in emissions trading, under a JI regime, projects could be undertaken in developing countries - countries without legally binding emissions budgets.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+304,The analytic work performed to date suggests that allowing JI could reduce costs within the U.S. substantially.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+305,"Developing countries see benefits as well, in the form of technology transfer and private sector investment flows.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+306,"In spite of the potential benefits, significant opposition among developing countries remains (although support has grown significantly in Latin America).",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+307,Many developing countries believe that JI could undercut the commitment of developed countries to take the lead in controlling greenhouse gas emissions;,1,1.0,,,,,0.0,0.0,,0.0
+308,some environmentalists are concerned that measuring project-based emissions reductions will be too difficult;,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+309,and some in the private sector and Congress are concerned that JI will result in significant transfers of wealth overseas.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+310,"As you know from our several discussions, EPA believes that one of the principles underlying the Executive Order should be our efforts to share with the public how much we do and do not know about the effects of regulatory actions upon children.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+311,The current draft (2.5 pm.1) generalizes this objective through the annual report requirement in section 3-304.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+312,"While useful, we do not believe that this goes far enough in addressing the draft Order's basic objective of either protecting children, affirmatively explaining why an agency may be making a different choice, or indicating that information is lacking to allow for a fully informed decision on child-specific concerns.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+313,"At the same time, we are very mindful of the concern expressed by a number of agencies that the Order not require agencies to set forth a ""Kick Me"" sign with findings that could have adverse litigation consequences.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+314,"We therefore propose including the following language, added as subsection (d) of 5-501:",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+315,"""A description of the data or information, if any, which was employed to assess child specific risks or hazards.""",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+316,"It is our view that this language would move towards providing more transparency in the context of particular rulemakings, but that it would remove any adverse judgments from such statements and the likelihood of any statements being used successfully against an agency in litigation.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+317,It is intended only to require neutral explanations of the information used to reach the judgments contained in a regulatory action.,1,0.0,,,,,1.0,1.0,,1.0
+318,The NIH has serious concerns about this draft Executive Order.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+319,"The topics it is intended to encompass are inconsistent, unclear, and confusing throughout the document.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+320,Commas make a big difference here.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+321,It is one thing to address protecting children in environmental health and safety actions.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+322,"It is far broader and more complex to do so for environmental, health and safety actions, where health and safety must be considered separately and not just in relation to the modifier ""environmental.""",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+323,"If the intent is to have this order affect just environmental health and safety concerns, as much of the language implies, the wording needs extensive revision to make this clear.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+324,"If not, the effects are so broad that this issue needs extensive discussion--it is inappropriate to be asked to agree to something this sweeping out of the blue in one day.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+325,"The aim is difficult to take issue with, but the mechanism and scope need discussion.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+326,Thank you for your willingness to pass along our proposal to the appropriate White House staff for such matters.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+327,"As you have requested, I will briefly describe here the ""best case scenario"" from our view.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+328,"We have been discussing this issue (i.e., the need for pediatric data) with David Kessler, Bill Schultz (his deputy), and their lawyers over the past year, and I think you will find them supportive as well.",1,1.0,,,,,0.0,1.0,,1.0
+329,Everyone has put a lot of time into this and it has been productive.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+330,The following scenario presents the President with the most visibility on what we believe will be a very popular â€œChristmas-present-to-all-childrenâ€ initiative.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+331,"If this seems right to the White House, we can -- and must -- begin work immediately.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+332,(It would be particularly helpful if there were a White House staff contact for us.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+333,With most of our issues we would go directly to the AIDS staff but this is obviously broader than AIDS alone.),1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+334,"We propose that some time during the week of December 16, the President issue an Executive Order, directing the FDA to take immediate regulatory action to ensure that all drugs be proven safe and effective for use by children prior to their approval by the FDA.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+335,"We propose that the President sign thJ Order in the Oval Office, with children, parents, and pediatricians present.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+336,"We would ask that the President dedicate this action to Elizabeth Glaser and her work to improve child health, and that the Pediatric AIDS Foundation be included in the event.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+337,"A proposed action plan detailing the steps that need to be taken, including what should be included in the President's Executive Order and accompanying statement, is attached to this memo.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+338,"We would be happy to help in effectuating this plan in any way possible -- from drafting the Executive Order to generating support in the media, to making physicians, parents, and advocates available for comment.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+339,Just let us know what we can do.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+340,"We are very excited about this proposal, and appreciate your attempt to steer us toward the appropriate decision makers.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+341,You asked that we send you preliminary comments on the draft executive order (E.O.) for inclusion in the version being prepared for Monday.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+342,We will have additional comments next week.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+343,"As indicated during the conference calls, DOL's preference is to limit the E.O. to children under the age of 14.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+344,"This could be accomplished in the definitions section and by including a statement in the opening section along the lines of EPA's comments this morning (e.g., the science indicates problems manifest in younger children; therefore, the focus of the E.O. is on children under 14).",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+345,We would be willing to explore other options for excluding teenagers 14 and older.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+346,An alternative (but less acceptable) approach would be to insert the following language into the opening section:,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+347,"While some health or safety agencies have statutory missions predominantly directed toward certain age groups, such as the working-age population or the elderly, other agencies have more general mandates to protect public health or the environment for the benefit of all Americans.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+348,The intent of this Executive Order is to assure that the latter agencies adequately consider health and safety hazards to children when developing regulations and programs.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+349,"If the final decision is to include older teenagers, we recommend the following language changes:",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+350,- Section 3-302.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+351,The Department of Labor should be included in the IWG.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+352,NIOSH should also be included because it does the bulk of the research on occupational safety and health.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+353,- Section 3-303(c).,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+354,Cut sentence requiring pamphlet.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+355,Allow IWG to determine best outreach approach.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+356,- Section 6-601.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+357,"Suggest ""For each significant regulatory action initiated after the effective date of this E.O. that addresses the environment, health or safety, each agency shall provide the following information, to the extent practicable. . .â€",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+358,"We need some language to assure that these requirements do not (1) interfere with current rulemakings,",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+359,and (2) impose huge analytical burdens on the agencies.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+360,OSHA risk assessments and regulatory analyses already consume considerable,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+361,â€¢ While parts of the draft executive order (such as the second bullet) appear to address a wide range of health threats to children.,1,0.0,,,,,1.0,1.0,,1.0
+362,other parts (such as the title and first bullet) appear to be limited to environmental health threats.,1,0.0,,,,,1.0,1.0,,1.0
+363,FDA recommends that the scope of the executive order be broadened beyond just environmental health threats.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+364,Limiting an executive order to environmental health threats could imply that the most significant health threats faced by children are environmental ones.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+365,"In FDA's view while environmental threats are important, they are not the only significant health threats faced by children.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+366,"â€¢ While FDA recognizes the benefit of focusing specific attention on health threats to children, FDA is concerned about layering additional requirements on the regulatory process in circumstances where they will not add ""valueâ€ to the process.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+367,"Thus, FDA recommends that any new analysis regarding effecys on children's health be targeted at regulations that (1) have potential disparate health impacts upon children",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+368,and (2) are significant regulatory actions as defined in Exec. Order 12866.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+369,The first limitation (that an analysis of effects on children be limited to regulations with a potential disparate impact on children) will insure that new regulatory reviews are not required unless there is a specific reason to be concerned about children.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+370,The second limitation (that an analysis of effects on children be limited to significant regulatory actions) will target the new analysis to the regulations which have the greatest effects and which are already required to be subject to a formal cost-benefit analysis.,1,1.0,,,,,0.0,1.0,,1.0
+371,"If the executive order is targeted in this way, it will formalize what FDA should be - and is - already doing.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+372,"â€¢ The draft executive order requires that certain regulations be ""adequately protectiveâ€ of children's health.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+373,"FDA suggests that this standard be made less vague and more affirmative by requiring that the regulations ""protect"" children's health.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+374,"In addition, whichever standard is used, it may be necessary to clarify that the requirement to protect children's health applies ""to the extent permitted by law.â€",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+375,"Without such a qualification, the executive order could be construed as an attempt to override existing statutory authorities.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+376,"â€¢ The draft executive order also requires an â€œaffirmative finding"" that certain regulations are, adequately protective of childrenâ€™s health.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+377,"A better approach might be to follow the Food Quality Protection Act and require ""a specific determination regarding the safety ... for infants and children (sec. 408(b)(2)(C)(ii)(II)).",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+378,The specific determination language) has the advantage of not requiring an affirmative finding where this would be impossible due to lack of complete information or a conflicting statutory mandate.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+379,FDA does not object to restricting the pamphlet for families (which is addressed in the third bullet) to just environmental health threats.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+380,"However, FDA does have questions about implementation, including whether the pamphlet is a one-time project or an annual one, whether a significant commitment of resources will be required, and who will take the lead in preparing the pamphlet.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+381,"We want to reiterate that, as an agency with no greater priority than protecting the health and safety of children, we strongly support the stated Intent of the draft - Executive Order - to establish a ""national policy to protect the health of American children from environmental, health and safety hazards.""",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+382,"We had a number of serious concerns about the previous draft of this Executive Order, and we are pleased to see many of the changes that have been made to address those concerns.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+383,This memo outlines our most serious remaining concerns with the contents of the current draft Order.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+384,"We also anticipate that we may have more comments, questions, and recommendations once we have reviewed the comments of other participating agencies.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+385,"Finally, we are still reviewing the Preamble to the draft Order, and may have further comments after that review is completed.",1,0.0,,,,,1.0,1.0,,1.0
+386,"Section 1-102: This section is overly prescriptive and could arguably require agencies to spend unlimited resources to address a particular hazard, unless prohibited by statute.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+387,"Proposal: Section 1-102 should be modified to read, ""The head of each Federal agency shall ensure that the potential impacts upon children of environmental, health, or safety hazards arising from or related to the activities of that agency are considered and addressed, as appropriate, by that agency.""",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+388,This memorandum does not necessarily reflect the views of the Commissioners.,1,0.0,,,,,1.0,1.0,,1.0
+389,Section 3. Children's Health IWG,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+390,"We agree that there needs to be coordination among federal agencies on children's health and safety issues, particularly in the area of research.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+391,"However, as originally drafted, the Executive Order would have established a new Children's Environmental Health Council with a broad mandate that went well beyond simple coordination among agencies, CPSC staff commented that the creation of a new, cumbersome bureaucratic entity was counter to the Administration's reinvention efforts, and that its broad responsibilities could impose inappropriate burdens and mandates on member agencies.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+392,"While we are pleased that the original proposal has been considerably scaled back, we still have a number of concerns about the proposed lnteragency Working Group (IWG).",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+393,We agree with many of the comments that have been made by representatives of the Office of Information and Regulatory Affairs (CIRA) about creating a new bureaucracy to coordinate efforts among agencies.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+394,We are eager to review OIRA's written comments and recommendations to revise this proposal.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+395,Section 3-303.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+396,We have a number of questions and concerns about the list of elements that make up the coordinated Federal strategy:,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+397,"(a) What is meant by statements of ""guiding principles"" and ""general policy?""",1,1.0,,,,,0.0,1.0,,1.0
+398,How would those principles and policies differ from what has already been stated in the Executive Order?,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+399,We would be strongly opposed if those principles and policies included specific directions regarding scientific or technical assessments done by individual agencies.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+400,"Isn't it redundant to require a statement of ""targeted annual priorities"" In this subsection when subsection (d) lists the same requirement?",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+401,How would these priorities differ from those mentioned in (d)?,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+402,"(b) As an agency with a broad mandate and a very limited budget -- and no separate research budget -- we would oppose any requirement for the CPSC to contribute in any manner to a ""cross-cutting budget"" for conducting research.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+403,"(c) We support a coordinated effort to reach out to. and educate the public about, health and safety risks to Infants and children.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+404,"However, we believe It Is inappropriate to dictate the form of that outreach by requiring the publication of a pamphlet that includes specific information.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+405,(d) There is no reason to require the identification of a specific number (ten) of high-priority initiatives for the Federal government to undertake.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+406,"Proposal: Subsections 3-303 (a), (b), (c), and (d) should be modified as follows:",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+407,(a) Delete this subsection entirely.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+408,(b) Delete the requirement to prepare a cross-cutting budget.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+409,(c) Delete the second sentence of this subsection.,1,0.0,,,,,1.0,1.0,,1.0
+410,"(d) Delete the word ""ten.â€",1,0.0,,,,,1.0,1.0,,1.0
+411,Scope: CPSC already focuses Its priorities and efforts on protecting children from injury and death.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+412,"We endorse an Executive Order to help advance children's health and safety issues government-wide, and would recommend that the CPSC adhere to its terms.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+413,"However, it would be inappropriate, for example, to alter an Independent agency's statutory rule making requirements through an Executive Order.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+414,"Indeed, the administration implicitly recognized this principle In E.O. 12868, which exempts independent agencies from Its provisions that directly affect an agency's regulatory authority (see E.0. 12866, sec. 6), and requires those agencies only to prepare a ''regulatory plan"" and ""regulatory agenda."" (E.O. 12866, sec. 4(b) and (c).)",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+415,"Similarly, we believe that CPSC should be part of any lnteragency Working Group that Is created and submit research proposals for consideration, but that CPSC should otherwise be exempt from the draft Executive Order's requirements.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+416,"Proposal: The following language, quoted directly from E.O. 12866, should replace the definition of ""federal agency"" in section 2-201:",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+417,"""'Agency,' unless otherwise Indicated, means any authority of the United States that is an 'agency' under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502((5)).",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+418,"As the Supreme Court has held, an independent agency ""cannot in any proper sense be characterized as an arm or an eye of the executive.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+419,"Its duties are performed without executive leave and, in the contemplation of [its enabling] statute, must be free from executive control.â€",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+420,"Humphrey's v. United States, 55 S. Ct. 869, 874 (1935).",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+421,"Since the Issuance of E.O. 12866, 44 U.S.C. 3S02(10) has been renumbered as 44 U.S.C. 3S02(5).",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+422,"As relayed on my voice mail to you on this date, the Department of Veterans Affairs has concerns about the proposed Executive Order (EO) because the vagueness and ambiguity of the requirements makes it difficult to determine applicability.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+423,"For example, the term â€œpotential impactsâ€ needs to be clarified in such a way to better define and/or limit when a federal agency must consider the effect of what it does on the health and safety of children.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+424,"The definition of ""significant regulatory actionâ€ should be clarified to exclude regulatory actions which are unlikely  to affect the health and safety of children.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+425,The annual reporting requirement in  Section 5-501 should be discretionary so that a report will not be required if an agency determines that there is nothing to report.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+426,It is also unclear what impact the proposed EO will have on an agency's budget for research or the degree to which the EO will impact an agency's contractual relations.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+427,The Family Right to Know Initiative is a very positive concept that has the potential to fill an important void in the current protection of children's health from environmental risks.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+428,When parents and families know about the unique risks to children they can use that information to make wise choices.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+429,Responsible decisions by parents can have an aggregate benefit today and in the future.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+430,"In framing this concept we have agreed to a commitment to work with parents, scientists, the business community, and others to achieve the goals of getting better information to families.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+431,"As we work with the stakeholders we can build on the concept of a family's right to know, and decide whether legislation is or is not needed to achieve our goals.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+432,"As the Administration moves forward we should continue to emphasize our belief that we can achieve our goals in a common sense, cost effective way.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+433,That emphasis is needed to respond to concerns that we will put into place unnecessarily expensive approaches.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+434,I plan to continue to be involved in this initiative; please contact Diane Regas of my staff with new information as it arises.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+435,"While we believe the revised discussion draft of the Children's Environmental E.O. is much improved, as I noted in the voice mail I left for you on Friday, it still presents problems for DOL programs.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+436,"We have developed several options that we believe would eliminate the burden for DOL without affecting the basic thrust of the E.O. As you know, our particular concern is that OSHA and MSHA focus on workplace hazards regardless of who is exposed.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+437,"They do not address risk to particular demographic groups, but to all workers.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+438,"The following options are in order of our preference, with one of the first three strongly preferred to the fourth:",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+439,Option 1.,1,1.0,,,,,0.0,1.0,,1.0
+440,"Add to definitions: ""Environmental, health, or safety risks include only those risks or hazards to which members of the general public regularly may be exposed.â€",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+441,Option 2.,1,1.0,,,,,0.0,1.0,,1.0
+442,Add to definitions: â€œFederal agency includes those agencies listed as members of the IWG in Section 3-302 and such agencies as may be designated at a later date.â€,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+443,"In addition, the phrase ""but are not limited to,â€ should be stricken from Section 3-302.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+444,Option 3.,1,1.0,,,,,0.0,1.0,,1.0
+445,Add to definitions: Disproportionate or disproportionately affect does not include any safety or health hazard or risk that occurs in workplaces in which the regular exposure of significant numbers of children-to the hazard or risk cannot reasonably be anticipated.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+446,Option 4.,1,1.0,,,,,0.0,1.0,,1.0
+447,Add to definitions: Disproportionate or disproportionately affect does not include any safety or health hazard or risk that occurs in workplaces in which the regular exposure of children to the hazard or risk cannot reasonably be anticipated.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+448,There are two leading ideas for an environmental message in the State of the Union Address.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+449,This memo gives you a short background and status on each.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+450,Protecting Kids,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+451,Background In August the President directed federal departments to identify ways to provide better information to families about products that pose a special risk to children.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+452,"Since that time, EPA has been working on a proposal to fulfill this direction.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+453,"The proposal on the table has two components: first is an Executive Order that would direct federal departments to consider all information about risks to kids when developing environmental health standards, second is principles for toxics labeling legislation.",1,1.0,,,,,0.0,1.0,,1.0
+454,"The Executive Order, the ""Children's Environmental Health Executive Order"" would require departments, when taking regulatory action, to make a finding either that the action protects children or that there is insufficient information to make such a determination.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+455,"In addition, the draft creates a ""Children's Environmental Health Council"" to oversee the implementation of the Executive Order, to coordinate federal research, and, among other duties, to consult with OIRA on regulatory actions that may affect children's environmental health.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+456,The primary conceptual questions about the Executive Order are: which federal actions should be covered; how should federal departments deal with limited information;,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+457,and whether the Executive Order is consistent with the Administration's position on regulatory reform legislation.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+458,"The draft text has been in circulation only a few days, and I expect that new issues will arise based on the text.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+459,"(Our next interagency meeting is Tuesday, January 28.)",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+460,"The second part of the proposal, principles for labeling legislation, would express the Administration's support for a requirement that manufacturers label products with information about special risks to children.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+461,"This proposal is modeled on ""Proposition 65"" a ten year old law in California.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+462,"The key to the proposal is that it does not add to government regulation of product content, instead it requires manufacturers to test products and label them appropriately.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+463,"The government's role is limited to identifying which substances are of concern, and perhaps identifying level below which labeling will not be required.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+464,Proponents of this approach argue that labeling will provide families with the tools they need to make choices among products and create a strong incentive for manufacturers to reformulate potentially unsafe products.,1,1.0,,,,,0.0,1.0,,1.0
+465,The proposal would exempt food and drugs.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+466,Federal agencies and White House staff have raised concerns about legislation in this arena.,1,1.0,,,,,0.0,0.0,,0.0
+467,"There is little solid data regarding the costs and benefits of a national proposal, and the California model has not been rigorously studied.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+468,(We lack data on the costs and benefits of the California law partly because companies have been very reluctant to release information about their costs.),0,1.0,,,,,0.0,0.0,,0.0
+469,"In addition, there are difficult trade and small business implications that need to be hammered out.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+470,Status The Executive Order is in draft and could probably be finalized quickly if EPA generates support within the White House for that position.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+471,"The process of coming to closure quickly could, however, cause us to miss some more subtle issues, and will likely lead us to draft an Order that is narrowly tailored to environmental health, rather than considering an approach that applies to all health-based regulations.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+472,EPA has drafted about a dozen principles to support labeling legislation.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+473,"While these too could be finalized for the State of the Union, the lack of detailed understanding of the policy and political implications counsel continuing the staff discussions.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+474,"Both 0MB and NEC have serious concerns about the need for legislation, and how to structure it most efficiently.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+475,(Recall that EPA proposed this concept at an NEC meeting in June and the proposal was tabled.),1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+476,"Recommendation The President should commit to issuing an Executive Order to ensure that federal decisions use the best information we can get to protect children, or more narrowly, children's environmental health.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+477,The interagency process to finalize the Executive Order could then be completed in coming weeks.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+478,The discussion of legislative principles should be brought to a deputies' or principals' meeting to allow for a full airing of the issues.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+479,American Heritage Rivers,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+480,"Background A new proposal to create a federal designation ""American Heritage River"" is being discussed in a process convened by CEQ.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+481,"The President would announce a commitment to this idea and work some of the details, including an Executive Order, later.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+482,Currently CEQ staff is proposing that identification be based primarily on the cultural value of rivers.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+483,"The implication of designation is still under discussion, but would include a call for partnerships with the private sector, federal support for local initiatives and federal steps to protect designated waters.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+484,Initially departments have raised some concerns: a designation process will create false expectations that we can solve problems in many places;,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+485,choosing waters for cultural significance conflicts with targeting environmental money to solve problems;,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+486,"as described, the new designation does not clearly add to current work; and we have not thought through potential political opposition.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+487,The biggest challenge we face in making this idea work is to make designation as an American Heritage River meaningful.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+488,"I am continuing to work with CEQ as they identify ways to accomplish this goal, but I remain concerned that we may not have good solutions by next week.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+489,I have attached the current iteration of this idea.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+490,Status CEQ staff are committed to adding enough detail to a proposal so that a decision can be made about whether to go forward next week.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+491,They envision that further detail would be developed in coming weeks.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+492,"Recommendation There are thousands of people across the country who are working to restore enjoyment of their local waterways, and who would welcome new tools to achieve their ends.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+493,They need incentives to create jobs and revitalize rundown urban waterfronts; small grants to catalyze their work; better processes for participating in federal decisions; more information about environmental threats in their local area; and a federal commitment to work in ways that are consistent with local needs.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+494,"We can do this, and we should focus the effort where people really need it--urban waterways.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+495,"The current proposal, if it remains focussed on historically or culturally significant waters, is unlikely to bring these tools to communities.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+496,White House staff should be tasked with coming up with an urban waterways initiative that contributes jobs and environmental benefits.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+497,Such an initiative could be announced in a few months.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+498,Here's some preliminary data on the stay-at-home moms that ASPE pulled together.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+499,"They are looking much more deeply into this because there is more data and other issues that should be  put on the table â€“ do we subtract welfare families from the numbers; should we primarily look at under 18, under 13 (CCDBG eligibility, or under 6?, etc.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+500,"Given the importance of this issue and our continuing involvement in it, I think its real important that we get everything on the table, discuss it and then put together talking points, position paper, or whatever to portray this in its proper light.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+501,"I'm sure Melissa S. will have an interest in this, and Treasury will want to be part of these discussions as well.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+502,So lets talk more later.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+503,Mary,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+504,I quickly pulled together some data from the Census Publication Money Income in the United States: 1996 (P60-197).,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+505,"In 1996, there were 6.21 million families with children under 18 where the husband worked and the wife did not work at all during the year.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+506,"Of these 6.21 million, 1.72 million families (28%) had total family income below $25,000.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+507,Of these 6.21 million families there were 3.68 million families with at least some children under age 6.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+508,"Looking at just those families with some children under age 6 1.18 million (32%) have total family incomes below $25,000 and 1.81 million (49%) have total family income below $35,000.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+509,"Families with Children under 18  Husband Worked/Wife did not work 6,210,000  Total Family Income less than $25,000 1,724,000 (28%)  Total Family Income less than $35,000 2,749,000 (44%)",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+510,"Families with some/all children under 6 Husband Worked/Wife did not work 3,683,000 Total Family Income less than $25,000 1,179,000 (32%) Total Family Income less than $35,000 1,814,000 (49%) less than $35,000 (44%) (49%)",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+511,"WASHINGTON (AP) The House declared Wednesday that any child care initiative must not ignore stay-at-home parents, writing the GOP strategy on this election-year issue onto the record.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+512,"Democrats went along with the nonbinding resolution, which passed without dissent, though they complained that it said nothing about working parents who cannot afford to forgo a second income.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+513,"President Clinton's $21.7 billion, five-year child care initiative proposes tax credits and subsidies to help parents pay child care bills, but it does nothing for stay-at-home parents.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+514,"â€œFederal child care policy should no longer discriminate against stay-at-home parents,"" said Rep. William Goodling, R-Pa., chairman of the Education and the Workforce Committee.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+515,â€œThey make big sacrifices if they stay at home in order to rear their children.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+516,"It's time we recognize those sacrifices.""",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+517,"Democrats complained that the resolution was sped to the House floor, skipping a vote in committee where they might have amended it to include other child care priorities.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+518,They accused Republicans of setting up a false choice between parents who stay at home and those who work.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+519,"â€œI regret that this resolution has chosen to focus on one group of parents,"" said Rep. Rosa Delauro, D-Conn.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+520,The resolution did not advocate any particular policy.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+521,"Some Republicans have suggested that stay-at-home parents might qualify for the dependent-care tax credit, which now is available only to parents who pay for child care.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+522,Other Republicans have suggested an across-the-board tax cut that would give all families more money to spend as they see fit.,0,1.0,,,,,0.0,0.0,,0.0
+523,"Generally, plans to help stay-at-home moms rely on tax breaks.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+524,"That won't help the lower-income families, who generally owe no taxes, says Donna Shalala, the secretary of health and human services.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+525,Oh what fun I have been missing!,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+526,That meeting made the TANF reg look easy ....,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+527,A few thoughts to follow on all your real work:,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+528,"Welfare vs Working Poor Families I was a bit puzzled, as I think you were, by the dicotomy some were drawing between ""welfare families"" and ""low-income working families.â€",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+529,"First, welfare families who need child care are working families (or they are at least preparing for work).",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+530,"Second, many low income women cycle on and off of welfare, using welfare as a form of unemployment insurance -- there is no bright line between the populations.",0,1.0,,,,,0.0,1.0,,1.0
+531,I think the key questions we should ask ourselves are:,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+532,"Do we want states to treat two mothers making $12,000 a year differently because one used to be on welfare and one did not?",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+533,"I think we do not -- we want to encourage states to develop seamless child care systems that focus on incomes, not categories.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+534,In that case what is the best way to encourage states to develop seamless systems?,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+535,I think it is not by setting benchmarks or other rules which encourage the new funds to be used for the not-formerly-on-welfare working poor to counterbalance current practice of focusing dollars on former welfare recipients.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+536,I think it is by providing funds for states to raise their eligibility criteria to include more low-income families.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+537,We do not need new targetting of the block grant in order to have a proposal which helps moderate income working families even without new targetting.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+538,"we can talk about any expansion of the child care and development block grant as â€œchild care for hard working minimum wage families"" or ""low income families making less than $24,00 a yearâ€and we can describe the tax credits as help for the â€œmiddle class families earning between $24,000 and $59,000.""",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+539,So count me as a vote against benchmarking!,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+540,"Stay at Home Parents Regarding stay-at-home parents, I will admit I am completely unschooled in this issue.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+541,I do think we will be able to argue that we are helping stay-at-home parents through the $500 per child tax credit.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+542,"I do also think, as I think you do, that an additional proposal here would be very helpful.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+543,I think such a proposal should focus on parents who stay home for more than 6-24 weeks.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+544,"Thus, I would like to see something like the demonstration project idea, which would provide funds to community and religious groups (including the latter would be helpful) who provide support and assistance to stay-at-home parents, by offering parenting classes or hotlines, play groups, two hour â€œreliefâ€ or â€œemergencyâ€ child care, or which distribute materials to new parents (I though Barryâ€™s idea of promoting connections to WIC was promising).",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+545,In fact maybe the quality fund should have two parts 1) to promote Smart Start-like local efforts to improve the quality of formal child care and 2) to promote local efforts to assist stay-at-home parents.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+546,"This would allow local organizations to provide culturally-sensitive programs for parents of particularly ethnicities, which the Hispanic caucus encouraged us to do.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+547,"In fact, in my in-box is the new issue of Univ of Wisconsin Institute on Poverty magazine which highlights an evaluation of a program called Avance that has worked with low-income Hispanic infants and their families in San Antonio since 1973 which has the explicit goal of ""helping mothers become better teachers of their children.""",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+548,"The evaluation found ""positive and significant differences between participant and control mothers on three measures of teaching effectiveness.""",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+549,I can fax you a copy if you like (it's only one page).,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+550,I must convey to you in the strongest possible terms that we should proceed to introduce  legislation that will deny Social Security benefits to all Nazi war criminals who are denaturalized on the basis of having participated in Nazi persecution.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+551,"Currently, Nazi war criminals who have  been denaturalized, but flee prior to the issuance of a final order of deportation, may continue to  collect Social Security benefits.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+552,The Social Security Administration (SSA) and the Department of  Justice staff have drafted corrective legislation.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+553,Such legislation should go forward without delay.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+554,"While some groups have contended that such legislation could complicate the Government's ability to track down and successfully prosecute Nazi war criminals in this country, I find that contention difficult to accept.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+555,The federal government must pursue denaturalization and deportation against Nazi war criminals without any reference to whether or not they should receive Social Security benefits.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+556,"Social Security benefits cannot, and should not, be used as a bargaining tool.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+557,"The cruelest of ironies is the fact that, come August, SSA could be denying SSI benefits to legal immigrant Holocaust survivors while at the same time paying Social Security benefits to their Nazi tormentors.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+558,I would respectfully request that we meet to discuss this issue as soon as possible.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+559,Please contact my office at 202-358-6000 to set up an appointment,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+560,FACT SHEET.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+561,SOCIAL SECURITY BENEFITS AND NAZI WAR CRIMINALS,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+562,Current Law and Policy â€¢ Current policy is to remove Nazi war criminals from the U.S. and to deny them Social Security benefits.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+563,"There is, however, a loophole under current law.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+564,"â€¢ Since the 1980's, the law has provided that Social Security benefits must be cut off when a final order of deportation is issued against an individual because that individual engaged in Nazi persecution or genocide.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+565,"This provision of Social Security law is specifically for Nazi war criminals and provides for an earlier cut off than for other deportees, whose benefits are not cut off until they are actually deported.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+566,"â€¢ Of the 31 living Nazi war criminals who were eligible for Social Security benefits and who have left the United States, only 10 have lost benefits because of the Nazi war criminal provision in current Social Security law.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+567,"SSA found other grounds to cut off benefits to two additional Nazi war criminals, but they could return to the Social Security rolls.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+568,"â€¢ As of March 15, 1997, 18 Nazi war criminals (almost 2/3) were being paid Social Security benefits.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+569,"In addition, I Nazi war criminal was eligible, but was temporarily not in pay status on March 15 because he was suspended based on the erroneous information that a final order of deportation had, in fact, been issued.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+570,"â€¢ These individuals escaped the Nazi war criminal provision in current Social Security law because DOJ did not, or could not, get a final order of deportation.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+571,Some of these individuals fled before DOJ could act.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+572,Others left without a final order of deportation after having reached settlement agreements with DOJ's Office of Special Investigations.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+573,"â€¢ The operation of current law results in the U.S. taxpayers subsidizing the retirement of many Nazi war criminals, contrary to the policy that they not receive Social Security benefits.",0,1.0,,,,,0.0,0.0,,0.0
+574,â€¢ DOJ and SSA have been meeting over a period of several months.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+575,Both agencies have concluded that the result under current law is inappropriate and that current law concerning receipt of Social Security benefits by Nazi war criminals needs to be strengthened.,1,1.0,,,,,0.0,0.0,,0.0
+576,The agencies have developed a legislative proposal.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+577,Proposal  â€¢ DOJ and SSA propose that Social Security benefits be cut off when a federal court denaturalizes someone on the grounds that the person engaged in Nazi persecution.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+578,This is an earlier point in time than under current law.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+579,"This proposal would cut off benefits of those who leave the U.S. before an order of deportation is issued, as well as those who attempt to stay in the U.S. by fighting an order of deportation.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+580,"I held the meeting yesterday with the DOJ, SSA, Neal Sher, former head of DOJ's OSI and representing the American Gathering of Holocaust Survivors, and Doug Bloomfield, representing the World Jewish Congress & World Jewish Restitution Organization.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+581,"Counsel's Office (Dawn), Public Liaison (Jay Footlik) and 0MB (Melinda Haskins & Richard Green) also attended.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+582,"In summary, Messrs. Sher and Bloomfield presented a passionate argument that SSA's proposal will hurt prosecutions of Nazi war criminals.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+583,They want the status quo left alone and for SSA not to introduce its legislative proposal.,0,1.0,,,,,0.0,1.0,,1.0
+584,"They presented the argument that I outlined for you earlier: They deeply believe that some judges will act more sympathetically toward old men who were Nazis if they can argue that not only is the government trying to strip them of their citizenship, but the government is also impoverishing them while they are trying to defend their rights during the judicial process.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+585,They think that a single bad outcome in a case could have farreaching implications for other cases.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+586,"They admit that it is impossible to accurately predict what judges may in fact do, but they hold the view with absolute conviction that this will hurt prosecutions.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+587,"Obviously, everyone in attendance agreed that we shared the objective of not wanting to do anything to compromise prosecutions of Nazis.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+588,"SSA and DOJ explained how they engaged in interagency discussions to reach what they jointly view as a proposal that properly balances SSA's concern about ""subsidizing the retirement of Nazis"" with enforcement concerns.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+589,"It is important to note that DOJ concedes that there remains some possible enforcement implications, but again, they believe that this proposal is an appropriate balancing of policy objectives.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+590,"In my follow-up with the White House attendees at the meeting, we agree that the specific enforcement concern depends on predictions on what judges may or may not do and therefore does not sound fully compelling EXCEPT that it is impossible to ignore who is raising the concern.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+591,These individuals are representatives of those who are the most concerned about and the most effected by this proposal.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+592,It gains us very little to close this SSA loophole if taking that action is decried in the strongest possible terms by the victims of those war criminals as undermining their prosecutions.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+593,"And make no mistake, Messrs. Sher and Bloomfield were absolutely clear that they and their organizations would protest vociforously.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+594,"They would protest in the media, and they would protest in Congress.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+595,They would make sure that it is known that the President has introduced legislation that would compromise the prosecutions of Nazis.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+596,"On the other hand, they said that if SSA is criticized for making such payments they would engage in whatever steps were necessary to explain to the public, to Members of Congress, and to the media that SSA's policies were sound and that anyone promoting an alternative view would be hurting prosecutions.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+597,There is already at least one critical article that has appeared (St. Petersburg Times) and SSA has been contacted by a Tampa CBS affiliate for comment.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+598,"I think that we can anticipate other critical pieces, and it may be picked up by the national press.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+599,"Cong. Bunning (R-Ky), chair of the Ways and Means Social Security Subcommittee has requested information about the St. Petersburg story.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+600,"Given the foregoing considerations, I think that this is a very difficult issue, but I have to recommend to you that we provide guidance to SSA that the proposal should not go forward",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+601,"Normally, I would give quite a bit of deference to Justice and SSA for the product of a solid interagency process.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+602,"Nobody wants to provide benefits to Nazis, ESPECIALLY when some of their victims who are legal immigrants may face benefit cut-offs, but we cannot ignore the absolute conviction of those who we heard from who represent the victims when they say that the President will hinder the prosecutions of Nazis with this proposal.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+603,Dawn agrees with this recommendation based upon her participation in the meeting.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+604,Public Liaison agrees.,0,1.0,,,,,0.0,1.0,,1.0
+605,Let me know what you think.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+606,Thanks Elena.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+607,BACKGROUND:,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+608,The current law is that SSA benefits must be cut off when a final order of deportation is issued against an individual becuase that individual engaged in Nazi persecution or genocide.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+609,"The loophole exists, for example, for a Nazi who flees the country without an order of deportation.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+610,"Under those circumstances, SSA benefits would continue.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+611,"Of the 31 living Nazi war criminal who were eligible for benefits and who have left the United  States, only 10 have lost benefits because of the Nazi war criminal provision in current Social Security law.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+612,"As of March 15, 1997, 18 Nazi war criminals almost (2/3) were being paid Social Security benefits.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+613,"SSA found other grounds to cut off benefits to two additional Nazi war criminals, but they could return to the Social Security roles and the pay status of another one is temporarily suspended.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+614,There is not a drop-dead deadline to drop a legislative proposal.,1,1.0,,,,,0.0,0.0,,0.0
+615,"However, the urgency of deciding  arises because the subcommittee Chairman & staff have been asking SSA as recently as  yesterday where they are on solving the problem of Nazi's getting paid.",1,1.0,,,,,0.0,0.0,,0.0
+616,SSA has been putting them off saying that they are continuing to work on the issue.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+617,"There is a technical mark-up, but this proposal doesn't have to be a technical (in fact it may not be eligible to be a technical).",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+618,"It could be offered later as a stand-alone (or alternatively a member of Congress could offer a bill and we could support that if we chose to) so the 23rd is not magical, but SSA is feeling pressure to get back to the subcommittee Chair fairly promptly.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+619,Also pressing is a media inquiry from the Tampa CBS affiliate that SSA has also been holding off for awhile.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+620,They want SSA to tell them what it's doing about the problem.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+621,SSA anticipates that this may be the beginnning of a lot of bad press about how it provides money for the retirement of Nazis.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+622,This is a no-win situation.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+623,We are either going to be criticized for paying retirement to Nazis or we will be criticized because at least several major Jewish organizations will charge us with compromising enforcement.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+624,There is going to be critical press whatever the decision is.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+625,The straight policy call is probably that we should be able to rely upon the Department of Justice to determine the appropriate enforcement assessment and what will or won't damage prosecutions.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+626,And DOJ says they have struck the right balance.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+627,"However, I don't think that the policy determination can be completely divorced from an assessment of the political overlay on this issue.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+628,Let me know how you want to proceed or if I can get you some more information.,0,1.0,,,,,0.0,0.0,,0.0
+629,"If you think it would be helpful, I could set up a meeting between these gentlemen and you (and whoever else you think should be invited) so that you can guage this directly for yourself.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+630,"Here's what I've learned so far: Under the law, prisoners are not to be included in households in determining food stamp allotments.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+631,"Last year, after GAO reported that this happens too often, Congress passed a law requiring states to establish ""systems to verify and ensure"" that prisoners aren't counted in households.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+632,This can include data matching programs with prisons and/or SSA.,0,0.0,,,,,1.0,1.0,,1.0
+633,"The law requires all states to do this by 8/1 /98, although USDA can grant 1-year extensions to states.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+634,"However, SSA won't be ready to share federal data with states by August, because it hasn't worked out all the bugs of such a system.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+635,"States can still meet the requirement if SSA isn't ready, for example by matching data with prisons directly.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+636,But SSA has the best data and the law specifically says that states that use SSA data are automatically in compliance.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+637,"USDA is having a big meeting in 2 weeks with a few states, SSA, and prison people to figure out what kind of system is required.",1,1.0,,,,,0.0,1.0,,1.0
+638,There are also privacy issues.,1,1.0,,,,,0.0,1.0,,1.0
+639,"(FYI, there is a similar push on the dead, although that may not be such good fodder for a radio address.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+640,"GAO just did a report on food stamps going to the dead, and Lugar is doing a hearing on this April 23.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+641,"SSA also has good data on the dead, so at the hearing USDA has to say whether SSA and USDA can share data on this.)",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+642,"We met yesterday with Rahm, Gene, Barbara Chow, and SSA on a possible radio address on stopping fraud in benefit payments to prisoners.",1,1.0,,,,,0.0,1.0,,1.0
+643,"We agreed that there is some potential in announcing that other agencies (USDA, maybe VA and others) will take advantage of SSA's big new database of prisoners to spot prisoners who are getting benefits.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+644,We will work with OMB to survey agencies for programs where this might work.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+645,"SSA notes Shaw is doing an oversight hearing on SSI fraud this month and that there will be a lot of heat from Congress in coming weeks on fraud, so this would let us take the offensive a bit.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+646,We have identified some Federal benefit programs which have statutory provisions to reduce or suspend benefits to those incarcerated on a conviction or otherwise institutionalized.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+647,This is not a comprehensive list.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+648,The entities administering these programs would likely benefit from access to SSA's prisoner database.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+649,"The following agencies, in our survey of OMB examiners, administer programs with statutory requirements to suspend benefits:",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+650,"The Department of Agriculture: The Department of Education: The Department of Labor: Food Stamps Pell grants and student loans (Federal Family Education Loan, Federal Direct Loan, and Perkins Loan programs)",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+651,"Federal Employees' Compensation Act (FECA), Unemployment Insurance (UI), Trade Adjustment Assistance (TAA)",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+652,"The Department of Veterans Affairs: VA compensation, pensions and education programs",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+653,"Some of these programs are State-administered, which could make coordination of timely data matches more difficult.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+654,"Recommendation for Executive Memorandum With respect to the four agencies, identified above, with statutory requirements to suspend benefits, an Executive Memorandum on the issue should require the agencies to conduct matches within a specified period of time with the SSA database to identify ineligible recipients on benefit rosters.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+655,"Additionally, the Memorandum would require the Commissioner of the Social Security Administration to assist the agencies in whatever ways necessary to allow quick, efficient access to the SSA database.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+656,"Agencies would be required to design a protocol for matches within a specified period of time, for example 90 days, and perform the first batch of matches within a specified period of time, for example six months.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+657,"Thereafter, the agencies would be required to match as frequently as practicable but no less frequently than annually.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+658,"A quick survey of the programs identified above indicates that up to 20,000 prisoners may be receiving benefits improperly.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+659,This estimate is highly uncertain and should be verified with the agencies.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+660,"Savings estimates, sought from the agencies, ranged from negligible amounts from the Education programs to $75 million from the VA programs.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+661,"These estimates, again, are highly uncertainty, and better savings estimates should be discussed with the agencies.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+662,"All other agencies with benefit programs would be directed to explore the potential benefits of conducting such a match and, if they determine beneficial to follow the terms above.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+663,"Proposal of additional statutory requirements  In a note to accompany the Memorandum informally, all agencies that do not currently suspend benefits would be directed to review their program requirements concerning payments of benefits to prisoners using the laws related to the Social Security programs as a model.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+664,agencies should report their findings and recommendations concerning whether additional legislation is appropriate to the Attorney General.,1,1.0,,,,,0.0,0.0,,0.0
+665,"The Attorney General shall review recommendations and, if additional legislation is necessary, recommend the agency prepare and submit a legislative proposal to OMB for review.",1,1.0,,,,,0.0,0.0,,0.0
+666,"SSA says Rahm asked Ken Apfel for material on SSA's efforts to stop paying benefits to prisoners, along with ideas for how to expand those efforts to other agencies.",1,1.0,,,,,0.0,1.0,,1.0
+667,Ken sent a copy of his note to Elena and 0MB on the theory that we would have to be involved in any effort to expand this to other agencies in a quick way.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+668,"Other programs Ken listed that might benefit if SSA shared its prisoner data are food stamps, veterans benefits, and child support enforcement.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+669,"I'm not sure if DPC should be following up and, if so, who.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+670,Attached is a note and attachments sent by Ken Apfel to Rahm Emmanuel today on the subject of suspension of prisoners' social Security and SSI benefits.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+671,Rahm wants to use this issue tor this Saturday's Radio Address.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+672,Please note that the last page of the narrative includes a -suggested Presidential Directive that crosses agency lines.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+673,"We are available to help in any way requested, Brian Coyne (358-- 6013) and (358-6030) are the contact points here.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+674,SSA PRISONER SUSPENSION PROGRAM Brief History on Prisoner Provisions,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+675,"Social Security Adminstration Since the Supplemental Security Income (SSI) program's inception in 1974, SSI  eligibility has been prohibited for individuals who are inmates of public institutions  (including prisons) throughout a calendar month.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+676,"In 1980, legislation was first enacted requiring SSA to suspend payment to individuals convicted of a felony entitled to Social Security disability insurance benefits.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+677,This was expanded in 1983 to cover persons entitled to any Social Security benefits.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+678,"In February 1995, P.L. 103-387 (the independent agency bill) expanded the classes of affected beneficiaries by including individuals convicted of crimes punishable by more than 1 year imprisonment (regardless of actual sentence imposed) and those found not guilty by reason of insanity or incompetent to stand trial.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+679,"In May of 1996, the President submitted legislation to the Congress that was designed  to give SSA the authority to operate an incentive payment program, through which prison and jail facilities would be paid an incentive for providing information leading to the suspension of SSI benefits to inmates.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+680,"Under the President's proposal, when a  match of prisoner data against SSI data is made and the Information leads to a subsequent suspension of SSI benefits, the facility would be eligible to receive a payment from SSA of $400 or $200 depending on the timeliness of the report.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+681,"In August of 1996, Congress adopted the President's proposal as part of P.L. 104-193.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+682,#NAME?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+683,Some Federal agencies that administer Federal benefit programs operate under laws that require them to suspend benefit payments to individuals while they are in prison.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+684,"For example, recently enacted Welfare Reform legislation requires the Department of Agriculture to review its food stamp rolls to ensure that incarcerated individuals are not included in monthly food stamp allotments.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+685,"The Department of Veterans' Affairs, in certain instances, is required to suspend payments to beneficiaries who are in jail.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+686,"On the other hand, the Railroad Retirement Board, for example.",0,1.0,,,,,0.0,0.0,,0.0
+687,does not suspend benefits to eligible individuals who are incarcerated.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+688,"Many agencies, including some of those mentioned above, and the Office of Child Support Enforcement, within the Department of Health and Human Services, also need to obtain prisoner information.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+689,"Focus On Problems When the President took office, there was a lot of work that needed ta be done to establish an efficient and effeetlve prisoner suspension operation within the Social Security Administration.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+690,We found that many prison officials were not aware of the statutory provision requiring the suspension of Social Security and SSI payments to inmates.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+691,"In addition, there was no formal process for obtaining this Information from the facilities.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+692,"Many agreements were informal, ad hoc, which made them difficult to administer and control.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+693,"Because the facilities were not aware of the requirements, many reported only once or twice a year to SSA, often the Information was Incomplete and reported manually.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+694,The prison officials viewed the requirement as another unfunded mandate.,0,1.0,,,,,0.0,1.0,,1.0
+695,"Additionally, some correctional institutions are reluctant to enter into agreements with SSA because of the potential cost to them when Incarcerated individuals lose their Medicare or Medicaid eligibility",0,1.0,,,,,0.0,0.0,,0.0
+696,There were serious limitations in SSA's prisoner suspension program.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+697,The internal processes were fragmented and lacked adequate controls and most tasks were manual.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+698,This resulted in the inability to stop payments to prisoners in a timely manner.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+699,"Even when agreements were in place, SSA lacked a method for monitoring the facilities' compliance.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+700,"Moreover across the Federal govemment, there has been no consistent effort for appropriately suspending payments to incarcerated individuals or data sharing  of prisoner information among agencies.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+701,"Because of the numerous Federal and State statutes that govern the redisclosure of prisoner information, Federal agencies are hindered from sharing prisoner information.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+702,"RESULTS TO DATE Under this Administration, SSA initiated an aggressive course of action that has resulted in significant improvements in the prisoner suspension process.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+703,"Over the past few years, SSA has completed a major initiative to contact and establish agreements with all correctional facilities across the United States.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+704,"As a result of this, SSA has agreements with the Federal Bureau of Prisons, all State prisons and the 25 largest local jail systems to provide us prisoner data.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+705,"In addition, the Agency has agreements with over 3,500 local jails.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+706,"SSA has worked with Governors, heads of correctional institutions, correctional associations and similar stakeholders to obtain their help and support in providing prisoner data on a regular basis.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+707,The cooperation of State and local correctional administrators is critical to the suspension process.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+708,SSA has developed an excellent working relationship with these administrators and the associations that represent them.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+709,"As a result of these efforts, prisons and jails representing over 99 percent of the nationâ€™s inmate population are reporting the names and Social Security numbers of incarcerated individuals to SSA.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+710,"Because of our aggressive efforts to obtain information on prisoners, who are not eligible for benefits, well over 100,000 prisoners had their benefits suspended during 1995 and 1996 alone.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+711,"For the period 1995-2001, our actions will result in the suspension of payments of nearly $3.5 billion.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+712,"Programs such aa Social Security and Supplemental Security Income need to be protected to ensure that only those who are eliglble for benefits are receiving them, and we are proud of the significant savings we have achieved.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+713,"As noted earlier, there is a need to address the sharing of prisoner information among Federal agencies.",0,1.0,,,,,0.0,1.0,,1.0
+714,Officials from the Food Stamp Program have recently contacted SSA for prisoner information.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+715,There needs to be a coordinated effort within the Federal government regarding the sharing of information about incarcerated individuals.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+716,This will ensure that all provisions precluding benefits to incarcerated individuals are enforced.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+717,"In addition, there needs to be a greater recognition of the medical costs associated with the prisoner population particularly those costs associated with aging and addiction.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+718,NEXT STEPS NEEDED:,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+719,"Although we have had successes, more remains to be done.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+720,The President is therefore directing that:,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+721,The Director of the Office of Management and Budget analyze the consistency of Federal policy with regard to the eligibility for benefits of individuals in prison and make recommendations for any legislative changes that may be necessary or appropriate.,0,1.0,,,,,0.0,1.0,,1.0
+722,The Commissioner of Social Security develop a set of plans and proposals to share prisoner data that SSA obtains from prison administrators with other Federal agencies that need it in order to further ensure that prisoners are not receiving any Federal benefit for which they are not eligible.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+723,The Attorney General explore how to improve the sharing of data from the Federal prison system with other Federal agencies that need this Information in order to further ensure that prisoners are not receiving any Federal benefit for which they are not eligible.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+724,The Secretary of Health and Human Services examine the health care implications of providing benefits to incarcerated Individuals.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+725,I am also asking Secretary Shalala to look Into the Office of Child Support Enforcement's need to obtain prisoner information to locate missing parents.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+726,"SSA says Rahm asked Ken Apfel for material on SSA's efforts to stop paying benefits to prisoners, along with ideas for how to expand those efforts to other agencies.",1,1.0,,,,,0.0,1.0,,1.0
+727,Ken sent a copy of his note to Elena and OMB on the theory that we would have to be involved in any effort to expand this to other agencies in a quick way.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+728,"Other programs Ken listed that might benefit if SSA shared its prisoner data are food stamps, veterans benefits, and child support enforcement.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+729,"I'm not sure if DPC should be following up and, if so, who.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+730,"Dear Mr. President: Since joining your Cabinet two years ago, we have made substantial progress in combating the threat of illegal drugs to the United States and its citizens.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+731,"Your overall support, guidance, and personal presence on this issue has played a major role in these achievements.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+732,"In the coming months, ONDCP has four significant initiatives that we believe would Benefit greatly from your participation, namely:",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+733,"â€¢ The National ""Rollout of the Youth Media Campaign:",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+734,"In early July, we will move from the 12 city pilot phase of the Youth Anti-Drug Media Campaign into a national campaign (phase II).",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+735,This expansion will bring our ads to every city and town across the nation.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+736,"Already, the 12 city phase is showing results: anti-drug coalitions, whose phone numbers appear on the ads, report two to three times as many calls as received prior to the campaign; and, our buying service reports an unprecedented 100 percent match ratio of ad time to PSA time from media outlets.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+737,We expect to see the same types of results this time nationwide -- come July.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+738,"Your participation in a national rollout event would increase the campaign's visibility, helping it to get off to a strong start.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+739,â€¢ United Nations General Assembly Special Session (UNGASS): This June's UNGASS will concern efforts to address illegal drug use.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+740,The political declaration and other deliverables being developed for the UNGASS make substantial steps forward in reinforcing the international commitment against drugs.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+741,"A number of heads of state (including France, Brazil, South Africa, and Mexico) have already committed to attend the session.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+742,Your involvement would greatly increase the level of participation and the magnitude of the session.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+743,A speech at UNGASS would afford you the opportunity to give a major policy address establishing a broad vision and setting a strong agenda for how the international community must work together to reduce the transnational threat of drugs.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+744,â€¢ The Drug-Free Communities Program Rollout: The membership of the Commission on Drug-Free Communities is being vetted and will soon be set for release to the public (a decision memo has been prepared for your signature).,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+745,"This program, which over the next five years will create 10,000 new community anti-drug coalitions across the nation, while strengthening the existing 4,000 coalitions, will empower countless Americans to fight drug use at the grassroots level.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+746,Your participation in announcing the members and at the inaugural meeting of the commission would send a strong signal to the American people to get involved in this effort.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+747,â€¢ President's Drug Policy Cabinet (PDPC) Meeting:,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+748,There are a number of key drug policy issues now percolating that would substantially benefit from discussion within the PDPC:,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+749,One of the most pressing issues deals with focusing on real results and measuring our success.,1,1.0,,,,,0.0,1.0,,1.0
+750,"In keeping with the Vice President's reinventing government initiative, the 1998 Strategy sets out a performance measurement system to track the ten-year Strategy.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+751,"However, substantial Congressional pressure exists for more immediate interim markers, which could cause a legislative response.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+752,"ONDCP believes that we must proactively craft annual markers that are realistic, achievable, and flexible.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+753,Your leadership is necessary to hep the PDPC address this need for greater efficacy and accountability).,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+754,"Similarly, a series of other issues, including UNGASS, the Southwest border, and restructuring the counter-drug intelligence system, also would benefit from discussions within the PDPC.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+755,We are at a critical juncture involving major drug policy initiatives that promise breakthroughs in bringing down drug use in America.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+756,A PDPC meeting is vital to ensure unity of effort as we move ahead.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+757,These events offer an important opportunity to show your hands-on commitment and leadership in the fight against drugs.,1,0.0,,,,,1.0,1.0,,1.0
+758,Each of these events highlights substantive progress with respect to an important counter-drug initiative.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+759,"By your involvement we can continue to raise the awareness of the American people that drugs present a serious threat to the nation, and that this Administration is working hard under your leadership to reduce that threat by half.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+760,"Imagine, by way of comparison, the impact to the nation of halving the number of auto or cancer fatalities, or teen pregnancy or illiteracy rates.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+761,We will coordinate these events closely with your staff and do whatever possible in order to facilitate your participation in these four initiatives.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+762,Look forward to your thoughts and guidance.,0,1.0,,,,,0.0,1.0,,1.0
+763,I spoke to Staff Sec. about the McCaffrey scheduling memo.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+764,All they need is a reaction from us -- e-mail would be fine -- so they can incorporate it in a quick cover note.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+765,They'd like to send it in to the President during his office time tomorrow.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+766,"If the following is okay w/you, I'll cc staff sec. and tell them to work from this â€¦",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+767,Here are my comment/recs on McCaffrey's scheduling memo to the President:,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+768,1. National Rollout of the Youth Media Campaign.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+769,We should support a roH-0111 of this signature anti-drug initiative.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+770,"However, for the President not to be disappointed, we need to make sure Rahm takes the lead in getting ONDCP to come up with some specific announcements â€“ i.e., new anti-drug ads, additional private sector partners and commitments, results from the 6-month/12-city pilot, etc.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+771,2. U.N. Special Session on Drugs.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+772,"I understand scheduling has already committed to do this, and that NSC is taking the lead.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+773,There is very little of our stuff here.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+774,3. Drug-Free Communities Rollout.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+775,"The President just signed off on the proposed candidates for the Drug-Free Communities board, and Personnel says that it will take another 4 to 6 weeks to fully vet these folks.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+776,"I would not, however, recommend this as a stand-alone event.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+777,"The board does not include any really big names, and the grants are so small ($10 million).",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+778,"Moreover, the Hill Dems were not happy when we did a signing ceremony with the R's on this.",1,1.0,,,,,0.0,0.0,,0.0
+779,They hate that the R's vote against funding for virtually every other community-based drug program -- to the tune of hundreds of millions of dollars -- and then turn around and support these tiny grants for community organizations.,1,0.0,,,,,1.0,1.0,,1.0
+780,"If anything, we should roll this into the media campaign announcement.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+781,It will allow us to say we're linking our national ant-drug message with action at the grass roots.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+782,4. President's Drug Advisory Council.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+783,This is a bit of a problem.,1,1.0,,,,,0.0,1.0,,1.0
+784,"As I've mentioned, QMB -for themselves and on behalf of various agencies -- has expressed serious concerns about ONDCP wanting to discuss its performance measurement system at this meeting.",1,1.0,,,,,0.0,1.0,,1.0
+785,I would defer Them on when itâ€™s appropriate to do this.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+786,"Due to a scheduling conflict, am unable to attend your event tomorrow.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+787,Look forward to seeing the results of your efforts.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+788,"Continue to believe that the key to our success in combating drugs remains a united, nonpartisan commitment.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+789,"Over the last two years, the Administration and the Congress have been able to work together to deliver a number of important victories against drugs.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+790,"â€¢ With Congress' help, we put in place a $195 million Anti-Drug Youth Media Campaign that is producing real progress.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+791,Preliminary results from the Campaign's first pilot phase show that 97 percent of the people in these media markets say they have seen our ads.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+792,Eighty percent say that the ads encouraged conversations about drug use.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+793,"â€¢ Together, we also succeeded in establishing the Drug-Free Communities Program, which will soon empower community anti-drug groups in countless towns and cities across the nation.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+794,"â€¢ We have mobilized millions of Americans to fight youth drug abuse through our ''Prevention Through Service Alliance.""",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+795,"â€¢ On the supply reduction front, we have also achieved real gains, including, for example, a 40 percent reduction in Peruvian cocaine production over the last two years.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+796,"â€¢ We have improved law enforcement, putting more cops on beats across the nation, establishing new strong measures to combat money laundering, and taking some of the deadliest weapons out of the hands of the dealers, gangs and druglords.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+797,"This sort of comprehensive approach, embodied in our National Drug Control Strategy, requires the unflinching support of all segments of the American people to succeed.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+798,"For that very reason, we cannot allow partisanship to unbalance our counter-drug policies.",0,1.0,,,,,0.0,1.0,,1.0
+799,The taint of partisanship would only cause us to lose vital ground in our efforts to reduce drug abuse and its consequences in America down to a historic new low.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+800,"Your support, and that of all the members of Congress who take their leadership from you, in maintaining unity of purpose is essential.",0,1.0,,,,,0.0,1.0,,1.0
+801,"America can ill afford us to shift our attention from our real goals -- reducing the demand for drugs through education and prevention, and breaking the sources of supply through law enforcement and international cooperation.",0,0.0,,,,,1.0,1.0,,1.0
+802,"The Administration's counter-drug agenda, much of which is reflected in your current thinking, will build upon these successes.",0,1.0,,,,,0.0,0.0,,0.0
+803,"It is imperative that we: expand programs to break the cycle of drugs and crime, particularly through increased treatment within the criminal justice system; strengthen prevention efforts, such as the Drug Free Schools Program, that target our nation's young people; reauthorize the Office of National Drug Control Policy; and, sign into law a new juvenile justice bill.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+804,These are just four of the many areas where a nonpartisan commitment to progress over politics can make a real difference for the American people.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+805,"I'm red dotting the Gingrich speech to you, in case you want to skim it (it's actually a pretty good speech, I think) and read the three paragraphs on drugs.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+806,"Basically, he lists a drug-free America as his first out of four priorities (education, pensions/retirement and taxes are the other three), and he says that Congress will pass a bill this year to expand McCaffrey's authority so he can develop a ""World War II-style victory plan.""",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+807,"He also mentions ""sealing upâ€ the border  and states that, generally, it will take us about 10 to 12 years to reach our goals on all of the four priority issues.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+808,"On a separate note: Joe Califano's group (CASA), with McCaffrey in tow, will be releasing a study at the Press Club on Thursday at 10 am showing that 80% of the nation's offenders have a link to alcohol or drug use.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+809,"He will call for ""opening a second front in the drug war"" to treat and train these offenders.",0,1.0,,,,,0.0,0.0,,0.0
+810,"Thus, I think if Rahm wants to do the radio address on the directive (Leanne's working up a draft), we should think about leaking the directive on Thursday to get in the stories.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+811,"In fact, even if we don't do the radio address on this, we should still condiser leaking the directive for Thursday.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+812,I'll send a copy of CASA's draft press release.,0,1.0,,,,,0.0,1.0,,1.0
+813,"Met w/OMB today to go over General McCaffrey's proposed letter to Gingrich and ""Blueprint"" report to Hill.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+814,"OMB, the agencies and I are very concerned about the lofty promises being made in the proposed document and letter (i.e., reducing drug use by 50%, cutting drug crime rates by 30%, etc.).",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+815,OMB is especially concerned about McCaffrey's report and letter forcing the Administration's hand on budget issues and conceivably violating the Balance Budget Agreement.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+816,They want McCaffrey's letter to Gingrich amended and the report held and coordinated w/the overall budget process.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+817,Raines intends to send a brief memo late tonight/early tomorrow (draft attached) to Erskine and Rahm suggesting as much.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+818,McCaffrey is scheduled to meet w/Gingrich tomorrow afternoon and is sure to be b*llsh*t if he can't have his report/letter in hand.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+819,"(Also, I heard he's trying to get on Raines' calender first thing in the a.m.).",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+820,"Justice, Treasury and HHS are now only realizing what's in McCaffrey's report/letter and are likely to be b*llsh*t if they go to the Hill in their current form.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+821,I expect that you may all encounter this dilemma at tomorrow's senior staff meeting or soon thereafter.,1,1.0,,,,,0.0,0.0,,0.0
+822,Call me if you have Q's.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+823,"Last week ONDCP circulated a draft document entitled ""Blueprint for a Drug Free America.""",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+824,"The document lays out ""performance targets"" for the conduct of the anti-drug abuse program in the next five - ten years.",0,1.0,,,,,0.0,1.0,,1.0
+825,The targets and dates are aggressive.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+826,"For example, among the targets are the following: 1) 50 percent reduction in the overall rate of illicit drug use in the U.S. by 2007; and 2) 50 percent reduction in the available supply of drugs in the U.S. by 2007.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+827,The document indicates that the proposed performance targets must be supported by funding if they are to be realized.,0,1.0,,,,,0.0,1.0,,1.0
+828,We have no evidence that would suggest that the draft goals can be achieved without substantial increases in Federal drug budgets in 1999 and beyond.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+829,"Several agencies have made similar complaints to ONDCP (e.g., Justice and Treasury).",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+830,"As such, release of the document would be problematic and would imply FY 1999 budgetary trade-offs not yet made in favor of anti-drug spending and against other domestic discretionary spending.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+831,"We suggest that the document be withheld until after submission of the 1999 President's Budget, when all agencies must submit their performance plans and targets to Congress.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+832,Those plans must be directly linked to multi-year Presidential budget request levels.,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+833,General McCaffrey is likely to be upset if the document is not released.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+834,"His likely arguments for release, beyond his desire to pursue a vigorous fight against drug abuse, will be:",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+835,-- The 1997 President's Drug Strategy released by ONDCP this spring indicates that performance measures will be provided to Congress this fiscal year (FY 1997).,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+836,#NAME?,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+837,"(Apparently, the Speaker wants even more aggressive performance measures than those outlined by ONDCP).",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+838,#NAME?,1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+839,"(Because ONDCP is due to receive 1998 appropriations anyway, the threat of a lack of reauthorization is not terribly significant.)",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+840,This is from Mark Kleiman at the UCLA Public Policy School.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+841,He used to be at the Kennedy School.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+842,He has been extremely helpful to us over the years on drug issues and ideas and this looks like it could be a helpful forum.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+843,"I sent it to Rahm, too.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+844,"In addition to talking about the National Drug Control Strategy, the President will be announcing the results of a new study from the Justice Department Bureau of Prisons.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+845,The study indicates that federal prisoners who were drug tested and treated (through the voluntary program that was part of the 94 Crime Bill) were 73% less likely to be rearrested and 40% less likely to use drugs again after their release.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+846,"Presidential Directive on Coerced Abstinence in the Criminal Justice System January 12, 1998",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+847,"â€¢ Today, the President directed the Attorney General to take the necessary steps to: (1) require states to determine the level of drug use in their prisons and report annually on their progress;",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+848,"(2) grant states the flexibility to use their federal prison funds for drug detection, offender testing and drug treatment;",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+849,(3) work with states to enact stiffer penalties for drug trafficking into and within correctional facilities.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+850,The President also announced that his FY 1999 budget will include nearly $200 million for a series of initiatives to promote coerced abstinence and treatment in the criminal justice system.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+851,Towards a National Policy of Coerced Abstinence,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+852,"â€¢ Last week, Columbia University's Center on Addiction and Substance Abuse (CASA) released a study confirming the need for coerced abstinence and treatment in the criminal justice system.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+853,"CASA' s study found that 1 .4 million offenders -- or 80% of the I. 7 million criminals in prison and jails -- were either high on drugs or alcohol when arrested, stole property to buy drugs, or have a history of drug and alcohol abuse.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+854,Many other studies also confirm that the majority of individuals in the criminal justice system have similar drug histories.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+855,â€¢ Testing to Measure Progress.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+856,"Under current law and federal guidelines, states are required to submit drug testing and intervention plans for their federal prison grant funding.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+857,"The President's directive calls on the Attorney General to amend the guidelines to require states to also include a baseline report of their prison drug abuse problem, and to report every year thereafter to chart the progress they are making to reduce drug use and availability.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+858,â€¢ Helping States Get the Job Done.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+859,"Today's directive asks the Attorney General to draft and transmit to the Congress legislation that will grant states the flexibility to use their federal prison construction and substance abuse treatment funds to provide the full range of drug testing, sanctions and treatment for offenders under criminal justice supervision.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+860,"With this added flexibility, states could tap into the nearly $8 billion in prison funds authorized by the 1994 Crime Law (about $2 billion of which already have been appropriated to date).",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+861,â€¢ Keeping Drugs Out of Prisons.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+862,"Finally, the President's directive calls on the Attorney General to draft legislation, in consultation with the states, that would require states to enhance their penalties for drug trafficking into and within correctional facilities as a condition of receiving prison construction funds.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+863,The 1994 Omnibus Crime Bill contains tough penalties for similar crimes.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+864,"The President believes we must have ""zero tolerance"" for drug use and trafficking within our nation's prison system.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+865,"A Record of Accomplishment â€¢ President Clinton has consistently promoted a policy of drug testing, sanctions and treatment for offenders.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+866,"Specifically, he has:",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+867,Pushed for Drug Testing and Intervention in the 50 States.,0,1.0,,,,,0.0,0.0,,0.0
+868,The President fought for and signed the legislation requiring states to drug test prisoners and parolees as a condition for receiving prison grants.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+869,States must now submit comprehensive drug testing and intervention plans for prisoners and parolees by March 1998 and implement them by September 1998.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+870,Today's actions directly build on this effort.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+871,Doubled the Number of Federal Arrestees Tested.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+872,President Clinton directed the Attorney General to create a program to drug test federal criminal defendants.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+873,"Operation Drug TEST (Testing, Effective Sanctions and Treatment) funded a pilot program to test defendants immediately upon their arrest.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+874,"In FY 1997, data from 24 judicial districts indicated that 56% of defendants (9,308) were tested -- a dramatic increase over the 28% (4,929) of defendants tested in the previous year.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+875,There was also a 190% increase in drug treatment for defendants over the same period.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+876,Expanded Testing and Treatment in Federal Prisons.,0,1.0,,,,,0.0,0.0,,0.0
+877,"Through his budgets and the 1994 Crime Act, the President has promoted coerced abstinence in the federal prison system.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+878,"In 1997 federal prisoners were subjected to nearly 130,000 drug tests.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+879,"Additionally, the number of inmates required to receive treatment increased by 3-fold (from 5,450 in FY 1993 to 17,943 in FY 1997).",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+880,Multiplied the Number of Drug Courts.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+881,"As part of the 1994 Crime Act, the President fought to launch a $1 billion initiative to spread Drug Courts across the country.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+882,"Drug Courts use drug testing, sanctions and -- when necessary -treatment to cut crime and addiction.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+883,Drug Courts have increased from a mere handful in 1993 to more than 200 that are operational today.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+884,Increased Resources in FY 1999 Budget.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+885,"The President's FY 1999 Budget will continue the Administration's policy of drug testing, sanctions and treatment.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+886,"In particular, the budget includes $197 million for related programs:",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+887,"""Zero Tolerance""lnitiative for Drugs in Prison Questions and Answers January 12, 1998",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+888,Q. What is the President announcing today?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+889,"A. Today, the President signed a directive to the Attorney General calling on her to take the necessary steps to:",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+890,(1) Require states to determine the level of drug use in their prisons and report annually on their progress.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+891,"Under current law and federal guidelines, states are required to submit drug testing and intervention plans for their federal prison grant funding.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+892,"The President's directive calls on the Attorney General to amend the guidelines to require states to also include a baseline report of their prison drug abuse problem, and to report every year thereafter to chart the progress they are making to reduce drug use and availability.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+893,"(2) Give states the flexibility to use their federal prison funds for drug detection, offender testing, and drug treatment.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+894,"The Attorney General will draft and transmit to the Congress legislation to give states the flexibility to use their federal prison construction and substance abuse treatment funds for the full range of drug testing, sanctions, and treatment for offenders under criminal justice supervision.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+895,This will allow states to tap into the nearly $8 billion in prison funds authorized by the 1994 Crime Law (about $2 billion of which already have been appropriated to date).,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+896,(3) Work with states to enact stiffer penalties for drug trafficking into and within correctional facilities.,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+897,"Finally, the President's directive calls on the Attorney General to draft legislation, in consultation with the states, that would require states to enhance their penalties for drug trafficking into and within correctional facilities as a condition of receiving prison construction funds The 1994 Omnibus Crime Bill contains tough penalties for similar crimes.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+898,"The President believes we must have ""zero tolerance"" for drug use and trafficking within our nation's prison system.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+899,President also announced that his FY 99 budget will include $197 million for a series of initiatives to promote coerced abstinence and treatment in the criminal justice system-including $85 million for a new drug testing and sanctions progran1 for states and localities.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+900,Q. How bad is the problem?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+901,Is this directive really needed?,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+902,"A. While crime rates continue to drop and overall drug use is down, illegal drugs remain an enormous factor behind the level of crime and violence in America.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+903,Drug addicts are involved in approximately 3 to 5 times the number of criminal incidents as arrestees who do not use drugs.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+904,"Last week, Columbia University's Center on Addiction and Substance Abuse (CASA) released a study confirming the need for coerced abstinence and treatment in the criminal justice system.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+905,"CASA's study found that 1.4 million offenders -- or 80% of the I. 7 million criminals in prison and jails -- were either high on drugs or alcohol when arrested, stole property to buy drugs, or have a history of drug and alcohol abuse.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+906,"Drug test results and anecdotal information reveal that even while incarcerated, offenders can gain access to drugs.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+907,"In drug tests conducted last year, approximately 2 percent of offenders in federal prison and roughly 9 percent of inmates in state facilities tested positive for drugs.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+908,"President Clinton believes that our criminal justice system should reduce drug demand -not prolong, enhance, or tolerate it.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+909,We know that drug testing'and treatment can help to break the cycle of drugs and crime.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+910,Convicted offenders who undergo drug testing and treatment while in prisons and after release are approximately twice as likely to stay drugfree and crime-free as those offenders who do not receive drug testing and treatment.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+911,Today's directive and the resources proposed in the President's budget will help us get to zero tolerance for drugs in prison and to helps state to cut crime and recidivism linked to drug abuse.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+912,Q. How is this different from previous actions taken by this Administration to address this issue?,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+913,Is this anything new?,0,1.0,,,,,0.0,0.0,,0.0
+914,A. The President's action today builds on his strong record of accomplishment in this area.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+915,"In 1996, the President launched the first comprehensive effort to address the drug problem in our state criminal justice systems.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+916,President Clinton fought for and signed legislation to require states-- whose criminal justice systems house the vast majority of drug dependent offenders-- to drug test prisoners and parolees as a condition of receiving federal prison grants.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+917,"Under the President's initiative, states must submit comprehensive plans of drug testing and intervention for prisoners and parolees by March 1, 1998 and implement them by September 1, 1998.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+918,Today's directive complements tlie President's earlier initiative by helping us to chart the states' efforts to reduce drug use and availability in their prisons.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+919,The directive also makes more resources available to states to help them get the job done,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+920,The President has taken numerous other actions to combat the problem of drug abuse by offenders involved in the criminal justice system including: doubling the number of federal arrestees drug tested in 24 judicial districts;,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+921,fighting to launch a $1 billion initiative to spread Drug Courts across the country;,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+922,"and expanding drug testing, intervention and treatment in Federal prisons through his budgets and the 1994 Crime Act.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+923,Q. Is the federal government tracking the problem of drug use in its own prisons?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+924,What are you doing about the drug problem in federal prisons?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+925,"A. Under the leadership of Attorney General Reno, the federal Bureau of Prisons is carrying out model programs in drug testing, drug treatment, and drug detection.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+926,Drug Testing.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+927,"In 1997, federal inmates were subject to 127,460 drug tests.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+928,"Two percent of tests were positive, as compared to the 9 percent average for state correctional systems.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+929,Prisoners testing positive for drugs are appropriately punished and follow up tests are scheduled regularly to ensure they stay clean.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+930,"Drug testing of correctional officers, and other selected employees is also an established policy in the Federal Bureau of Prisons.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+931,Drug Treatment.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+932,"In compliance with the 1994 Crime Law, drug treatment is provided to 100 percent of eligible inmates prior to their release from Bureau custody.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+933,"In FY 97, nearly 31,000 inmates participated in Bureau treatment programs.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+934,The number of institutions offering residential treatment has grown from 32 to 42 since FY I 994.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+935,Drug Detection.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+936,Innovative drug detection technology is being piloted at Bureau institutions.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+937,The Office of National Drug Control Policy is working with the Bureau to provide the states with information on the best ways to keep drugs out of prisons.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+938,Q. Is this new reporting requirement for states on their prison drug problem tantamount to an unfunded mandate on states?,0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+939,A. No.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+940,"By law, states must develop and implement plans for drug testing and intervention as a condition of receiving federal prison construction grants.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+941,"Today's action means that as part of those plans, states will need to add information on their existing prison drug use problem, and update that information annually.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+942,All 50 state correctional systems conducted some form of drug testing on their inmates last year;,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+943,yet no comprehensive data exists on the prevalence on drug use in state prisons.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+944,"Anecdotal reports have shown that certain systems, such as the District of Columbia's corrections department, have had difficulty keeping drugs out of prisons.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+945,The baseline information they provide will help us to chart states' progress to reduce drug use and availability in their prisons.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+946,"In order to provide additional resources for states to promote coerced abstinence and zero tolerance for drugs, the directive calls on the Attorney General to develop legislation to allow states to use their federal prison construction and treatment funds to carry out all of these activities.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+947,"In addition, the President is proposing $197 million in FY 99 for a series of initiatives to help states promote coerced abstinence and treatment: I) $85 million for a new drug testing, sanctions, and intervention program for states and local criminal justice systems; 2) $30 million for Drug Courts; 3) $4. 7 million for the federal Operation Drug Test program; 4) $5 million for a juvenile justice demonstration program to combat teen drug use; and 5) $72 million to continue the Residential Substance Abuse Treatment in State Prisons program.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+948,Q. The President's directive asks the Attorney General to work with states to increase their penalties for smuggling drugs into prisons.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+949,Are there tough penalties for trafficking drugs into federal prisons?,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+950,A. Yes.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+951,The 1994 Omnibus Crime Act increased penalties for illegal drug use and smuggling drugs into Federal prisons.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+952,"For instance, drug trafficking in Federal prisons can now lead to imprisonment for up to 20 years for smuggling narcotics and methamphetamine, and up to 5 years for trafficking marijuana.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+953,"January 12, 1998 MEMORANDUM FOR THE ATTORNEY GENERAL SUBJECT: Zero Tolerance for Drug Use and Availability for Offenders",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+954,"Crime rates in this country have dropped significantly for 5 years, and the number of Americans who have used drugs is down nearly 50% from its peak 15 years ago.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+955,"Also, drug-related murders have dropped to their lowest point in a decade, and recent drug use surveys indicate that -- for the first time in years -- teen drug use is leveling off, and in some instances, modestly decreasing.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+956,All of this news is encouraging.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+957,"Nonetheless, much more can and needs to be done to continue to bring down drug use and increase public safety.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+958,"With more than half the offenders in our criminal justice system estimated to have a substance abuse problem, enforcing coerced abstinence within the criminal justice system is critical to breaking the cycle of crime and drugs.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+959,My Administration consistently has promoted testing offenders and requiring treatment as a means of reducing recidivism and drug-related crime.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+960,"We have worked to expand the number of Drug Courts throughout the country, increased the number of federal arrestees and prisoners who are tested and treated for drugs, and launched an innovative ""Breaking the Cycle"" initiative, which is a rigorous program of testing, treatment, supervision, and sanctions for offenders at all stages of the criminal justice process.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+961,"And under your leadership, the Federal Bureau of Prisons provides models of excellence in drug detection, inmate testing, and drug treatment.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+962,"We can do still more to enforce coerced abstinence among state prisoners, probationers, and parolees.",0,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+963,"When a drug user ends up in a state prison, we have a chance to break his or her addiction.",0,1.0,,,,,0.0,0.0,,0.0
+964,Convicted offenders who undergo drug testing and treatment while incarcerated and after release are approximately twice as likely to stay drug- and crime-free as those offenders who do not receive testing and treatment.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+965,"But when drug use inside prisons is ignored, the demand for drugs runs high.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+966,"In this environment, correction officials struggle to keep their prisons drug-free.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+967,Often drugs are smuggled in by visitors; sometimes even by compromised correctional staff.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+968,"To maintain order in our prisons, to make effective treatment possible, and to reduce drug-related crime, we can not tolerate drug use and trafficking within the nation's prisons.",0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+969,"Thus, I direct you to:",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+970,"(1) Amend the guidelines requiring states receiving federal prison construction grants to submit plans for drug testing, intervention, and treatment to include a requirement that states also submit a baseline report of their prison drug abuse problem.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+971,"In every subsequent year, states will be required to update and expand this information in order to measure the progress they are making towards ridding their correctional facilities of drugs and reducing drug use among offenders under criminal justice supervision.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+972,"(2) Draft and transmit to the Congress legislation that will permit states to use their federal prison construction and substance abuse treatment funds to provide a full range of drug testing, drug treatment, and sanctions for offenders under criminal justice supervision.",1,0.0,,,,,1.0,1.0,,1.0
+973,"In consultation with states, draft and transmit to the Congress legislation that requires states to enact stiffer penalties for drug trafficking into and within correctional facilities.",1,1.0,,,,,0.0,1.0,,1.0
+974,"To the best of my knowledge and efforts this has been signed off on by DOJ, ONDCP and WH Counsel.",1,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+975,"Some of the added language on ""enforcing coerced abstinence"" are Rahm's rhetorical flourishes.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+976,The new language also alludes to including probationers in bullets #1 and #2 (mine and ONDCP's addition; Justice is okay though).,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+977,"This version was forwarded to General McCaffrey tonight for one ""final"" eyeball.",1,0.0,,,,,1.0,1.0,,1.0
+978,I told ONDCP he'll have to speak to Rahm tomorrow if he has any serious concerns.,1,1.0,,,,,0.0,0.0,,0.0
+979,Rahm: I'll drop the other paper off to you tonight before I leave.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+980,Rahm asked Leanne and I to re-draft the state prisons drug directive that's been on the shelf for some months now and get him a copy today.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+981,I just dropped off the attached version and faxed it to DOJ and ONDCP.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+982,"Originally, he wanted it for the radio address, but I think that's no longer in play.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+983,"Instead, I believe he wants the directive's imminent signature to make into the coverage tomorrow night on Joe Califano's speech on this topic at the Press Club.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+984,"Also, please note that while the concepts in the directive were originally proposed by DOJ -baseline requirement, promoting increased penalties from smuggling drugs into prisons and using prison construction funds for testing/treatment -- our directive proposes a slightly different mechanism.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+985,I'm suggesting that funds made available to states for testing/treatment be contigent on their enacting tougher penalties for smuggling drugs into prisons (equivalent to what's in the Crime Bill.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+986,1. Make it a condition of federal education funds â€“ or perhaps Safe & Drugfree funds â€“ that schools have an effective policy of removing disruptive students from the classroom.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+987,Not that toothless compromise from IDEA.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+988,We need a good values issue -- I'm sure y'all can work it out.,1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
+989,2. Drug testing (and treatment): I'll send you a chart on the success of random drug testing in the military.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+990,Use has dropped from over 25% in 1981 when the program started to 3% in 1995 -- which is one-third the civilian rate.,0,0.0,,,,,0.0,0.0,early exit: A1 and A2 agree,0.0
+991,"We should find a way to help employers do this (either a handbook or a program), and come up with another proposal for the criminal justice system.",1,1.0,,,,,1.0,1.0,early exit: A1 and A2 agree,1.0
